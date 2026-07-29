@@ -6,7 +6,32 @@
 
 ## 📝 Problem Statement
 
-Add one to a number represented by LLGiven the head of a singly linked list representing a positive integer number. Each node of the linked list represents a digit of the number, with the 1st node containing the leftmost digit of the number and so on. The task is to add one to the value represented by the linked list and return the head of a linked list containing the final value.The number will contain no leading zeroes except when the value represented is zero itself.Example 1Input: head -&gt; 1 -&gt; 2 -&gt; 3Output: head -&gt; 1 -&gt; 2 -&gt; 4Explanation: The number represented by the linked list = 123.123 + 1 = 124.Example 2Input: head -&gt; 9 -&gt; 9Output: head -&gt; 1 -&gt; 0 -&gt; 0Explanation: The number represented by the linked list = 99.99 + 1 = 100.Example 3Input: head -&gt; 9Output:head -&gt; 1 -&gt; 0Constraints0 &lt;= number of nodes in the Linked List &lt;= 1050 &lt;= ListNode.val &lt;= 9No leading zeroes in the value represented.HintsFrequently Occurring DoubtsInterview Follow-upsFun FactsExtras
+Given the **head**of a singly linked list representing a positive** integer**number.** Each**node of the linked list represents a** digit**of the number, with the 1st node containing the leftmost digit of the number and so on. The task is to** add one **to the value represented by the linked list and**return**the head of a linked list containing the final value.
+
+The number will contain **no**leading zeroes except when the value represented is** zero**itself.
+
+### Example 1
+
+<p>
+**Input:** head -> 1 -> 2 -> 3</p><p>**Output:** head -> 1 -> 2 -> 4</p><p>**Explanation:**  The number represented by the linked list = 123.</p>123 + 1 = 124.
+
+### Example 2
+
+<p>
+**Input:** head -> 9 -> 9</p><p>**Output:** head -> 1 -> 0 -> 0</p><p>**Explanation:**  The number represented by the linked list = 99.</p>99 + 1 = 100.
+
+### Example 3
+
+<p>
+**Input:**  head -> 9</p>Output:
+
+head -> 1 -> 0
+
+### Constraints
+
+- 0 <= number of nodes in the Linked List <= 10^5
+- 0 <= ListNode.val <= 9
+- No leading zeroes in the value represented.
 
 ---
 
