@@ -6,13 +6,15 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **0** | 0 | 0 | 0 | `-` |
+| **1** | 0 | 0 | 1 | `2026-07-29` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-*No solutions synced yet. Submit a problem on TUF+ to get started!*
+| # | Title | Solution(s) | Difficulty | Category |
+| :---: | :--- | :---: | :---: | :--- |
+| 0001 | [Letter Combinations of a Phone Number](./DSA/Recursion/letter-combinations-of-a-phone-number) | [JAVA](./DSA/Recursion/letter-combinations-of-a-phone-number/solution.java) | 🔴 Hard | `DSA` / `Recursion` |
 
 ---
 *Generated with ❤️ by [Mohit Arora](https://github.com/Arora-Sir) using [TUFHub](https://github.com/Arora-Sir/TUFHub)*
