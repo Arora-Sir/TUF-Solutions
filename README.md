@@ -20,4 +20,7 @@
 | 0004 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 
 ---
-*Generated with ❤️ by [Mohit Arora](https://github.com/Arora-Sir) using [TUFHub](https://github.com/Arora-Sir/TUFHub) | Practice on [TakeUForward (TUF+)](https://takeuforward.org/plus?affiliate=arorasir) | ⭐ [Star TUFHub](https://github.com/Arora-Sir/TUFHub)*
+
+<p align="center">
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> using <a href="https://github.com/Arora-Sir/TUFHub">TUFHub</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub</a>
+</p>
