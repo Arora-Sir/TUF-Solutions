@@ -13,20 +13,27 @@ The number will contain **no** leading zeroes except when the value represented 
 ### Example 1
 
 <p>
+
 **Input:** head -> 1 -> 2 -> 3</p><p>
+
 **Output:** head -> 1 -> 2 -> 4</p><p>
+
 **Explanation:** The number represented by the linked list = 123.</p>123 + 1 = 124.
 
 ### Example 2
 
 <p>
+
 **Input:** head -> 9 -> 9</p><p>
+
 **Output:** head -> 1 -> 0 -> 0</p><p>
+
 **Explanation:** The number represented by the linked list = 99.</p>99 + 1 = 100.
 
 ### Example 3
 
 <p>
+
 **Input:** head -> 9</p>Output:
 
 head -> 1 -> 0
