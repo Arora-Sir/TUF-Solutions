@@ -16,7 +16,7 @@
 | :---: | :--- | :---: | :---: | :--- |
 | 0001 | [Add one to a number represented by LL](./DSA/Linked-List/add-one-to-a-number-represented-by-ll) | [JAVA](./DSA/Linked-List/add-one-to-a-number-represented-by-ll/solution.java) | 🟡 Medium | `DSA` |
 | 0002 | [Find Middle of Linked List](./DSA/Linked-List/find-middle-of-linked-list) | [JAVA](./DSA/Linked-List/find-middle-of-linked-list/solution.java) | 🟢 Easy | `DSA` |
-| 0003 | [Letter Combinations of a Phone Number](./DSA/Recursion/FAQs-Medium/letter-combinations-of-a-phone-number) | [CODE](./DSA/Recursion/FAQs-Medium/letter-combinations-of-a-phone-number/undefined) | 🔴 Hard | `DSA` |
+| 0003 | [Letter Combinations of a Phone Number](./DSA/Recursion/letter-combinations-of-a-phone-number) | [JAVA](./DSA/Recursion/letter-combinations-of-a-phone-number/solution.java) | 🔴 Hard | `DSA` |
 
 ---
 *Generated with ❤️ by [Mohit Arora](https://github.com/Arora-Sir) using [TUFHub](https://github.com/Arora-Sir/TUFHub)*
