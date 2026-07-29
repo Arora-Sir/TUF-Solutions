@@ -19,4 +19,4 @@
 | 0003 | [Letter Combinations of a Phone Number](./DSA/Recursion/FAQs-Medium/letter-combinations-of-a-phone-number) | [CODE](./DSA/Recursion/FAQs-Medium/letter-combinations-of-a-phone-number/undefined) | 🔴 Hard | `DSA` |
 
 ---
-*Generated with ❤️ by [TUFHub](https://github.com/Arora-Sir/TUFHub)*
+*Generated with ❤️ by [Mohit Arora](https://github.com/Arora-Sir) using [TUFHub](https://github.com/Arora-Sir/TUFHub)*
