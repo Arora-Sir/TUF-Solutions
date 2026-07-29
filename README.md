@@ -1,6 +1,6 @@
 # 🚀 TUF-Solutions
 
-> Auto-synced using [TUFHub](https://github.com/Arora-Sir/TUFHub) - TakeUForward (TUF+) Solutions Repository
+> Auto-synced using [TUFHub](https://github.com/Arora-Sir/TUFHub) - Solutions for [TakeUForward (TUF+)](https://takeuforward.org/plus?affiliate=arorasir)
 
 ## 📊 Solution Progress Summary
 
@@ -20,4 +20,4 @@
 | 0004 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 
 ---
-*Generated with ❤️ by [Mohit Arora](https://github.com/Arora-Sir) using [TUFHub](https://github.com/Arora-Sir/TUFHub)*
+*Generated with ❤️ by [Mohit Arora](https://github.com/Arora-Sir) using [TUFHub](https://github.com/Arora-Sir/TUFHub) | Practice on [TakeUForward (TUF+)](https://takeuforward.org/plus?affiliate=arorasir) | ⭐ [Star TUFHub](https://github.com/Arora-Sir/TUFHub)*
