@@ -23,16 +23,19 @@ class ListNode {
 class Solution {
     public ListNode deleteMiddle(ListNode head) {
         if(head == null || head.next == null) return null;
-        ListNode slowPointerPrev = head;
+        // ListNode slowPointerPrev = head;
         ListNode slowPointer = head;
-        ListNode fastPointer = head;
+        // ListNode fastPointer = head;
+        ListNode fastPointer = head.next.next;
+
         while(fastPointer!=null && fastPointer.next!=null){
-            slowPointerPrev = slowPointer;
+            // slowPointerPrev = slowPointer;
             slowPointer = slowPointer.next;
             fastPointer = fastPointer.next.next;
         }
-        slowPointerPrev.next=slowPointer.next;
-        slowPointer.next = null;
+        // slowPointerPrev.next=slowPointer.next;
+        // slowPointer.next = null;
+        slowPointer.next = slowPointer.next.next;
         return head;
 
     }
