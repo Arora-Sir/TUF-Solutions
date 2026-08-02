@@ -1,4 +1,4 @@
-# [Detect a loop in LL](https://takeuforward.org/plus/dsa/problems/detect-a-loop-in-ll?subject=dsa&approach=optimal&tab=submissions)
+# [Detect a loop in LL](https://takeuforward.org/plus/dsa/problems/detect-a-loop-in-ll?subject=dsa&approach=optimal&tab=editorial)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
