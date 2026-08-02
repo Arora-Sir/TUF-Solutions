@@ -22,7 +22,8 @@ class ListNode {
 
 class Solution {
     public boolean hasCycle(ListNode head) {
-        //Brute: (Below) && Optimial would be using Slow & Fast Pointers
+        //Brute: (Below)
+        // Optimial would be using Slow & Fast Pointers : Distance between fast and slow (not slow and fast) will be: d ; d-1 ; d-2...
         HashSet<ListNode> set = new HashSet();
         ListNode curr = head;
         while(curr!=null){
