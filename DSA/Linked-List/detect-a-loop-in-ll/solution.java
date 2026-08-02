@@ -22,6 +22,7 @@ class ListNode {
 
 class Solution {
     public boolean hasCycle(ListNode head) {
+        //Brute: (Below) && Optimial would be using Slow & Fast Pointers
         HashSet<ListNode> set = new HashSet();
         ListNode curr = head;
         while(curr!=null){
