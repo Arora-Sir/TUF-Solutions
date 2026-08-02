@@ -25,7 +25,6 @@ class Solution {
         HashSet<ListNode> set = new HashSet();
         ListNode curr = head;
         while(curr!=null){
-            if(curr == null) return false;
             if(set.contains(curr)){
                 return true;
             }
