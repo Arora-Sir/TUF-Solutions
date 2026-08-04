@@ -22,23 +22,24 @@ class ListNode {
 
  class Solution {
      public int findLengthOfLoop(ListNode head) {
-        HashSet<ListNode> set = new HashSet();
+        int count = 0;
+        HashMap<ListNode,Integer> map = new HashMap();
         ListNode curr = head;
         boolean startFound = false;
         ListNode startLoopNode = null;
-        int count = 0;
         while(curr!=null){
-            if(set.contains(curr)){
-                if(startFound && curr == startLoopNode) return count;
-                if(!startFound){
-                    startFound = true;
-                    startLoopNode = curr;
-                }
+            if(map.containsKey(curr)){
+                return count-map.get(curr)+1;
+                // if(startFound && curr == startLoopNode) return count;
+                // if(!startFound){
+                    // startFound = true;
+                    // startLoopNode = curr;
+                // }
             }
-            if(startFound){
-                count++;
-            }
-            set.add(curr);
+            // if(startFound){
+            //     count++;
+            // }
+            map.put(curr,++count);
             curr=curr.next;
         }
         return 0;
