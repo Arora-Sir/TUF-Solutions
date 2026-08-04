@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **9** | 1 | 7 | 1 | `2026-08-03` |
+| **10** | 1 | 8 | 1 | `2026-08-04` |
 
 ---
 
@@ -21,8 +21,9 @@
 | 0005 | [Find Middle of Linked List](./DSA/Linked-List/find-middle-of-linked-list) | [JAVA](./DSA/Linked-List/find-middle-of-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
 | 0006 | [Find the intersection point of Y LL](./DSA/Linked-List/find-the-intersection-point-of-y-ll) | [JAVA](./DSA/Linked-List/find-the-intersection-point-of-y-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0007 | [Find the starting point in LL](./DSA/Linked-List/find-the-starting-point-in-ll) | [JAVA](./DSA/Linked-List/find-the-starting-point-in-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
-| 0008 | [Letter Combinations of a Phone Number](./DSA/Recursion/letter-combinations-of-a-phone-number) | [JAVA](./DSA/Recursion/letter-combinations-of-a-phone-number/solution.java) | 🔴 Hard | `DSA` / `Recursion` |
-| 0009 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
+| 0008 | [Length of loop in LL](./DSA/Linked-List/length-of-loop-in-ll) | [JAVA](./DSA/Linked-List/length-of-loop-in-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
+| 0009 | [Letter Combinations of a Phone Number](./DSA/Recursion/letter-combinations-of-a-phone-number) | [JAVA](./DSA/Recursion/letter-combinations-of-a-phone-number/solution.java) | 🔴 Hard | `DSA` / `Recursion` |
+| 0010 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 
 ---
 
