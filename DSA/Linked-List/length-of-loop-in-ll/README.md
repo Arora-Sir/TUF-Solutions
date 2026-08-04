@@ -1,4 +1,4 @@
-# [Length of loop in LL](https://takeuforward.org/plus/dsa/problems/length-of-loop-in-ll?subject=dsa&approach=optimal&sidebar=open&tab=submissions)
+# [Length of loop in LL](https://takeuforward.org/plus/dsa/problems/length-of-loop-in-ll?subject=dsa&approach=brute&sidebar=open&tab=submissions)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
