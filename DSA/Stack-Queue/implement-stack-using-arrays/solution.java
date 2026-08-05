@@ -2,7 +2,7 @@ class ArrayStack {
     private int[] stackArray;
     private int capacity;
     private int topIndex;
-
+ 
     public ArrayStack(int size) {
         capacity = size;
         stackArray = new int[capacity];
