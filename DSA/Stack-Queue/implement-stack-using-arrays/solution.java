@@ -7,7 +7,7 @@ class ArrayStack {
         capacity = size;
         stackArray = new int[capacity];
         topIndex =-1;
-        
+
     } 
 
     public ArrayStack() {
