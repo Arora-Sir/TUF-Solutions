@@ -1,7 +1,7 @@
 class QueueStack {
     // Queue
     Queue<Integer> q = new LinkedList<>();
-  
+    
     // Method to push element in the stack
     public void push(int x) {
         // Get size
