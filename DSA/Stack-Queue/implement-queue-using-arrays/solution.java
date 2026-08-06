@@ -27,7 +27,6 @@ class ArrayQueue {
 
         arr[end] = x;
         currSize++;
-
     }
 
     public int pop() {
