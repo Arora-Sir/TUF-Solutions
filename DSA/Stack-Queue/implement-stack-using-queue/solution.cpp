@@ -11,7 +11,7 @@ public:
         // Get size 
         int s = q.size(); 
         // Add element
-        q.push(x); 
+        q.push(x);  
 
         // Move elements before new element to back
         for (int i = 0; i < s; i++) {
