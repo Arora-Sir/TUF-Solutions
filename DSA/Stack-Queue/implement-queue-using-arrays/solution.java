@@ -27,7 +27,7 @@ class ArrayQueue {
 
         arr[end] = x;
         currSize++;
-        
+
     }
 
     public int pop() {
@@ -44,7 +44,7 @@ class ArrayQueue {
         else {
             start = (start + 1) % maxSize;
         }
-
+ 
         currSize--;
         return popped;
     }
