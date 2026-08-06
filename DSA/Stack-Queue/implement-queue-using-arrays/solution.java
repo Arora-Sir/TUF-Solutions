@@ -53,7 +53,7 @@ class ArrayQueue {
             System.out.println("Queue is Empty");
             System.exit(1);
         }
-        return arr[start];
+        return arr[start]; 
     }
 
     public boolean isEmpty() {
