@@ -43,7 +43,7 @@ class ArrayQueue {
         else {
             start = (start + 1) % maxSize;
         }
- 
+
         currSize--;
         return popped;
     }
@@ -60,3 +60,4 @@ class ArrayQueue {
         return (currSize == 0);
     }
 }
+ 
