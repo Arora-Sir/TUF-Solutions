@@ -1,38 +1,43 @@
 class QueueStack {
     // Queue
-    Queue<Integer> q = new LinkedList<>();
+    queue<int> q;
+
+public:
+    QueueStack() {
+    }
 
     // Method to push element in the stack
-    public void push(int x) {
-        // Get size
-        int s = q.size();
+    void push(int x) {
+        // Get size 
+        int s = q.size(); 
         // Add element
-        q.add(x);
+        q.push(x); 
 
         // Move elements before new element to back
         for (int i = 0; i < s; i++) {
-            q.add(q.poll());
+            q.push(q.front()); 
+            q.pop(); 
         }
     }
 
     // Method to pop element from stack
-    public int pop() {
-        // Get front element
-        int n = q.peek();
+    int pop() {
+        // Get front element 
+        int n = q.front(); 
         // Remove front element
-        q.poll();
+        q.pop(); 
         // Return removed element
-        return n;
+        return n; 
     }
 
     // Method to return the top of stack
-    public int top() {
+    int top() {
         // Return front element
-        return q.peek();
+        return q.front(); 
     }
 
     // Method to check if the stack is empty
-    public boolean isEmpty() {
-        return q.isEmpty();
+    bool isEmpty() {
+        return q.empty(); 
     }
-}
+};
