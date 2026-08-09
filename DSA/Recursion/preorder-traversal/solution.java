@@ -16,7 +16,7 @@ class Solution {
     }
 
     private void preorderHelper(TreeNode node, List<Integer> ans) {
-        if (node == null) return;
+        if (node == null) return; 
         ans.add(node.data);
         preorderHelper(node.left, ans);
         preorderHelper(node.right, ans);
