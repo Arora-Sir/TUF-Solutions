@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **15** | 6 | 8 | 1 | `2026-08-09` |
+| **16** | 7 | 8 | 1 | `2026-08-10` |
 
 ---
 
@@ -27,8 +27,9 @@
 | 0011 | [Inorder Traversal](./DSA/Recursion/inorder-traversal) | [JAVA](./DSA/Recursion/inorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Recursion` |
 | 0012 | [Length of loop in LL](./DSA/Linked-List/length-of-loop-in-ll) | [JAVA](./DSA/Linked-List/length-of-loop-in-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0013 | [Letter Combinations of a Phone Number](./DSA/Recursion/letter-combinations-of-a-phone-number) | [JAVA](./DSA/Recursion/letter-combinations-of-a-phone-number/solution.java) | 🔴 Hard | `DSA` / `Recursion` |
-| 0014 | [Preorder Traversal](./DSA/Recursion/preorder-traversal) | [JAVA](./DSA/Recursion/preorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Recursion` |
-| 0015 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
+| 0014 | [Postorder Traversal](./DSA/Recursion/postorder-traversal) | [JAVA](./DSA/Recursion/postorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Recursion` |
+| 0015 | [Preorder Traversal](./DSA/Recursion/preorder-traversal) | [JAVA](./DSA/Recursion/preorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Recursion` |
+| 0016 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 
 ---
 
