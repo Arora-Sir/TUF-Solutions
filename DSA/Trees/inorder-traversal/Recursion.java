@@ -10,15 +10,22 @@
 
 class Solution {
     public List<Integer> inorder(TreeNode root) {
-        List<Integer> ans = new ArrayList<>();
-        inorderHelper(root, ans);
-        return ans;
-    }
-
-    private void inorderHelper(TreeNode node, List<Integer> ans) {
-        if (node == null) return; 
-        inorderHelper(node.left, ans);
-        ans.add(node.data);
-        inorderHelper(node.right, ans); 
+        List<Integer> inorder = new ArrayList<>();
+        Stack<TreeNode> st = new Stack<>();
+        TreeNode node = root;
+        while (true) {
+            if (node != null) {
+                st.push(node);
+                node = node.left;
+            } else {
+                if (st.isEmpty()) {
+                    break;
+                }
+                node = st.pop();
+                inorder.add(node.data);
+                node = node.right;
+            }
+        }
+        return inorder;
     }
 }
