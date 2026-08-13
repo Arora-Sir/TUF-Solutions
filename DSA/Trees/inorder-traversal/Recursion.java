@@ -19,6 +19,6 @@ class Solution {
         if (node == null) return; 
         inorderHelper(node.left, ans);
         ans.add(node.data);
-        inorderHelper(node.right, ans);
+        inorderHelper(node.right, ans); 
     }
 }
