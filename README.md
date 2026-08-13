@@ -28,7 +28,7 @@
 | 0012 | [Length of loop in LL](./DSA/Linked-List/length-of-loop-in-ll) | [JAVA](./DSA/Linked-List/length-of-loop-in-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0013 | [Letter Combinations of a Phone Number](./DSA/Recursion/letter-combinations-of-a-phone-number) | [JAVA](./DSA/Recursion/letter-combinations-of-a-phone-number/solution.java) | 🔴 Hard | `DSA` / `Recursion` |
 | 0014 | [Level Order Traversal](./DSA/Trees/level-order-traversal) | [JAVA](./DSA/Trees/level-order-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
-| 0015 | [Postorder Traversal](./DSA/Recursion/postorder-traversal) | [JAVA](./DSA/Recursion/postorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Recursion` |
+| 0015 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [JAVA](./DSA/Trees/postorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
 | 0016 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [JAVA](./DSA/Trees/preorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
 | 0017 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 
