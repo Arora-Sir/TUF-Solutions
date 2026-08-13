@@ -32,6 +32,14 @@ Given the root of a binary tree, return the **level order** traversal of its nod
 
 <img src="https://static.takeuforward.org/content/ProblemSetter-6BBpQBUc">
 
+### Example 3
+
+<p>
+
+**Input:** root = [5, 1, 2, 8, null, 4, 5, null, 6]</p>Output:
+
+[ [5], [1, 2], [8, 4, 5], [6] ]
+
 ### Constraints
 
 - 0 <= Number of Nodes <= 2000

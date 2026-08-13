@@ -23,7 +23,7 @@ class Solution {
                 if(node.left!=null) levelQueue.add(node.left);
                 if(node.right!=null) levelQueue.add(node.right);
             }
-            ans.add(level);
+            ans.add(level); 
         }
         return ans;
     }
