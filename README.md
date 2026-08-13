@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **16** | 7 | 8 | 1 | `2026-08-12` |
+| **17** | 8 | 8 | 1 | `2026-08-13` |
 
 ---
 
@@ -24,12 +24,13 @@
 | 0008 | [Implement Queue using Arrays](./DSA/Stack-Queue/implement-queue-using-arrays) | [JAVA](./DSA/Stack-Queue/implement-queue-using-arrays/solution.java) | 🟢 Easy | `DSA` / `Stack-Queue` |
 | 0009 | [Implement Stack using Arrays](./DSA/Stack-Queue/implement-stack-using-arrays) | [JAVA](./DSA/Stack-Queue/implement-stack-using-arrays/solution.java) | 🟢 Easy | `DSA` / `Stack-Queue` |
 | 0010 | [Implement Stack using Queue](./DSA/Stack-Queue/implement-stack-using-queue) | [JAVA1](./DSA/Stack-Queue/implement-stack-using-queue/Java1.java) | 🟢 Easy | `DSA` / `Stack-Queue` |
-| 0011 | [Inorder Traversal](./DSA/Trees/inorder-traversal) | [Iterative](./DSA/Trees/inorder-traversal/Iterative.java) [JAVA](./DSA/Trees/inorder-traversal/solution.java) [Recursion](./DSA/Trees/inorder-traversal/Recursion.java) | 🟢 Easy | `DSA` / `Trees` |
+| 0011 | [Inorder Traversal](./DSA/Trees/inorder-traversal) | [ITERATIVE](./DSA/Trees/inorder-traversal/Iterative.java) [JAVA](./DSA/Trees/inorder-traversal/solution.java) [RECURSION](./DSA/Trees/inorder-traversal/Recursion.java) | 🟢 Easy | `DSA` / `Trees` |
 | 0012 | [Length of loop in LL](./DSA/Linked-List/length-of-loop-in-ll) | [JAVA](./DSA/Linked-List/length-of-loop-in-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0013 | [Letter Combinations of a Phone Number](./DSA/Recursion/letter-combinations-of-a-phone-number) | [JAVA](./DSA/Recursion/letter-combinations-of-a-phone-number/solution.java) | 🔴 Hard | `DSA` / `Recursion` |
-| 0014 | [Postorder Traversal](./DSA/Recursion/postorder-traversal) | [JAVA](./DSA/Recursion/postorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Recursion` |
-| 0015 | [Preorder Traversal](./DSA/Recursion/preorder-traversal) | [JAVA](./DSA/Recursion/preorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Recursion` |
-| 0016 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
+| 0014 | [Level Order Traversal](./DSA/General/level-order-traversal) | [JAVA](./DSA/General/level-order-traversal/solution.java) | 🟢 Easy | `DSA` |
+| 0015 | [Postorder Traversal](./DSA/Recursion/postorder-traversal) | [JAVA](./DSA/Recursion/postorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Recursion` |
+| 0016 | [Preorder Traversal](./DSA/Recursion/preorder-traversal) | [JAVA](./DSA/Recursion/preorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Recursion` |
+| 0017 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 
 ---
 
