@@ -1,4 +1,4 @@
-# [Diameter of Binary Tree](https://takeuforward.org/plus/dsa/problems/diameter-of-binary-tree?subject=dsa&approach=brute&tab=submissions)
+# [Diameter of Binary Tree](https://takeuforward.org/plus/dsa/problems/diameter-of-binary-tree?subject=dsa&approach=optimal&tab=submissions)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
