@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **20** | 9 | 10 | 1 | `2026-08-16` |
+| **21** | 9 | 11 | 1 | `2026-08-17` |
 
 ---
 
@@ -19,7 +19,7 @@
 | 0003 | [Check if two trees are identical or not](./DSA/Trees/check-if-two-trees-are-identical-or-not) | [JAVA](./DSA/Trees/check-if-two-trees-are-identical-or-not/solution.java) | 🟡 Medium | `DSA` / `Trees` |
 | 0004 | [Delete the middle node in LL](./DSA/Linked-List/delete-the-middle-node-in-ll) | [JAVA](./DSA/Linked-List/delete-the-middle-node-in-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0005 | [Detect a loop in LL](./DSA/Linked-List/detect-a-loop-in-ll) | [JAVA](./DSA/Linked-List/detect-a-loop-in-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
-| 0006 | [Diameter of Binary Tree](./DSA/Trees/diameter-of-binary-tree) | [Optimal](./DSA/Trees/diameter-of-binary-tree/Optimal.java) | 🟢 Easy | `DSA` / `Trees` |
+| 0006 | [Diameter of Binary Tree](./DSA/Trees/diameter-of-binary-tree) | [OPTIMAL](./DSA/Trees/diameter-of-binary-tree/Optimal.java) | 🟢 Easy | `DSA` / `Trees` |
 | 0007 | [Find Middle of Linked List](./DSA/Linked-List/find-middle-of-linked-list) | [JAVA](./DSA/Linked-List/find-middle-of-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
 | 0008 | [Find the intersection point of Y LL](./DSA/Linked-List/find-the-intersection-point-of-y-ll) | [JAVA](./DSA/Linked-List/find-the-intersection-point-of-y-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0009 | [Find the starting point in LL](./DSA/Linked-List/find-the-starting-point-in-ll) | [JAVA](./DSA/Linked-List/find-the-starting-point-in-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
@@ -31,9 +31,10 @@
 | 0015 | [Letter Combinations of a Phone Number](./DSA/Recursion/letter-combinations-of-a-phone-number) | [JAVA](./DSA/Recursion/letter-combinations-of-a-phone-number/solution.java) | 🔴 Hard | `DSA` / `Recursion` |
 | 0016 | [Level Order Traversal](./DSA/Trees/level-order-traversal) | [JAVA](./DSA/Trees/level-order-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
 | 0017 | [Maximum Depth in BT](./DSA/Trees/maximum-depth-in-bt) | [JAVA](./DSA/Trees/maximum-depth-in-bt/solution.java) | 🟡 Medium | `DSA` / `Trees` |
-| 0018 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [JAVA](./DSA/Trees/postorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
-| 0019 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [JAVA](./DSA/Trees/preorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
-| 0020 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
+| 0018 | [Maximum path sum](./DSA/Trees/maximum-path-sum) | [JAVA](./DSA/Trees/maximum-path-sum/solution.java) | 🟡 Medium | `DSA` / `Trees` |
+| 0019 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [JAVA](./DSA/Trees/postorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
+| 0020 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [JAVA](./DSA/Trees/preorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
+| 0021 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 
 ---
 
