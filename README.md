@@ -15,7 +15,7 @@
 | # | Title | Solution(s) | Difficulty | Category |
 | :---: | :--- | :---: | :---: | :--- |
 | 0001 | [Add one to a number represented by LL](./DSA/Linked-List/add-one-to-a-number-represented-by-ll) | [JAVA](./DSA/Linked-List/add-one-to-a-number-represented-by-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
-| 0002 | [Check for balanced binary tree](./DSA/Trees/check-for-balanced-binary-tree) | [Brute](./DSA/Trees/check-for-balanced-binary-tree/Brute.java) | 🟡 Medium | `DSA` / `Trees` |
+| 0002 | [Check for balanced binary tree](./DSA/Trees/check-for-balanced-binary-tree) | [Brute](./DSA/Trees/check-for-balanced-binary-tree/Brute.java) [Optimial](./DSA/Trees/check-for-balanced-binary-tree/Optimial.java) | 🟡 Medium | `DSA` / `Trees` |
 | 0003 | [Check for symmetrical BTs](./DSA/Trees/check-for-symmetrical-bts) | [JAVA](./DSA/Trees/check-for-symmetrical-bts/solution.java) | 🟡 Medium | `DSA` / `Trees` |
 | 0004 | [Check if LL is palindrome or not](./DSA/Linked-List/check-if-ll-is-palindrome-or-not) | [JAVA](./DSA/Linked-List/check-if-ll-is-palindrome-or-not/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0005 | [Check if two trees are identical or not](./DSA/Trees/check-if-two-trees-are-identical-or-not) | [JAVA](./DSA/Trees/check-if-two-trees-are-identical-or-not/solution.java) | 🟡 Medium | `DSA` / `Trees` |
@@ -28,7 +28,7 @@
 | 0012 | [Implement Queue using Arrays](./DSA/Stack-Queue/implement-queue-using-arrays) | [JAVA](./DSA/Stack-Queue/implement-queue-using-arrays/solution.java) | 🟢 Easy | `DSA` / `Stack-Queue` |
 | 0013 | [Implement Stack using Arrays](./DSA/Stack-Queue/implement-stack-using-arrays) | [JAVA](./DSA/Stack-Queue/implement-stack-using-arrays/solution.java) | 🟢 Easy | `DSA` / `Stack-Queue` |
 | 0014 | [Implement Stack using Queue](./DSA/Stack-Queue/implement-stack-using-queue) | [JAVA1](./DSA/Stack-Queue/implement-stack-using-queue/Java1.java) | 🟢 Easy | `DSA` / `Stack-Queue` |
-| 0015 | [Inorder Traversal](./DSA/Trees/inorder-traversal) | [ITERATIVE](./DSA/Trees/inorder-traversal/Iterative.java) [RECURSION](./DSA/Trees/inorder-traversal/Recursion.java) [JAVA](./DSA/Trees/inorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
+| 0015 | [Inorder Traversal](./DSA/Trees/inorder-traversal) | [ITERATIVE](./DSA/Trees/inorder-traversal/Iterative.java) [JAVA](./DSA/Trees/inorder-traversal/solution.java) [RECURSION](./DSA/Trees/inorder-traversal/Recursion.java) | 🟢 Easy | `DSA` / `Trees` |
 | 0016 | [Length of loop in LL](./DSA/Linked-List/length-of-loop-in-ll) | [JAVA](./DSA/Linked-List/length-of-loop-in-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0017 | [Letter Combinations of a Phone Number](./DSA/Recursion/letter-combinations-of-a-phone-number) | [JAVA](./DSA/Recursion/letter-combinations-of-a-phone-number/solution.java) | 🔴 Hard | `DSA` / `Recursion` |
 | 0018 | [Level Order Traversal](./DSA/Trees/level-order-traversal) | [JAVA](./DSA/Trees/level-order-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |

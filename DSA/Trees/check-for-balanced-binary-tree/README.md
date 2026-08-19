@@ -1,4 +1,4 @@
-# [Check for balanced binary tree](https://takeuforward.org/plus/dsa/problems/check-for-balanced-binary-tree?subject=dsa&approach=brute&tab=submissions)
+# [Check for balanced binary tree](https://takeuforward.org/plus/dsa/problems/check-for-balanced-binary-tree?subject=dsa&approach=optimal&tab=submissions)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
