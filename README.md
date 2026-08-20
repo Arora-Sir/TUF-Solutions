@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **23** | 9 | 13 | 1 | `2026-08-19` |
+| **24** | 10 | 13 | 1 | `2026-08-20` |
 
 ---
 
@@ -15,7 +15,7 @@
 | # | Title | Solution(s) | Difficulty | Category |
 | :---: | :--- | :---: | :---: | :--- |
 | 0001 | [Add one to a number represented by LL](./DSA/Linked-List/add-one-to-a-number-represented-by-ll) | [JAVA](./DSA/Linked-List/add-one-to-a-number-represented-by-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
-| 0002 | [Check for balanced binary tree](./DSA/Trees/check-for-balanced-binary-tree) | [Brute](./DSA/Trees/check-for-balanced-binary-tree/Brute.java) [Optimial](./DSA/Trees/check-for-balanced-binary-tree/Optimial.java) | 🟡 Medium | `DSA` / `Trees` |
+| 0002 | [Check for balanced binary tree](./DSA/Trees/check-for-balanced-binary-tree) | [BRUTE](./DSA/Trees/check-for-balanced-binary-tree/Brute.java) [OPTIMIAL](./DSA/Trees/check-for-balanced-binary-tree/Optimial.java) | 🟡 Medium | `DSA` / `Trees` |
 | 0003 | [Check for symmetrical BTs](./DSA/Trees/check-for-symmetrical-bts) | [JAVA](./DSA/Trees/check-for-symmetrical-bts/solution.java) | 🟡 Medium | `DSA` / `Trees` |
 | 0004 | [Check if LL is palindrome or not](./DSA/Linked-List/check-if-ll-is-palindrome-or-not) | [JAVA](./DSA/Linked-List/check-if-ll-is-palindrome-or-not/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0005 | [Check if two trees are identical or not](./DSA/Trees/check-if-two-trees-are-identical-or-not) | [JAVA](./DSA/Trees/check-if-two-trees-are-identical-or-not/solution.java) | 🟡 Medium | `DSA` / `Trees` |
@@ -35,8 +35,9 @@
 | 0019 | [Maximum Depth in BT](./DSA/Trees/maximum-depth-in-bt) | [JAVA](./DSA/Trees/maximum-depth-in-bt/solution.java) | 🟡 Medium | `DSA` / `Trees` |
 | 0020 | [Maximum path sum](./DSA/Trees/maximum-path-sum) | [JAVA](./DSA/Trees/maximum-path-sum/solution.java) | 🟡 Medium | `DSA` / `Trees` |
 | 0021 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [JAVA](./DSA/Trees/postorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
-| 0022 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [JAVA](./DSA/Trees/preorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
-| 0023 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
+| 0022 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [JAVA](./DSA/Trees/pre-post-inorder-in-one-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
+| 0023 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [JAVA](./DSA/Trees/preorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
+| 0024 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 
 ---
 
