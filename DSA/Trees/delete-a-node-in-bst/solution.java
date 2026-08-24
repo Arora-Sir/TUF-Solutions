@@ -4,6 +4,8 @@
  */
 class Solution {
   public TreeNode deleteNode(TreeNode root, int key) {
+    //The other way could be we can break the right chain direcly and attach it to the left subtree with the right most section (similar to bottom aaproach but with easy way)
+    
     if (root == null) return null;
 
     TreeNode currDelete = root;
