@@ -50,7 +50,7 @@ class Solution {
     if (parentEnd.right == currEnd) {
       parentEnd.right = currEnd.left; // as left could have exists of the right most child of left sub tree
     } else {
-      parentEnd.left = currEnd.left; //direct left child of currDelete case
+      parentEnd.left = currEnd.left; //direct left child of currDelete case (as no right exists of this subtree basically)
     }
 
     return root;
