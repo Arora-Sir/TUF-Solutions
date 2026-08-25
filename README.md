@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **28** | 12 | 15 | 1 | `2026-08-24` |
+| **28** | 12 | 15 | 1 | `2026-08-25` |
 
 ---
 
@@ -19,7 +19,7 @@
 | 0003 | [Check for symmetrical BTs](./DSA/Trees/check-for-symmetrical-bts) | [JAVA](./DSA/Trees/check-for-symmetrical-bts/solution.java) | 🟡 Medium | `DSA` / `Trees` |
 | 0004 | [Check if LL is palindrome or not](./DSA/Linked-List/check-if-ll-is-palindrome-or-not) | [JAVA](./DSA/Linked-List/check-if-ll-is-palindrome-or-not/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0005 | [Check if two trees are identical or not](./DSA/Trees/check-if-two-trees-are-identical-or-not) | [JAVA](./DSA/Trees/check-if-two-trees-are-identical-or-not/solution.java) | 🟡 Medium | `DSA` / `Trees` |
-| 0006 | [Delete a node in BST](./DSA/Trees/delete-a-node-in-bst) | [JAVA](./DSA/Trees/delete-a-node-in-bst/solution.java) | 🟡 Medium | `DSA` / `Trees` |
+| 0006 | [Delete a node in BST](./DSA/Trees/delete-a-node-in-bst) | [Optimal](./DSA/Trees/delete-a-node-in-bst/Optimal.java) | 🟡 Medium | `DSA` / `Trees` |
 | 0007 | [Delete the middle node in LL](./DSA/Linked-List/delete-the-middle-node-in-ll) | [JAVA](./DSA/Linked-List/delete-the-middle-node-in-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0008 | [Detect a loop in LL](./DSA/Linked-List/detect-a-loop-in-ll) | [JAVA](./DSA/Linked-List/detect-a-loop-in-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0009 | [Diameter of Binary Tree](./DSA/Trees/diameter-of-binary-tree) | [OPTIMAL](./DSA/Trees/diameter-of-binary-tree/Optimal.java) | 🟢 Easy | `DSA` / `Trees` |
