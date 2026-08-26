@@ -10,8 +10,9 @@
 
 class Solution {
     public List<Integer> kLargesSmall(TreeNode root, int k) {
-        // Optimal: Inorder -> nomral kth smallest & reverse for kth largest.
+        // Optimal: Inorder -> normal kth smallest & reverse for kth largest.
 
+        //Use array or global variables to store the count
         int[] smallest = {0, 0}; //count for kth number, ans
         int[] largest = {0, 0};
 
