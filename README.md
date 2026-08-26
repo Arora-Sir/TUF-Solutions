@@ -32,7 +32,7 @@
 | 0016 | [Implement Stack using Queue](./DSA/Stack-Queue/implement-stack-using-queue) | [JAVA1](./DSA/Stack-Queue/implement-stack-using-queue/Java1.java) | 🟢 Easy | `DSA` / `Stack-Queue` |
 | 0017 | [Inorder Traversal](./DSA/Trees/inorder-traversal) | [ITERATIVE](./DSA/Trees/inorder-traversal/Iterative.java) [JAVA](./DSA/Trees/inorder-traversal/solution.java) [RECURSION](./DSA/Trees/inorder-traversal/Recursion.java) | 🟢 Easy | `DSA` / `Trees` |
 | 0018 | [Insert a given node in BST](./DSA/Trees/insert-a-given-node-in-bst) | [JAVA](./DSA/Trees/insert-a-given-node-in-bst/solution.java) | 🟡 Medium | `DSA` / `Trees` |
-| 0019 | [Kth Smallest and Largest element in BST](./DSA/Trees/kth-smallest-and-largest-element-in-bst) | [Better](./DSA/Trees/kth-smallest-and-largest-element-in-bst/Better.java) | 🟡 Medium | `DSA` / `Trees` |
+| 0019 | [Kth Smallest and Largest element in BST](./DSA/Trees/kth-smallest-and-largest-element-in-bst) | [Better](./DSA/Trees/kth-smallest-and-largest-element-in-bst/Better.java) [Optimal](./DSA/Trees/kth-smallest-and-largest-element-in-bst/Optimal.java) | 🟡 Medium | `DSA` / `Trees` |
 | 0020 | [Length of loop in LL](./DSA/Linked-List/length-of-loop-in-ll) | [JAVA](./DSA/Linked-List/length-of-loop-in-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0021 | [Letter Combinations of a Phone Number](./DSA/Recursion/letter-combinations-of-a-phone-number) | [JAVA](./DSA/Recursion/letter-combinations-of-a-phone-number/solution.java) | 🔴 Hard | `DSA` / `Recursion` |
 | 0022 | [Level Order Traversal](./DSA/Trees/level-order-traversal) | [JAVA](./DSA/Trees/level-order-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |

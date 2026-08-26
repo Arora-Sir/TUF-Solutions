@@ -1,4 +1,4 @@
-# [Kth Smallest and Largest element in BST](https://takeuforward.org/plus/dsa/problems/kth-smallest-and-largest-element-in-bst?subject=dsa&approach=ceiling&tab=submissions)
+# [Kth Smallest and Largest element in BST](https://takeuforward.org/plus/dsa/problems/kth-smallest-and-largest-element-in-bst?subject=dsa&approach=optimal&tab=submissions)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
