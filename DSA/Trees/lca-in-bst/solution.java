@@ -10,7 +10,7 @@
 
 class Solution {
     public TreeNode lca(TreeNode root, int p, int q) {
-        // if((root.data>p && root.data<q) || (root.data<p && root.data>q)) return root;
+        // if((root.data>p && root.data<q) || (root.data<p && root.data>q)) return root; 
         if (root == null) return null; //ancestor not found
         if(p<root.data && q<root.data) return lca(root.left,p,q);
         if(p>root.data && q>root.data) return lca(root.right,p,q);

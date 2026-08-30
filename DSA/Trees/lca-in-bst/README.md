@@ -1,4 +1,4 @@
-# [LCA in BST](https://takeuforward.org/plus/dsa/problems/lca-in-bst?subject=dsa&approach=brute&tab=submissions)
+# [LCA in BST](https://takeuforward.org/plus/dsa/problems/lca-in-bst?subject=dsa&approach=optimal&tab=submissions)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
