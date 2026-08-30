@@ -2,7 +2,7 @@
  * Definition for a binary tree node.
  * public class TreeNode {
  *     int data;
- *     TreeNode left;
+ *     TreeNode left; 
  *     TreeNode right;
  *     TreeNode(int val) { data = val; left = null, right = null }
  * }
@@ -20,8 +20,8 @@ class Solution {
         inOrderTraversal(root.left,ans,key);
 
         if(root.data < key){ ans.set(0,root.data);}
-        else if(root.data > key && ans.get(1) == -1){ ans.set(1,root.data); return;}
-
+        else if(root.data > key && ans.get(1) == -1){ ans.set(1,root.data); return;} 
+ 
         inOrderTraversal(root.right,ans,key);
     }
 }
