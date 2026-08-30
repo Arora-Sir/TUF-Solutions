@@ -13,7 +13,7 @@ class Solution {
         //If its normal BT then we can do this below approach, but as its a BST we can directly follow the path along the way finding predeceor and successor.
         List<Integer> ans = Arrays.asList(-1,-1);
         inOrderTraversal(root,ans, key); //O(n)
-        return ans;
+        return ans; 
     }
     private void inOrderTraversal(TreeNode root, List<Integer> ans,int key){
         if(root == null) return;
