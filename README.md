@@ -15,27 +15,27 @@
 | # | Title | Solution(s) | Difficulty | Category |
 | :---: | :--- | :---: | :---: | :--- |
 | 0001 | [Add one to a number represented by LL](./DSA/Linked-List/add-one-to-a-number-represented-by-ll) | [JAVA](./DSA/Linked-List/add-one-to-a-number-represented-by-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
-| 0002 | [Check for balanced binary tree](./DSA/Trees/check-for-balanced-binary-tree) | [BRUTE](./DSA/Trees/check-for-balanced-binary-tree/Brute.java) [OPTIMIAL](./DSA/Trees/check-for-balanced-binary-tree/Optimial.java) | 🟡 Medium | `DSA` / `Trees` |
+| 0002 | [Check for balanced binary tree](./DSA/Trees/check-for-balanced-binary-tree) | [Brute](./DSA/Trees/check-for-balanced-binary-tree/Brute.java) [Optimial](./DSA/Trees/check-for-balanced-binary-tree/Optimial.java) | 🟡 Medium | `DSA` / `Trees` |
 | 0003 | [Check for symmetrical BTs](./DSA/Trees/check-for-symmetrical-bts) | [JAVA](./DSA/Trees/check-for-symmetrical-bts/solution.java) | 🟡 Medium | `DSA` / `Trees` |
 | 0004 | [Check if a tree is a BST or not](./DSA/Trees/check-if-a-tree-is-a-bst-or-not) | [JAVA](./DSA/Trees/check-if-a-tree-is-a-bst-or-not/solution.java) | 🟡 Medium | `DSA` / `Trees` |
 | 0005 | [Check if LL is palindrome or not](./DSA/Linked-List/check-if-ll-is-palindrome-or-not) | [JAVA](./DSA/Linked-List/check-if-ll-is-palindrome-or-not/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0006 | [Check if two trees are identical or not](./DSA/Trees/check-if-two-trees-are-identical-or-not) | [JAVA](./DSA/Trees/check-if-two-trees-are-identical-or-not/solution.java) | 🟡 Medium | `DSA` / `Trees` |
 | 0007 | [Construct a BST from a preorder traversal](./DSA/Trees/construct-a-bst-from-a-preorder-traversal) | [JAVA](./DSA/Trees/construct-a-bst-from-a-preorder-traversal/solution.java) | 🟡 Medium | `DSA` / `Trees` |
-| 0008 | [Delete a node in BST](./DSA/Trees/delete-a-node-in-bst) | [OPTIMAL](./DSA/Trees/delete-a-node-in-bst/Optimal.java) | 🟡 Medium | `DSA` / `Trees` |
+| 0008 | [Delete a node in BST](./DSA/Trees/delete-a-node-in-bst) | [Optimal](./DSA/Trees/delete-a-node-in-bst/Optimal.java) [JAVA](./DSA/Trees/delete-a-node-in-bst/solution.java) | 🟡 Medium | `DSA` / `Trees` |
 | 0009 | [Delete the middle node in LL](./DSA/Linked-List/delete-the-middle-node-in-ll) | [JAVA](./DSA/Linked-List/delete-the-middle-node-in-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0010 | [Detect a loop in LL](./DSA/Linked-List/detect-a-loop-in-ll) | [JAVA](./DSA/Linked-List/detect-a-loop-in-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
-| 0011 | [Diameter of Binary Tree](./DSA/Trees/diameter-of-binary-tree) | [OPTIMAL](./DSA/Trees/diameter-of-binary-tree/Optimal.java) | 🟢 Easy | `DSA` / `Trees` |
+| 0011 | [Diameter of Binary Tree](./DSA/Trees/diameter-of-binary-tree) | [Optimal](./DSA/Trees/diameter-of-binary-tree/Optimal.java) | 🟢 Easy | `DSA` / `Trees` |
 | 0012 | [Find Middle of Linked List](./DSA/Linked-List/find-middle-of-linked-list) | [JAVA](./DSA/Linked-List/find-middle-of-linked-list/solution.java) | 🟢 Easy | `DSA` / `Linked-List` |
 | 0013 | [Find the intersection point of Y LL](./DSA/Linked-List/find-the-intersection-point-of-y-ll) | [JAVA](./DSA/Linked-List/find-the-intersection-point-of-y-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0014 | [Find the starting point in LL](./DSA/Linked-List/find-the-starting-point-in-ll) | [JAVA](./DSA/Linked-List/find-the-starting-point-in-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0015 | [Floor and Ceil in a BST](./DSA/Trees/floor-and-ceil-in-a-bst) | [JAVA](./DSA/Trees/floor-and-ceil-in-a-bst/solution.java) | 🟢 Easy | `DSA` / `Trees` |
 | 0016 | [Implement Queue using Arrays](./DSA/Stack-Queue/implement-queue-using-arrays) | [JAVA](./DSA/Stack-Queue/implement-queue-using-arrays/solution.java) | 🟢 Easy | `DSA` / `Stack-Queue` |
 | 0017 | [Implement Stack using Arrays](./DSA/Stack-Queue/implement-stack-using-arrays) | [JAVA](./DSA/Stack-Queue/implement-stack-using-arrays/solution.java) | 🟢 Easy | `DSA` / `Stack-Queue` |
-| 0018 | [Implement Stack using Queue](./DSA/Stack-Queue/implement-stack-using-queue) | [JAVA1](./DSA/Stack-Queue/implement-stack-using-queue/Java1.java) | 🟢 Easy | `DSA` / `Stack-Queue` |
-| 0019 | [Inorder successor and predecessor in BST](./DSA/Trees/inorder-successor-and-predecessor-in-bst) | [JAVA](./DSA/Trees/inorder-successor-and-predecessor-in-bst/solution.java) [Optimal](./DSA/Trees/inorder-successor-and-predecessor-in-bst/Optimal.java) | 🟡 Medium | `DSA` / `Trees` |
-| 0020 | [Inorder Traversal](./DSA/Trees/inorder-traversal) | [ITERATIVE](./DSA/Trees/inorder-traversal/Iterative.java) [JAVA](./DSA/Trees/inorder-traversal/solution.java) [RECURSION](./DSA/Trees/inorder-traversal/Recursion.java) | 🟢 Easy | `DSA` / `Trees` |
+| 0018 | [Implement Stack using Queue](./DSA/Stack-Queue/implement-stack-using-queue) | [Java1](./DSA/Stack-Queue/implement-stack-using-queue/Java1.java) | 🟢 Easy | `DSA` / `Stack-Queue` |
+| 0019 | [Inorder successor and predecessor in BST](./DSA/Trees/inorder-successor-and-predecessor-in-bst) | [Optimal](./DSA/Trees/inorder-successor-and-predecessor-in-bst/Optimal.java) [JAVA](./DSA/Trees/inorder-successor-and-predecessor-in-bst/solution.java) | 🟡 Medium | `DSA` / `Trees` |
+| 0020 | [Inorder Traversal](./DSA/Trees/inorder-traversal) | [Iterative](./DSA/Trees/inorder-traversal/Iterative.java) [Recursion](./DSA/Trees/inorder-traversal/Recursion.java) [JAVA](./DSA/Trees/inorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
 | 0021 | [Insert a given node in BST](./DSA/Trees/insert-a-given-node-in-bst) | [JAVA](./DSA/Trees/insert-a-given-node-in-bst/solution.java) | 🟡 Medium | `DSA` / `Trees` |
-| 0022 | [Kth Smallest and Largest element in BST](./DSA/Trees/kth-smallest-and-largest-element-in-bst) | [BETTER](./DSA/Trees/kth-smallest-and-largest-element-in-bst/Better.java) [OPTIMAL](./DSA/Trees/kth-smallest-and-largest-element-in-bst/Optimal.java) | 🟡 Medium | `DSA` / `Trees` |
+| 0022 | [Kth Smallest and Largest element in BST](./DSA/Trees/kth-smallest-and-largest-element-in-bst) | [Better](./DSA/Trees/kth-smallest-and-largest-element-in-bst/Better.java) [Optimal](./DSA/Trees/kth-smallest-and-largest-element-in-bst/Optimal.java) | 🟡 Medium | `DSA` / `Trees` |
 | 0023 | [LCA in BST](./DSA/Trees/lca-in-bst) | [JAVA](./DSA/Trees/lca-in-bst/solution.java) | 🟡 Medium | `DSA` / `Trees` |
 | 0024 | [Length of loop in LL](./DSA/Linked-List/length-of-loop-in-ll) | [JAVA](./DSA/Linked-List/length-of-loop-in-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0025 | [Letter Combinations of a Phone Number](./DSA/Recursion/letter-combinations-of-a-phone-number) | [JAVA](./DSA/Recursion/letter-combinations-of-a-phone-number/solution.java) | 🔴 Hard | `DSA` / `Recursion` |
