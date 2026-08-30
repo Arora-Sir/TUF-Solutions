@@ -10,32 +10,18 @@
 
 class Solution {
     List<Integer> succPredBST(TreeNode root, int key) {
-        List<Integer> ans = Arrays.asList(-1, -1);
-        TreeNode curr = root;
-        while (curr != null) {
-            if (curr.data < key) { // current node can be a predecessor
-                ans.set(0, curr.data); 
-                curr = curr.right;
-            }
-            else if (curr.data > key) { // current node can be a successor
-                ans.set(1, curr.data);
-                curr = curr.left;
-            }
-            else {
-                TreeNode temp = curr.left;
-                while (temp != null) { // predecessor: rightmost node in left subtree
-                    ans.set(0, temp.data);
-                    temp = temp.right;
-                }
-
-                temp = curr.right;
-                while (temp != null) { // successor: leftmost node in right subtree.
-                    ans.set(1, temp.data);
-                    temp = temp.left;
-                }
-                break;
-            }
-        }
+        //If its normal BT then we can do this below approach, but as its a BST we can directly follow the path along the way finding predeceor and successor.
+        List<Integer> ans = Arrays.asList(-1,-1);
+        inOrderTraversal(root,ans, key); //O(n)
         return ans;
+    }
+    private void inOrderTraversal(TreeNode root, List<Integer> ans,int key){
+        if(root == null) return;
+        inOrderTraversal(root.left,ans,key);
+
+        if(root.data < key){ ans.set(0,root.data);}
+        else if(root.data > key && ans.get(1) == -1){ ans.set(1,root.data); return;}
+
+        inOrderTraversal(root.right,ans,key);
     }
 }
