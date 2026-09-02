@@ -1,4 +1,4 @@
-# [Reverse every word in a string](https://takeuforward.org/plus/dsa/problems/reverse-every-word-in-a-string?subject=dsa&approach=optimal&tab=submissions)
+# [Reverse every word in a string](https://takeuforward.org/plus/dsa/problems/reverse-every-word-in-a-string?subject=dsa&approach=optimal-approach&tab=submissions)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 

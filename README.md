@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **34** | 12 | 21 | 1 | `2026-09-01` |
+| **34** | 12 | 21 | 1 | `2026-09-02` |
 
 ---
 
@@ -45,7 +45,7 @@
 | 0029 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [JAVA](./DSA/Trees/postorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
 | 0030 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [JAVA](./DSA/Trees/pre-post-inorder-in-one-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
 | 0031 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [JAVA](./DSA/Trees/preorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
-| 0032 | [Reverse every word in a string](./DSA/Strings/reverse-every-word-in-a-string) | [String](./DSA/Strings/reverse-every-word-in-a-string/String.java) | 🟡 Medium | `DSA` / `Strings` |
+| 0032 | [Reverse every word in a string](./DSA/Strings/reverse-every-word-in-a-string) | [StringBuilder](./DSA/Strings/reverse-every-word-in-a-string/StringBuilder.java) | 🟡 Medium | `DSA` / `Strings` |
 | 0033 | [Search in BST](./DSA/Trees/search-in-bst) | [JAVA](./DSA/Trees/search-in-bst/solution.java) | 🟢 Easy | `DSA` / `Trees` |
 | 0034 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 
