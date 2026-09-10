@@ -42,7 +42,7 @@
 | 0026 | [Letter Combinations of a Phone Number](./DSA/Recursion/letter-combinations-of-a-phone-number) | [JAVA](./DSA/Recursion/letter-combinations-of-a-phone-number/solution.java) | 🔴 Hard | `DSA` / `Recursion` |
 | 0027 | [Level Order Traversal](./DSA/Trees/level-order-traversal) | [JAVA](./DSA/Trees/level-order-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
 | 0028 | [Longest Substring Without Repeating Characters](./DSA/Sliding-Window/longest-substring-without-repeating-characters) | [JAVA](./DSA/Sliding-Window/longest-substring-without-repeating-characters/solution.java) | 🟡 Medium | `DSA` / `Sliding-Window` |
-| 0029 | [Max Consecutive Ones III](./DSA/Sliding-Window/max-consecutive-ones-iii) | [JAVA](./DSA/Sliding-Window/max-consecutive-ones-iii/solution.java) [Brute](./DSA/Sliding-Window/max-consecutive-ones-iii/Brute.java) | 🟡 Medium | `DSA` / `Sliding-Window` |
+| 0029 | [Max Consecutive Ones III](./DSA/Sliding-Window/max-consecutive-ones-iii) | [Brute](./DSA/Sliding-Window/max-consecutive-ones-iii/Brute.java) [JAVA](./DSA/Sliding-Window/max-consecutive-ones-iii/solution.java) [Better-Slide](./DSA/Sliding-Window/max-consecutive-ones-iii/Better-Slide.java) | 🟡 Medium | `DSA` / `Sliding-Window` |
 | 0030 | [Maximum Depth in BT](./DSA/Trees/maximum-depth-in-bt) | [JAVA](./DSA/Trees/maximum-depth-in-bt/solution.java) | 🟡 Medium | `DSA` / `Trees` |
 | 0031 | [Maximum path sum](./DSA/Trees/maximum-path-sum) | [JAVA](./DSA/Trees/maximum-path-sum/solution.java) | 🟡 Medium | `DSA` / `Trees` |
 | 0032 | [Maximum Points You Can Obtain from Cards](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards) | [JAVA](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards/solution.java) | 🟡 Medium | `DSA` / `Sliding-Window` |
