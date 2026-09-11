@@ -9,7 +9,7 @@ class Solution {
         if(nums[left]==0) zerosCount--;
         left++;
       }
-    //   if(zerosCount<=k){ //adding if condition so only update ehn less than k
+      if(zerosCount<=k){ //adding if condition so only update ehn less than k
         int currLen=right-left+1;
         maxLen=Math.max(maxLen,currLen);
       }
