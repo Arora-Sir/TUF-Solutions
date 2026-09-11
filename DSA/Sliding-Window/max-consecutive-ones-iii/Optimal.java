@@ -3,7 +3,7 @@ class Solution {
     int n = nums.length;
     int left=0,right=0; //Sliding window statergy: O(n): moving left and right together at a point when zeros are greater than k till we are getting either the less zeros or the maxlen already bigger than the sliding window, and the algo will stop, try it with this eg: [1 1 1 1 1 0 0 0] & k=2
     int zerosCount = 0, maxLen = 0;
-    while (right<n) {
+    while (right<n) {//so basically counting zeros directly in one statement for addition/susbtraction of zero from left/right place watching
       if(nums[right]==0) zerosCount++;
       if(zerosCount>k){ //! Update: Not while here
         if(nums[left]==0) zerosCount--;
