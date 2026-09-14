@@ -1,4 +1,4 @@
-# [Fruit Into Baskets](https://takeuforward.org/plus/dsa/problems/fruit-into-baskets?subject=dsa&approach=brute&sidebar=open&tab=submissions)
+# [Fruit Into Baskets](https://takeuforward.org/plus/dsa/problems/fruit-into-baskets?subject=dsa&approach=better&sidebar=open&tab=submissions)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 

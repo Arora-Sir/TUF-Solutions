@@ -1,6 +1,6 @@
 class Solution {
     public int totalFruits(int[] fruits) {
-        int max=0;
+        int max=0; //O(n2): Calculate all subsets and answers
         for(int i=0;i<fruits.length;i++){
             Set<Integer> set = new HashSet<>();
             int curr =0;
