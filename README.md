@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **40** | 12 | 25 | 3 | `2026-09-12` |
+| **40** | 12 | 25 | 3 | `2026-09-14` |
 
 ---
 
@@ -30,7 +30,7 @@
 | 0014 | [Find the intersection point of Y LL](./DSA/Linked-List/find-the-intersection-point-of-y-ll) | [JAVA](./DSA/Linked-List/find-the-intersection-point-of-y-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0015 | [Find the starting point in LL](./DSA/Linked-List/find-the-starting-point-in-ll) | [JAVA](./DSA/Linked-List/find-the-starting-point-in-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0016 | [Floor and Ceil in a BST](./DSA/Trees/floor-and-ceil-in-a-bst) | [JAVA](./DSA/Trees/floor-and-ceil-in-a-bst/solution.java) | 🟢 Easy | `DSA` / `Trees` |
-| 0017 | [Fruit Into Baskets](./DSA/Sliding-Window/fruit-into-baskets) | [JAVA](./DSA/Sliding-Window/fruit-into-baskets/solution.java) | 🟡 Medium | `DSA` / `Sliding-Window` |
+| 0017 | [Fruit Into Baskets](./DSA/Sliding-Window/fruit-into-baskets) | [Brute](./DSA/Sliding-Window/fruit-into-baskets/Brute.java) | 🟡 Medium | `DSA` / `Sliding-Window` |
 | 0018 | [Implement Queue using Arrays](./DSA/Stack-Queue/implement-queue-using-arrays) | [JAVA](./DSA/Stack-Queue/implement-queue-using-arrays/solution.java) | 🟢 Easy | `DSA` / `Stack-Queue` |
 | 0019 | [Implement Stack using Arrays](./DSA/Stack-Queue/implement-stack-using-arrays) | [JAVA](./DSA/Stack-Queue/implement-stack-using-arrays/solution.java) | 🟢 Easy | `DSA` / `Stack-Queue` |
 | 0020 | [Implement Stack using Queue](./DSA/Stack-Queue/implement-stack-using-queue) | [JAVA1](./DSA/Stack-Queue/implement-stack-using-queue/Java1.java) | 🟢 Easy | `DSA` / `Stack-Queue` |
