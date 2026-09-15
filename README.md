@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **40** | 12 | 25 | 3 | `2026-09-14` |
+| **41** | 12 | 25 | 4 | `2026-09-15` |
 
 ---
 
@@ -30,7 +30,7 @@
 | 0014 | [Find the intersection point of Y LL](./DSA/Linked-List/find-the-intersection-point-of-y-ll) | [JAVA](./DSA/Linked-List/find-the-intersection-point-of-y-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0015 | [Find the starting point in LL](./DSA/Linked-List/find-the-starting-point-in-ll) | [JAVA](./DSA/Linked-List/find-the-starting-point-in-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0016 | [Floor and Ceil in a BST](./DSA/Trees/floor-and-ceil-in-a-bst) | [JAVA](./DSA/Trees/floor-and-ceil-in-a-bst/solution.java) | 🟢 Easy | `DSA` / `Trees` |
-| 0017 | [Fruit Into Baskets](./DSA/Sliding-Window/fruit-into-baskets) | [Brute](./DSA/Sliding-Window/fruit-into-baskets/Brute.java) [Optimal](./DSA/Sliding-Window/fruit-into-baskets/Optimal.java) | 🟡 Medium | `DSA` / `Sliding-Window` |
+| 0017 | [Fruit Into Baskets](./DSA/Sliding-Window/fruit-into-baskets) | [BRUTE](./DSA/Sliding-Window/fruit-into-baskets/Brute.java) [OPTIMAL](./DSA/Sliding-Window/fruit-into-baskets/Optimal.java) | 🟡 Medium | `DSA` / `Sliding-Window` |
 | 0018 | [Implement Queue using Arrays](./DSA/Stack-Queue/implement-queue-using-arrays) | [JAVA](./DSA/Stack-Queue/implement-queue-using-arrays/solution.java) | 🟢 Easy | `DSA` / `Stack-Queue` |
 | 0019 | [Implement Stack using Arrays](./DSA/Stack-Queue/implement-stack-using-arrays) | [JAVA](./DSA/Stack-Queue/implement-stack-using-arrays/solution.java) | 🟢 Easy | `DSA` / `Stack-Queue` |
 | 0020 | [Implement Stack using Queue](./DSA/Stack-Queue/implement-stack-using-queue) | [JAVA1](./DSA/Stack-Queue/implement-stack-using-queue/Java1.java) | 🟢 Easy | `DSA` / `Stack-Queue` |
@@ -42,18 +42,19 @@
 | 0026 | [Length of loop in LL](./DSA/Linked-List/length-of-loop-in-ll) | [JAVA](./DSA/Linked-List/length-of-loop-in-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0027 | [Letter Combinations of a Phone Number](./DSA/Recursion/letter-combinations-of-a-phone-number) | [JAVA](./DSA/Recursion/letter-combinations-of-a-phone-number/solution.java) | 🔴 Hard | `DSA` / `Recursion` |
 | 0028 | [Level Order Traversal](./DSA/Trees/level-order-traversal) | [JAVA](./DSA/Trees/level-order-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
-| 0029 | [Longest Substring Without Repeating Characters](./DSA/Sliding-Window/longest-substring-without-repeating-characters) | [JAVA](./DSA/Sliding-Window/longest-substring-without-repeating-characters/solution.java) | 🟡 Medium | `DSA` / `Sliding-Window` |
-| 0030 | [Max Consecutive Ones III](./DSA/Sliding-Window/max-consecutive-ones-iii) | [OPTIMAL](./DSA/Sliding-Window/max-consecutive-ones-iii/Optimal.java) | 🟡 Medium | `DSA` / `Sliding-Window` |
-| 0031 | [Maximum Depth in BT](./DSA/Trees/maximum-depth-in-bt) | [JAVA](./DSA/Trees/maximum-depth-in-bt/solution.java) | 🟡 Medium | `DSA` / `Trees` |
-| 0032 | [Maximum path sum](./DSA/Trees/maximum-path-sum) | [JAVA](./DSA/Trees/maximum-path-sum/solution.java) | 🟡 Medium | `DSA` / `Trees` |
-| 0033 | [Maximum Points You Can Obtain from Cards](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards) | [JAVA](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards/solution.java) | 🟡 Medium | `DSA` / `Sliding-Window` |
-| 0034 | [Minimum number of bracket reversals to make an expression balanced](./DSA/Strings/minimum-number-of-bracket-reversals-to-make-an-expression-balanced) | [JAVA](./DSA/Strings/minimum-number-of-bracket-reversals-to-make-an-expression-balanced/solution.java) | 🔴 Hard | `DSA` / `Strings` |
-| 0035 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [JAVA](./DSA/Trees/postorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
-| 0036 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [JAVA](./DSA/Trees/pre-post-inorder-in-one-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
-| 0037 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [JAVA](./DSA/Trees/preorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
-| 0038 | [Reverse every word in a string](./DSA/Strings/reverse-every-word-in-a-string) | [OPTIMAL](./DSA/Strings/reverse-every-word-in-a-string/Optimal.java) [STRINGBUILDER](./DSA/Strings/reverse-every-word-in-a-string/StringBuilder.java) | 🟡 Medium | `DSA` / `Strings` |
-| 0039 | [Search in BST](./DSA/Trees/search-in-bst) | [JAVA](./DSA/Trees/search-in-bst/solution.java) | 🟢 Easy | `DSA` / `Trees` |
-| 0040 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
+| 0029 | [Longest Substring With At Most K Distinct Characters](./DSA/Sliding-Window/longest-substring-with-at-most-k-distinct-characters) | [JAVA](./DSA/Sliding-Window/longest-substring-with-at-most-k-distinct-characters/solution.java) | 🔴 Hard | `DSA` / `Sliding-Window` |
+| 0030 | [Longest Substring Without Repeating Characters](./DSA/Sliding-Window/longest-substring-without-repeating-characters) | [JAVA](./DSA/Sliding-Window/longest-substring-without-repeating-characters/solution.java) | 🟡 Medium | `DSA` / `Sliding-Window` |
+| 0031 | [Max Consecutive Ones III](./DSA/Sliding-Window/max-consecutive-ones-iii) | [OPTIMAL](./DSA/Sliding-Window/max-consecutive-ones-iii/Optimal.java) | 🟡 Medium | `DSA` / `Sliding-Window` |
+| 0032 | [Maximum Depth in BT](./DSA/Trees/maximum-depth-in-bt) | [JAVA](./DSA/Trees/maximum-depth-in-bt/solution.java) | 🟡 Medium | `DSA` / `Trees` |
+| 0033 | [Maximum path sum](./DSA/Trees/maximum-path-sum) | [JAVA](./DSA/Trees/maximum-path-sum/solution.java) | 🟡 Medium | `DSA` / `Trees` |
+| 0034 | [Maximum Points You Can Obtain from Cards](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards) | [JAVA](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards/solution.java) | 🟡 Medium | `DSA` / `Sliding-Window` |
+| 0035 | [Minimum number of bracket reversals to make an expression balanced](./DSA/Strings/minimum-number-of-bracket-reversals-to-make-an-expression-balanced) | [JAVA](./DSA/Strings/minimum-number-of-bracket-reversals-to-make-an-expression-balanced/solution.java) | 🔴 Hard | `DSA` / `Strings` |
+| 0036 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [JAVA](./DSA/Trees/postorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
+| 0037 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [JAVA](./DSA/Trees/pre-post-inorder-in-one-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
+| 0038 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [JAVA](./DSA/Trees/preorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
+| 0039 | [Reverse every word in a string](./DSA/Strings/reverse-every-word-in-a-string) | [OPTIMAL](./DSA/Strings/reverse-every-word-in-a-string/Optimal.java) [STRINGBUILDER](./DSA/Strings/reverse-every-word-in-a-string/StringBuilder.java) | 🟡 Medium | `DSA` / `Strings` |
+| 0040 | [Search in BST](./DSA/Trees/search-in-bst) | [JAVA](./DSA/Trees/search-in-bst/solution.java) | 🟢 Easy | `DSA` / `Trees` |
+| 0041 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 
 ---
 
