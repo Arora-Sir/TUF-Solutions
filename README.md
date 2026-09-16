@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **41** | 12 | 25 | 4 | `2026-09-15` |
+| **41** | 12 | 25 | 4 | `2026-09-16` |
 
 ---
 
@@ -42,7 +42,7 @@
 | 0026 | [Length of loop in LL](./DSA/Linked-List/length-of-loop-in-ll) | [JAVA](./DSA/Linked-List/length-of-loop-in-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 | 0027 | [Letter Combinations of a Phone Number](./DSA/Recursion/letter-combinations-of-a-phone-number) | [JAVA](./DSA/Recursion/letter-combinations-of-a-phone-number/solution.java) | 🔴 Hard | `DSA` / `Recursion` |
 | 0028 | [Level Order Traversal](./DSA/Trees/level-order-traversal) | [JAVA](./DSA/Trees/level-order-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
-| 0029 | [Longest Substring With At Most K Distinct Characters](./DSA/Sliding-Window/longest-substring-with-at-most-k-distinct-characters) | [JAVA](./DSA/Sliding-Window/longest-substring-with-at-most-k-distinct-characters/solution.java) | 🔴 Hard | `DSA` / `Sliding-Window` |
+| 0029 | [Longest Substring With At Most K Distinct Characters](./DSA/Sliding-Window/longest-substring-with-at-most-k-distinct-characters) | [Solution-2](./DSA/Sliding-Window/longest-substring-with-at-most-k-distinct-characters/Solution-2.java) | 🔴 Hard | `DSA` / `Sliding-Window` |
 | 0030 | [Longest Substring Without Repeating Characters](./DSA/Sliding-Window/longest-substring-without-repeating-characters) | [JAVA](./DSA/Sliding-Window/longest-substring-without-repeating-characters/solution.java) | 🟡 Medium | `DSA` / `Sliding-Window` |
 | 0031 | [Max Consecutive Ones III](./DSA/Sliding-Window/max-consecutive-ones-iii) | [OPTIMAL](./DSA/Sliding-Window/max-consecutive-ones-iii/Optimal.java) | 🟡 Medium | `DSA` / `Sliding-Window` |
 | 0032 | [Maximum Depth in BT](./DSA/Trees/maximum-depth-in-bt) | [JAVA](./DSA/Trees/maximum-depth-in-bt/solution.java) | 🟡 Medium | `DSA` / `Trees` |
