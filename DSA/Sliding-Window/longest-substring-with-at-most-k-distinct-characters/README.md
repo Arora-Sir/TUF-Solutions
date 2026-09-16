@@ -1,4 +1,4 @@
-# [Longest Substring With At Most K Distinct Characters](https://takeuforward.org/plus/dsa/problems/longest-substring-with-at-most-k-distinct-characters?subject=dsa&approach=better&tab=submissions)
+# [Longest Substring With At Most K Distinct Characters](https://takeuforward.org/plus/dsa/problems/longest-substring-with-at-most-k-distinct-characters?subject=dsa&approach=optimal&tab=submissions)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 
