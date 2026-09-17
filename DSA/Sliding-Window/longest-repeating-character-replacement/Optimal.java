@@ -7,7 +7,7 @@ class Solution {
         for(int right=0;right<s.length();right++){  //O(N)
             int currCharFreq=++freq[s.charAt(right)-'A'];
             maxFreq=Math.max(maxFreq,currCharFreq);
-            while((right-left+1)-maxFreq>k){
+            while((right-left+1)-maxFreq>k){ //need of chars to change compare with k
                 freq[s.charAt(left)-'A']--;
                 left++;
             }
