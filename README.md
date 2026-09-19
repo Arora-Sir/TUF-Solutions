@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **43** | 12 | 25 | 6 | `2026-09-18` |
+| **43** | 12 | 25 | 6 | `2026-09-19` |
 
 ---
 
@@ -50,7 +50,7 @@
 | 0034 | [Maximum path sum](./DSA/Trees/maximum-path-sum) | [JAVA](./DSA/Trees/maximum-path-sum/solution.java) | 🟡 Medium | `DSA` / `Trees` |
 | 0035 | [Maximum Points You Can Obtain from Cards](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards) | [JAVA](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards/solution.java) | 🟡 Medium | `DSA` / `Sliding-Window` |
 | 0036 | [Minimum number of bracket reversals to make an expression balanced](./DSA/Strings/minimum-number-of-bracket-reversals-to-make-an-expression-balanced) | [JAVA](./DSA/Strings/minimum-number-of-bracket-reversals-to-make-an-expression-balanced/solution.java) | 🔴 Hard | `DSA` / `Strings` |
-| 0037 | [Minimum Window Substring](./DSA/Sliding-Window/minimum-window-substring) | [JAVA](./DSA/Sliding-Window/minimum-window-substring/solution.java) [Brute](./DSA/Sliding-Window/minimum-window-substring/Brute.java) | 🔴 Hard | `DSA` / `Sliding-Window` |
+| 0037 | [Minimum Window Substring](./DSA/Sliding-Window/minimum-window-substring) | [Optimal](./DSA/Sliding-Window/minimum-window-substring/Optimal.java) | 🔴 Hard | `DSA` / `Sliding-Window` |
 | 0038 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [JAVA](./DSA/Trees/postorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
 | 0039 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [JAVA](./DSA/Trees/pre-post-inorder-in-one-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
 | 0040 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [JAVA](./DSA/Trees/preorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
