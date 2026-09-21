@@ -3,7 +3,7 @@ class Solution {
     int n = nums.length;
     int maxLen = 0, zeros =0;
     //we'll find the longest subarray with atmost k zeros
-    for (int i=0; i<n; i++) { //O(n2): counting all combinations
+    for (int i=0; i<n; i++) { //O(n2): counting all combinations v2
       zeros = 0;
       for (int j=i; j<n; j++) {
         if (nums[j]==0) zeros++;
