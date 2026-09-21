@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **51** | 19 | 26 | 6 | `2026-09-21` |
+| **48** | 16 | 26 | 6 | `2026-09-21` |
 
 ---
 
@@ -61,17 +61,14 @@
 | 0043 | [Search in BST](./DSA/Trees/search-in-bst) | [JAVA](./DSA/Trees/search-in-bst/solution.java) | 🟢 Easy | `Trees` | `2026-09-21` |
 | 0044 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-21` |
 
-### SQL (7)
+### SQL (4)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [5. Big Countries](./SQL/Data-Engineering/0005-big-countries) | [SQL](./SQL/Data-Engineering/0005-big-countries/solution.sql) | 🟢 Easy | `Data-Engineering` | `2026-09-21` |
-| 0002 | [13. Non-Referred Customers](./SQL/Data-Engineering/0013-non-referred-customers) | [SQL](./SQL/Data-Engineering/0013-non-referred-customers/solution.sql) | 🟢 Easy | `Data-Engineering` | `2026-09-21` |
-| 0003 | [47. Profitable Customers in 2021](./SQL/Basics/0047-profitable-customers-in-2021) | [SQL](./SQL/Basics/0047-profitable-customers-in-2021/solution.sql) | 🟢 Easy | `Basics` | `2026-09-21` |
-| 0004 | [Big Countries](./SQL/Querying-And-Filtering/big-countries) | [SQL](./SQL/Querying-And-Filtering/big-countries/solution.sql) | 🟢 Easy | `Querying-And-Filtering` | `2026-09-21` |
-| 0005 | [Non-Referred Customers](./SQL/Querying-And-Filtering/non-referred-customers) | [SQL](./SQL/Querying-And-Filtering/non-referred-customers/solution.sql) | 🟢 Easy | `Querying-And-Filtering` | `2026-09-21` |
-| 0006 | [Odd Non-Boring Movies](./SQL/Querying-And-Filtering/odd-non-boring-movies) | [SQL](./SQL/Querying-And-Filtering/odd-non-boring-movies/solution.sql) | 🟢 Easy | `Querying-And-Filtering` | `2026-09-21` |
-| 0007 | [Profitable Customers in 2021](./SQL/Querying-And-Filtering/profitable-customers-in-2021) | [SQL](./SQL/Querying-And-Filtering/profitable-customers-in-2021/solution.sql) | 🟢 Easy | `Querying-And-Filtering` | `2026-09-21` |
+| 0001 | [Big Countries](./SQL/Querying-And-Filtering/big-countries) | [SQL](./SQL/Querying-And-Filtering/big-countries/solution.sql) | 🟢 Easy | `Querying-And-Filtering` | `2026-09-21` |
+| 0002 | [Non-Referred Customers](./SQL/Querying-And-Filtering/non-referred-customers) | [SQL](./SQL/Querying-And-Filtering/non-referred-customers/solution.sql) | 🟢 Easy | `Querying-And-Filtering` | `2026-09-21` |
+| 0003 | [Odd Non-Boring Movies](./SQL/Querying-And-Filtering/odd-non-boring-movies) | [SQL](./SQL/Querying-And-Filtering/odd-non-boring-movies/solution.sql) | 🟢 Easy | `Querying-And-Filtering` | `2026-09-21` |
+| 0004 | [Profitable Customers in 2021](./SQL/Querying-And-Filtering/profitable-customers-in-2021) | [SQL](./SQL/Querying-And-Filtering/profitable-customers-in-2021/solution.sql) | 🟢 Easy | `Querying-And-Filtering` | `2026-09-21` |
 
 ---
 
