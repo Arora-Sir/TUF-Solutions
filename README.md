@@ -56,7 +56,7 @@
 | 0040 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [JAVA](./DSA/Trees/postorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
 | 0041 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [JAVA](./DSA/Trees/pre-post-inorder-in-one-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
 | 0042 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [JAVA](./DSA/Trees/preorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
-| 0043 | [Profitable Customers in 2021](./SQL/Querying-And-Filtering/profitable-customers-in-2021) | [SQL](./SQL/Querying-And-Filtering/profitable-customers-in-2021/solution.sql) | 🟢 Easy | `SQL` / `Querying-And-Filtering` |
+| 0043 | [Profitable Customers in 2021](./SQL/Querying-And-Filtering/Basics/profitable-customers-in-2021) | [SQL](./SQL/Querying-And-Filtering/Basics/profitable-customers-in-2021/solution.sql) | 🟢 Easy | `SQL` / `Querying-And-Filtering` |
 | 0044 | [Reverse every word in a string](./DSA/Strings/reverse-every-word-in-a-string) | [OPTIMAL](./DSA/Strings/reverse-every-word-in-a-string/Optimal.java) [STRINGBUILDER](./DSA/Strings/reverse-every-word-in-a-string/StringBuilder.java) | 🟡 Medium | `DSA` / `Strings` |
 | 0045 | [Search in BST](./DSA/Trees/search-in-bst) | [JAVA](./DSA/Trees/search-in-bst/solution.java) | 🟢 Easy | `DSA` / `Trees` |
 | 0046 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
