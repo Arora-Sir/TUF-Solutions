@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **44** | 13 | 25 | 6 | `2026-09-21` |
+| **45** | 13 | 26 | 6 | `2026-09-21` |
 
 ---
 
@@ -52,12 +52,13 @@
 | 0036 | [Maximum Points You Can Obtain from Cards](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards) | [JAVA](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards/solution.java) | 🟡 Medium | `DSA` / `Sliding-Window` |
 | 0037 | [Minimum number of bracket reversals to make an expression balanced](./DSA/Strings/minimum-number-of-bracket-reversals-to-make-an-expression-balanced) | [JAVA](./DSA/Strings/minimum-number-of-bracket-reversals-to-make-an-expression-balanced/solution.java) | 🔴 Hard | `DSA` / `Strings` |
 | 0038 | [Minimum Window Substring](./DSA/Sliding-Window/minimum-window-substring) | [OPTIMAL](./DSA/Sliding-Window/minimum-window-substring/Optimal.java) | 🔴 Hard | `DSA` / `Sliding-Window` |
-| 0039 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [JAVA](./DSA/Trees/postorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
-| 0040 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [JAVA](./DSA/Trees/pre-post-inorder-in-one-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
-| 0041 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [JAVA](./DSA/Trees/preorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
-| 0042 | [Reverse every word in a string](./DSA/Strings/reverse-every-word-in-a-string) | [OPTIMAL](./DSA/Strings/reverse-every-word-in-a-string/Optimal.java) [STRINGBUILDER](./DSA/Strings/reverse-every-word-in-a-string/StringBuilder.java) | 🟡 Medium | `DSA` / `Strings` |
-| 0043 | [Search in BST](./DSA/Trees/search-in-bst) | [JAVA](./DSA/Trees/search-in-bst/solution.java) | 🟢 Easy | `DSA` / `Trees` |
-| 0044 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
+| 0039 | [Number of Substrings Containing All Three Characters](./DSA/Counting-Subarrays-And-Substrings-Problems/number-of-substrings-containing-all-three-characters) | [Brute](./DSA/Counting-Subarrays-And-Substrings-Problems/number-of-substrings-containing-all-three-characters/Brute.java) | 🟡 Medium | `DSA` / `Counting-Subarrays-And-Substrings-Problems` |
+| 0040 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [JAVA](./DSA/Trees/postorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
+| 0041 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [JAVA](./DSA/Trees/pre-post-inorder-in-one-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
+| 0042 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [JAVA](./DSA/Trees/preorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
+| 0043 | [Reverse every word in a string](./DSA/Strings/reverse-every-word-in-a-string) | [OPTIMAL](./DSA/Strings/reverse-every-word-in-a-string/Optimal.java) [STRINGBUILDER](./DSA/Strings/reverse-every-word-in-a-string/StringBuilder.java) | 🟡 Medium | `DSA` / `Strings` |
+| 0044 | [Search in BST](./DSA/Trees/search-in-bst) | [JAVA](./DSA/Trees/search-in-bst/solution.java) | 🟢 Easy | `DSA` / `Trees` |
+| 0045 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 
 ---
 
