@@ -1,4 +1,4 @@
-# [Profitable Customers in 2021](https://takeuforward.org/practice/sql/profitable-customers-in-2021?category=querying-and-filtering&source=sql---75-frequently-asked-interview-questions)
+# [Profitable Customers in 2021](https://takeuforward.org/practice/sql/profitable-customers-in-2021?category=querying-and-filtering&source=sql---75-frequently-asked-interview-questions&tab=problem)
 
 ![Difficulty: Basic](https://img.shields.io/badge/Difficulty-Basic-22c55e?style=for-the-badge)
 
