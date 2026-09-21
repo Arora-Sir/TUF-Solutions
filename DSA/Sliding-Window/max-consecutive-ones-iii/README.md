@@ -1,16 +1,20 @@
-# [Max Consecutive Ones III](https://takeuforward.org/plus/dsa/problems/max-consecutive-ones-iii?subject=dsa&approach=optimal&sidebar=open&tab=submissions)
+# [Max Consecutive Ones III](https://takeuforward.org/practice/dsa/max-consecutive-ones-iii?category=longest-and-smallest-window-problems&source=strivers-a2z-dsa-sheet)
 
-![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
+![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 
 ---
 
 ## 📝 Problem Statement
 
-Given a binary array **nums** and an integer **k** , flip at most k 0's.
+<header class="ProblemPanel-module__qBixIa__header">
+
+</header>Given a binary array **nums** and an integer **k** , flip at most k 0's.
 
 Return the **maximum** number of **consecutive 1's** after performing the flipping operation.
 
-### Example 1
+<section class="mt-6">
+
+### Example 1:
 
 <p>
 
@@ -22,7 +26,9 @@ Return the **maximum** number of **consecutive 1's** after performing the flippi
 
 The number of consecutive 1's is 10.
 
-### Example 2
+</section><section class="mt-6">
+
+### Example 2:
 
 <p>
 
@@ -34,11 +40,19 @@ The number of consecutive 1's is 10.
 
 The number of consecutive 1's is 9.
 
+</section>Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
+
+<section class="mt-6">
+
 ### Constraints
 
 - 1 <= nums.length <= 10^5
 - 0 <= nums[i] <= 1
 - 0 <= k <= nums.length
+
+</section>
 
 ---
 
@@ -50,5 +64,5 @@ The number of consecutive 1's is 9.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>
