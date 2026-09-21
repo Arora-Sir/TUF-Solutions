@@ -1,3 +1,4 @@
-select customer_id  
-from Customers   
-where year=2021 and revenue>0
+select *
+from Cinema
+where id%2=1 and description !="boring"
+order by rating DESC;

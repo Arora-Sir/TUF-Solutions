@@ -1,4 +1,4 @@
-# [Odd Non-Boring Movies](https://takeuforward.org/practice/sql/odd-non-boring-movies?category=querying-and-filtering&source=sql---75-frequently-asked-interview-questions&tab=solution)
+# [Odd Non-Boring Movies](https://takeuforward.org/practice/sql/odd-non-boring-movies?category=querying-and-filtering&source=sql---75-frequently-asked-interview-questions)
 
 ![Difficulty: Basic](https://img.shields.io/badge/Difficulty-Basic-22c55e?style=for-the-badge)
 
@@ -6,13 +6,11 @@
 
 ## 📝 Problem Statement
 
-<header class="ProblemPanel-module__qBixIa__header">
-
-</header>A movie streaming platform maintains a database of movies. The content curation team wants to feature movies that are more engaging and unique.
+A movie streaming platform maintains a database of movies. The content curation team wants to feature movies that are more engaging and unique.
 
 The company maintains a **Cinema** table that contains:
 
-<pre class="ql-syntax">╔═════════════╦══════════╗
+╔═════════════╦══════════╗
 ║ Column Name ║ Type ║
 ╠═════════════╬══════════╣
 ║ id ║ int ║
@@ -23,7 +21,7 @@ The company maintains a **Cinema** table that contains:
 ║─────────────┼──────────║
 ║ rating ║ float ║
 ╚═════════════╩══════════╝
-</pre>
+
 - id: A unique (primary key) integer representing each movie.
 - movie: The title of the movie.
 - description: A short summary or keyword describing the movie.
@@ -37,15 +35,13 @@ The task is to:
 
 The sample output format is in the following example.
 
-<section class="mt-6">
-
 ### Example 1:
 
-<p>
+**Input:**
 
-**Input:** </p>Cinema Table:
+Cinema Table:
 
-<pre class="ql-syntax">╔══════════╦══════════════╦═════════════╦══════════╗
+╔══════════╦══════════════╦═════════════╦══════════╗
 ║ id ║ movie ║ description ║ rating ║
 ╠══════════╬══════════════╬═════════════╬══════════╣
 ║ 1 ║ Galaxy Raid ║ great 3D ║ 8.9 ║
@@ -58,24 +54,25 @@ The sample output format is in the following example.
 ║──────────┼──────────────┼─────────────┼──────────║
 ║ 5 ║ Silent Echo ║ Interesting ║ 9.1 ║
 ╚══════════╩══════════════╩═════════════╩══════════╝
-</pre><p>
 
-**Output:** </p><pre class="ql-syntax">╔══════════╦═════════════╦═════════════╦══════════╗
+**Output:**
+
+╔══════════╦═════════════╦═════════════╦══════════╗
 ║ id ║ movie ║ description ║ rating ║
 ╠══════════╬═════════════╬═════════════╬══════════╣
 ║ 5 ║ Silent Echo ║ Interesting ║ 9.1 ║
 ║──────────┼─────────────┼─────────────┼──────────║
 ║ 1 ║ Galaxy Raid ║ great 3D ║ 8.9 ║
 ╚══════════╩═════════════╩═════════════╩══════════╝
-</pre><p>
 
-**Explanation:** </p>
+**Explanation:**
+
 - ID 1 (Galaxy Raid) - Odd ID, description is not 'boring' → Included
 - ID 3 (Old Times) - Odd ID, but description is 'boring' → Excluded
 - ID 5 (Silent Echo) - Odd ID, description is not 'boring' → Included
 - ID 2, 4 - Even IDs → Excluded
 
-</section>Still unsure what the problem is asking ?
+Still unsure what the problem is asking ?
 
 Let’s go through a few more examples, step by step, to make it clearer.
 
