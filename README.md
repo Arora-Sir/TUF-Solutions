@@ -18,7 +18,7 @@
 | 0002 | [13. Non-Referred Customers](./SQL/Data-Engineering/0013-non-referred-customers) | [SQL](./SQL/Data-Engineering/0013-non-referred-customers/solution.sql) | 🟢 Easy | `SQL` / `Data-Engineering` |
 | 0003 | [47. Profitable Customers in 2021](./SQL/Basics/0047-profitable-customers-in-2021) | [SQL](./SQL/Basics/0047-profitable-customers-in-2021/solution.sql) | 🟢 Easy | `SQL` / `Basics` |
 | 0004 | [Add one to a number represented by LL](./DSA/Linked-List/add-one-to-a-number-represented-by-ll) | [JAVA](./DSA/Linked-List/add-one-to-a-number-represented-by-ll/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
-| 0005 | [Big Countries](./SQL/Querying-And-Filtering/Basics/big-countries) | [SQL](./SQL/Querying-And-Filtering/Basics/big-countries/solution.sql) | 🟢 Easy | `SQL` / `Querying-And-Filtering` |
+| 0005 | [Big Countries](./SQL/Querying-And-Filtering/big-countries) | [SQL](./SQL/Querying-And-Filtering/big-countries/solution.sql) | 🟢 Easy | `SQL` / `Querying-And-Filtering` |
 | 0006 | [Check for balanced binary tree](./DSA/Trees/check-for-balanced-binary-tree) | [BRUTE](./DSA/Trees/check-for-balanced-binary-tree/Brute.java) [OPTIMIAL](./DSA/Trees/check-for-balanced-binary-tree/Optimial.java) | 🟡 Medium | `DSA` / `Trees` |
 | 0007 | [Check for symmetrical BTs](./DSA/Trees/check-for-symmetrical-bts) | [JAVA](./DSA/Trees/check-for-symmetrical-bts/solution.java) | 🟡 Medium | `DSA` / `Trees` |
 | 0008 | [Check if a tree is a BST or not](./DSA/Trees/check-if-a-tree-is-a-bst-or-not) | [JAVA](./DSA/Trees/check-if-a-tree-is-a-bst-or-not/solution.java) | 🟡 Medium | `DSA` / `Trees` |
