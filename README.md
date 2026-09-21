@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **47** | 15 | 26 | 6 | `2026-09-21` |
+| **48** | 16 | 26 | 6 | `2026-09-21` |
 
 ---
 
@@ -52,15 +52,16 @@
 | 0036 | [Maximum Points You Can Obtain from Cards](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards) | [JAVA](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards/solution.java) | 🟡 Medium | `DSA` / `Sliding-Window` |
 | 0037 | [Minimum number of bracket reversals to make an expression balanced](./DSA/Strings/minimum-number-of-bracket-reversals-to-make-an-expression-balanced) | [JAVA](./DSA/Strings/minimum-number-of-bracket-reversals-to-make-an-expression-balanced/solution.java) | 🔴 Hard | `DSA` / `Strings` |
 | 0038 | [Minimum Window Substring](./DSA/Sliding-Window/minimum-window-substring) | [OPTIMAL](./DSA/Sliding-Window/minimum-window-substring/Optimal.java) | 🔴 Hard | `DSA` / `Sliding-Window` |
-| 0039 | [Number Of Substrings Containing All Three Characters](./DSA/Counting-Subarrays-And-Substrings-Problems/number-of-substrings-containing-all-three-characters) | [BruteBetter](./DSA/Counting-Subarrays-And-Substrings-Problems/number-of-substrings-containing-all-three-characters/BruteBetter.java) | ⚪ Unspecified | `DSA` / `Counting-Subarrays-And-Substrings-Problems` |
-| 0040 | [Odd Non-Boring Movies](./SQL/Querying-And-Filtering/odd-non-boring-movies) | [SQL](./SQL/Querying-And-Filtering/odd-non-boring-movies/solution.sql) | 🟢 Easy | `SQL` / `Querying-And-Filtering` |
-| 0041 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [JAVA](./DSA/Trees/postorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
-| 0042 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [JAVA](./DSA/Trees/pre-post-inorder-in-one-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
-| 0043 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [JAVA](./DSA/Trees/preorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
-| 0044 | [Profitable Customers in 2021](./SQL/Querying-And-Filtering/Basics/profitable-customers-in-2021) | [SQL](./SQL/Querying-And-Filtering/Basics/profitable-customers-in-2021/solution.sql) | 🟢 Easy | `SQL` / `Querying-And-Filtering` |
-| 0045 | [Reverse every word in a string](./DSA/Strings/reverse-every-word-in-a-string) | [OPTIMAL](./DSA/Strings/reverse-every-word-in-a-string/Optimal.java) [STRINGBUILDER](./DSA/Strings/reverse-every-word-in-a-string/StringBuilder.java) | 🟡 Medium | `DSA` / `Strings` |
-| 0046 | [Search in BST](./DSA/Trees/search-in-bst) | [JAVA](./DSA/Trees/search-in-bst/solution.java) | 🟢 Easy | `DSA` / `Trees` |
-| 0047 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
+| 0039 | [Non-Referred Customers](./SQL/Querying-And-Filtering/Basics/non-referred-customers) | [WithOr](./SQL/Querying-And-Filtering/Basics/non-referred-customers/WithOr.sql) | 🟢 Easy | `SQL` / `Querying-And-Filtering` |
+| 0040 | [Number Of Substrings Containing All Three Characters](./DSA/Counting-Subarrays-And-Substrings-Problems/number-of-substrings-containing-all-three-characters) | [BruteBetter](./DSA/Counting-Subarrays-And-Substrings-Problems/number-of-substrings-containing-all-three-characters/BruteBetter.java) | ⚪ Unspecified | `DSA` / `Counting-Subarrays-And-Substrings-Problems` |
+| 0041 | [Odd Non-Boring Movies](./SQL/Querying-And-Filtering/odd-non-boring-movies) | [SQL](./SQL/Querying-And-Filtering/odd-non-boring-movies/solution.sql) | 🟢 Easy | `SQL` / `Querying-And-Filtering` |
+| 0042 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [JAVA](./DSA/Trees/postorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
+| 0043 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [JAVA](./DSA/Trees/pre-post-inorder-in-one-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
+| 0044 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [JAVA](./DSA/Trees/preorder-traversal/solution.java) | 🟢 Easy | `DSA` / `Trees` |
+| 0045 | [Profitable Customers in 2021](./SQL/Querying-And-Filtering/Basics/profitable-customers-in-2021) | [SQL](./SQL/Querying-And-Filtering/Basics/profitable-customers-in-2021/solution.sql) | 🟢 Easy | `SQL` / `Querying-And-Filtering` |
+| 0046 | [Reverse every word in a string](./DSA/Strings/reverse-every-word-in-a-string) | [OPTIMAL](./DSA/Strings/reverse-every-word-in-a-string/Optimal.java) [STRINGBUILDER](./DSA/Strings/reverse-every-word-in-a-string/StringBuilder.java) | 🟡 Medium | `DSA` / `Strings` |
+| 0047 | [Search in BST](./DSA/Trees/search-in-bst) | [JAVA](./DSA/Trees/search-in-bst/solution.java) | 🟢 Easy | `DSA` / `Trees` |
+| 0048 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `DSA` / `Linked-List` |
 
 ---
 
