@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **49** | 17 | 26 | 6 | `2026-09-22` |
+| **50** | 17 | 26 | 7 | `2026-09-22` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (44)
+### DSA (45)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -53,13 +53,14 @@
 | 0035 | [Maximum Points You Can Obtain from Cards](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards) | [JAVA](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards/solution.java) | 🟡 Medium | `Sliding-Window` | `2026-09-08` |
 | 0036 | [Minimum number of bracket reversals to make an expression balanced](./DSA/Strings/minimum-number-of-bracket-reversals-to-make-an-expression-balanced) | [JAVA](./DSA/Strings/minimum-number-of-bracket-reversals-to-make-an-expression-balanced/solution.java) | 🔴 Hard | `Strings` | `2026-09-06` |
 | 0037 | [Minimum Window Substring](./DSA/Sliding-Window/minimum-window-substring) | [Brute](./DSA/Sliding-Window/minimum-window-substring/Brute.java) [Optimal](./DSA/Sliding-Window/minimum-window-substring/Optimal.java) [JAVA](./DSA/Sliding-Window/minimum-window-substring/solution.java) | 🔴 Hard | `Sliding-Window` | `2026-09-19` |
-| 0038 | [Number of Substrings Containing All Three Characters](./DSA/Sliding-Window/number-of-substrings-containing-all-three-characters) | [Brute](./DSA/Sliding-Window/number-of-substrings-containing-all-three-characters/Brute.java) [BruteBetter](./DSA/Sliding-Window/number-of-substrings-containing-all-three-characters/BruteBetter.java) [Optimal](./DSA/Sliding-Window/number-of-substrings-containing-all-three-characters/Optimal.java) | 🟡 Medium | `Sliding-Window` | `2026-09-22` |
-| 0039 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [JAVA](./DSA/Trees/postorder-traversal/solution.java) | 🟢 Easy | `Trees` | `2026-08-13` |
-| 0040 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [JAVA](./DSA/Trees/pre-post-inorder-in-one-traversal/solution.java) | 🟢 Easy | `Trees` | `2026-08-20` |
-| 0041 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [JAVA](./DSA/Trees/preorder-traversal/solution.java) | 🟢 Easy | `Trees` | `2026-08-13` |
-| 0042 | [Reverse every word in a string](./DSA/Strings/reverse-every-word-in-a-string) | [Optimal](./DSA/Strings/reverse-every-word-in-a-string/Optimal.java) [String](./DSA/Strings/reverse-every-word-in-a-string/String.java) [StringBuilder](./DSA/Strings/reverse-every-word-in-a-string/StringBuilder.java) | 🟡 Medium | `Strings` | `2026-09-02` |
-| 0043 | [Search in BST](./DSA/Trees/search-in-bst) | [JAVA](./DSA/Trees/search-in-bst/solution.java) | 🟢 Easy | `Trees` | `2026-08-20` |
-| 0044 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `Linked-List` | `2026-07-29` |
+| 0038 | [Minimum Window Substring](./DSA/Sliding-Window/minimum-window-substring-) | [Optimal](./DSA/Sliding-Window/minimum-window-substring-/Optimal.java) | 🔴 Hard | `Sliding-Window` | `2026-09-22` |
+| 0039 | [Number of Substrings Containing All Three Characters](./DSA/Sliding-Window/number-of-substrings-containing-all-three-characters) | [Brute](./DSA/Sliding-Window/number-of-substrings-containing-all-three-characters/Brute.java) [BruteBetter](./DSA/Sliding-Window/number-of-substrings-containing-all-three-characters/BruteBetter.java) [Optimal](./DSA/Sliding-Window/number-of-substrings-containing-all-three-characters/Optimal.java) | 🟡 Medium | `Sliding-Window` | `2026-09-22` |
+| 0040 | [Postorder Traversal](./DSA/Trees/postorder-traversal) | [JAVA](./DSA/Trees/postorder-traversal/solution.java) | 🟢 Easy | `Trees` | `2026-08-13` |
+| 0041 | [Pre, Post, Inorder in one traversal](./DSA/Trees/pre-post-inorder-in-one-traversal) | [JAVA](./DSA/Trees/pre-post-inorder-in-one-traversal/solution.java) | 🟢 Easy | `Trees` | `2026-08-20` |
+| 0042 | [Preorder Traversal](./DSA/Trees/preorder-traversal) | [JAVA](./DSA/Trees/preorder-traversal/solution.java) | 🟢 Easy | `Trees` | `2026-08-13` |
+| 0043 | [Reverse every word in a string](./DSA/Strings/reverse-every-word-in-a-string) | [Optimal](./DSA/Strings/reverse-every-word-in-a-string/Optimal.java) [String](./DSA/Strings/reverse-every-word-in-a-string/String.java) [StringBuilder](./DSA/Strings/reverse-every-word-in-a-string/StringBuilder.java) | 🟡 Medium | `Strings` | `2026-09-02` |
+| 0044 | [Search in BST](./DSA/Trees/search-in-bst) | [JAVA](./DSA/Trees/search-in-bst/solution.java) | 🟢 Easy | `Trees` | `2026-08-20` |
+| 0045 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `Linked-List` | `2026-07-29` |
 
 ### SQL (5)
 
