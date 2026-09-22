@@ -1,5 +1,5 @@
 class Solution {    
-    public int numberOfSubstrings(String s) { //O(n^2)
+    public int numberOfSubstrings(String s) { //O(n^2) 
         int count=0; 
         for(int i=0;i<s.length();i++){
           int[] arrayOfAll=new int[3]; 
