@@ -1,7 +1,7 @@
 class Solution {    
     public int numberOfSubstrings(String s) { //O(n^3) 
         int count=0; 
-        for(int i=0;i<s.length();i++){
+        for(int i=0;i<s.length();i++){ 
           for(int j=i;j<s.length();j++){
             Set<Character> setOfAll = new HashSet<Character>();
             int internalCount =0;
