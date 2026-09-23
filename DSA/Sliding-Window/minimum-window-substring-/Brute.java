@@ -1,5 +1,5 @@
 class Solution {
-    public String minWindow(String s, String t) {   //v6
+    public String minWindow(String s, String t) { 
         int minLen=Integer.MAX_VALUE;
         int sIndex=-1;
         int[] targetFreq=new int[256];
