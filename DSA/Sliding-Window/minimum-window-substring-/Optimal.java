@@ -1,5 +1,5 @@
 class Solution {
-    public String minWindow(String s, String t) {
+    public String minWindow(String s, String t) { //v6
         if(s.length()<t.length()) return "";
         int[] freq=new int[256];
         for(char c:t.toCharArray()) freq[c]++;
@@ -21,4 +21,3 @@ class Solution {
         return (sIndex==-1)?"":s.substring(sIndex,sIndex+minLen);
     }
 }
-
