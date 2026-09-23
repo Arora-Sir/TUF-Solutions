@@ -10,11 +10,13 @@ In a data analytics task, you're given a list of integers that may contain dupli
 
 You're given a table MyNumbers with one column:
 
+```
 ╔═════════════╦══════════╗
-║ Column Name ║ Type ║
+║ Column Name ║   Type   ║
 ╠═════════════╬══════════╣
-║ num ║ int ║
+║     num     ║   int    ║
 ╚═════════════╩══════════╝
+```
 
 - num: an integer (may be repeated across rows).
 
@@ -22,56 +24,60 @@ Write an SQL query to find the largest number that occurs only once in the MyNum
 
 ### Example 1:
 
-Example 1:
-
+```
 MyNumbers Table:
 ╔═════╗
 ║ num ║
 ╠═════╣
-║ 8 ║
-║ 8 ║
-║ 3 ║
-║ 3 ║
-║ 1 ║
-║ 4 ║
-║ 5 ║
-║ 6 ║
+║ 8   ║
+║ 8   ║
+║ 3   ║
+║ 3   ║
+║ 1   ║
+║ 4   ║
+║ 5   ║
+║ 6   ║
 ╚═════╝
+```
 
 Output:
 
+```
 ╔═════╗
 ║ num ║
 ╠═════╣
-║ 6 ║
+║ 6   ║
 ╚═════╝
+```
 
 Explanation: Numbers that appear once: 1, 4, 5, 6. Largest = 6.
 
 ### Example 2:
 
-Example 2:
-
+```
 MyNumbers Table:
 ╔═════╗
 ║ num ║
 ╠═════╣
-║ 8 ║
-║ 8 ║
-║ 7 ║
-║ 7 ║
-║ 3 ║
-║ 3 ║
-║ 3 ║
+║ 8   ║
+║ 8   ║
+║ 7   ║
+║ 7   ║
+║ 3   ║
+║ 3   ║
+║ 3   ║
 ╚═════╝
+```
 
 Output:
 
+```
 ╔══════╗
-║ num ║
+║ num  ║
 ╠══════╣
 ║ null ║
 ╚══════╝
+```
 
 Explanation: Every number appears more than once => result is NULL.
 
