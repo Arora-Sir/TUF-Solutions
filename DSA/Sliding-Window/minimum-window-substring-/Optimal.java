@@ -21,3 +21,4 @@ class Solution {
         return (sIndex==-1)?"":s.substring(sIndex,sIndex+minLen);
     }
 }
+
