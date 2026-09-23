@@ -1,4 +1,4 @@
-# [Minimum Window Substring](https://takeuforward.org/practice/dsa/minimum-window-substring-?category=longest-and-smallest-window-problems&source=strivers-a2z-dsa-sheet&tab=problem)
+# [Minimum Window Substring](https://takeuforward.org/practice/dsa/minimum-window-substring-?category=longest-and-smallest-window-problems&source=strivers-a2z-dsa-sheet)
 
 ![Difficulty: Pro](https://img.shields.io/badge/Difficulty-Pro-ef4444?style=for-the-badge)
 
