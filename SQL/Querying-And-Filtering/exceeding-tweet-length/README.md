@@ -1,4 +1,4 @@
-# [Exceeding Tweet Length](https://takeuforward.org/practice/sql/exceeding-tweet-length?category=querying-and-filtering&source=sql---75-frequently-asked-interview-questions&tab=solution)
+# [Exceeding Tweet Length](https://takeuforward.org/practice/sql/exceeding-tweet-length)
 
 ![Difficulty: Basic](https://img.shields.io/badge/Difficulty-Basic-22c55e?style=for-the-badge)
 
@@ -8,13 +8,15 @@
 
 A social media platform enforces a strict character limit for tweets. Any tweet with a content length greater than specific number of characters is considered invalid. Your task is to identify invalid tweets that exceed a particular limit. The company maintains a table named **Tweet** to store all posts on the platform.
 
+```
 ╔═════════════╦══════════╗
-║ Column name ║ &nbsp; Type &nbsp; ║
+║ Column name ║   Type   ║
 ╠═════════════╬══════════╣
-║ &nbsp;tweet_id &nbsp; ║ &nbsp; int &nbsp; &nbsp;║
+║  tweet_id   ║   int    ║
 ║─────────────┼──────────║
-║ &nbsp; content &nbsp; ║ &nbsp;varchar ║
+║   content   ║  varchar ║
 ╚═════════════╩══════════╝
+```
 
 - tweet_id: A unique identifier (primary key) for the tweet table.
 - content: The text of the tweet, which can only contain alphanumeric characters, spaces (' '), and exclamation marks ('!'), no other special characters.
@@ -29,21 +31,25 @@ Input:
 
 Tweet
 
+```
 ╔══════════╦══════════════════════════════════════════════╗
-║ tweet_id ║ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; content &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;║
+║ tweet_id ║                   content                    ║
 ╠══════════╬══════════════════════════════════════════════╣
-║ &nbsp; &nbsp;1 &nbsp; &nbsp; ║ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hello World! &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ║
+║    1     ║                 Hello World!                 ║
 ║──────────┼──────────────────────────────────────────────║
-║ &nbsp; &nbsp;2 &nbsp; &nbsp; ║ This tweet has more than fifteen characters! ║
+║    2     ║ This tweet has more than fifteen characters! ║
 ╚══════════╩══════════════════════════════════════════════╝
+```
 
 Output:
 
+```
 ╔══════════╗
 ║ tweet_id ║
 ╠══════════╣
-║ &nbsp; &nbsp;2 &nbsp; &nbsp; ║
+║    2     ║
 ╚══════════╝
+```
 
 Explanation:
 
