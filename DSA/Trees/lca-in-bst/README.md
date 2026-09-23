@@ -1,4 +1,4 @@
-# [LCA in BST](https://takeuforward.org/plus/dsa/problems/lca-in-bst?subject=dsa&approach=optimal&tab=submissions)
+# [LCA in BST](https://takeuforward.org/practice/dsa/lca-in-bst)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -10,29 +10,33 @@ Given the **root** node of a binary search tree (BST) and two node values p,q.
 
 Return the lowest common ancestors **(LCA)** of the two nodes in BST.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** root = [5, 3, 6, 2, 4, null, 7] , p = 2, q = 4
 
-**Input:** root = [5, 3, 6, 2, 4, null, 7] , p = 2, q = 4</p><p>
+**Output:** [3]
 
-**Output:** [3]</p><p>
+**Explanation:**
 
-**Explanation:** </p>Below is image of the BST
+Below is image of the BST
 
-<img src="https://static.takeuforward.org/content/ProblemSetter-R7f_VyjM">
+<img src="https://static.takeuforward.org/content/1789455240_4dTmdZac.webp">
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** root = [5, 3, 6, 2, 4, null, 7] , p = 2, q = 7
 
-**Input:** root = [5, 3, 6, 2, 4, null, 7] , p = 2, q = 7</p><p>
+**Output:** [5]
 
-**Output:** [5]</p><p>
+**Explanation:**
 
-**Explanation:** </p>Below is image of the BST
+Below is image of the BST
 
-<img src="https://static.takeuforward.org/content/ProblemSetter-WMGru_wO">
+<img src="https://static.takeuforward.org/content/1789455322_0v2ijqV1.webp">
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -51,5 +55,5 @@ Return the lowest common ancestors **(LCA)** of the two nodes in BST.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

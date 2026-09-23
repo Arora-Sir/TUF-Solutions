@@ -1,4 +1,4 @@
-# [Minimum number of bracket reversals to make an expression balanced](https://takeuforward.org/plus/dsa/problems/minimum-number-of-bracket-reversals-to-make-an-expression-balanced?subject=dsa&approach=optimal-approach&tab=submissions)
+# [Minimum number of bracket reversals to make an expression balanced](https://takeuforward.org/practice/dsa/minimum-number-of-bracket-reversals-to-make-an-expression-balanced)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 
@@ -17,7 +17,7 @@ A balanced expression is a string where:
 - Every closing bracket ')' has exactly one corresponding opening bracket '('
 - Brackets are properly nested, meaning every opened bracket is closed before any outer bracket is closed
 
-### Example 1
+### Example 1:
 
 Input: s = ")(())((("
 
@@ -29,7 +29,7 @@ Explanation: One way to balance is:
 
 that can be formed in lesser reversals.
 
-### Example 2
+### Example 2:
 
 Input: s = "(()((()(())(("
 
@@ -38,6 +38,10 @@ Output: -1
 Explanation: There's no way we can balance
 
 this sequence of braces.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -53,5 +57,5 @@ this sequence of braces.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

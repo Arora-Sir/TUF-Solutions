@@ -10,13 +10,15 @@ As a business, you want to identify which customer places the most orders. This 
 
 You are given a table named **Orders** that tracks customer orders.
 
+```
 ╔═════════════════╦══════════╗
-║ Column Name ║ Type ║
+║   Column Name   ║   Type   ║
 ╠═════════════════╬══════════╣
-║ order_number ║ int ║
+║   order_number  ║   int    ║
 ║─────────────────┼──────────║
-║ customer_number ║ int ║
+║ customer_number ║   int    ║
 ╚═════════════════╩══════════╝
+```
 
 - **order_number:** Unique order ID (Primary Key) for each order placed.
 - **customer_number:** ID of the customer who placed the order.
@@ -31,25 +33,29 @@ Write a query to find the customer_number of the customer who has placed the mos
 
 Orders Table
 
+```
 ╔══════════════╦═════════════════╗
 ║ order_number ║ customer_number ║
 ╠══════════════╬═════════════════╣
-║ 1 ║ 1 ║
+║      1       ║        1        ║
 ║──────────────┼─────────────────║
-║ 2 ║ 2 ║
+║      2       ║        2        ║
 ║──────────────┼─────────────────║
-║ 3 ║ 3 ║
+║      3       ║        3        ║
 ║──────────────┼─────────────────║
-║ 4 ║ 3 ║
+║      4       ║        3        ║
 ╚══════════════╩═════════════════╝
+```
 
 **Expected Output:**
 
+```
 ╔═════════════════╗
 ║ customer_number ║
 ╠═════════════════╣
-║ 3 ║
+║        3        ║
 ╚═════════════════╝
+```
 
 **Explanation:**
 

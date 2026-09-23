@@ -1,4 +1,4 @@
-# [Reverse every word in a string](https://takeuforward.org/plus/dsa/problems/reverse-every-word-in-a-string?subject=dsa&approach=optimal-approach&tab=submissions)
+# [Reverse every word in a string](https://takeuforward.org/practice/dsa/reverse-every-word-in-a-string)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -10,7 +10,7 @@ Given an input string, containing upper-case and lower-case letters, digits, and
 
 Return a string with the words in **reverse order** , concatenated by a single space.
 
-### Example 1
+### Example 1:
 
 Input: s = "welcome to the jungle"
 
@@ -18,13 +18,17 @@ Output: "jungle the to welcome"
 
 Explanation: The words in the input string are "welcome", "to", "the", and "jungle". Reversing the order of these words gives "jungle", "the", "to", and "welcome". The output string should have exactly one space between each word.
 
-### Example 2
+### Example 2:
 
 Input: s = " amazing coding skills "
 
 Output: "skills coding amazing"
 
 Explanation: The input string has leading and trailing spaces, as well as multiple spaces between the words "amazing", "coding", and "skills". After trimming the leading and trailing spaces and reducing the multiple spaces between words to a single space, the words are "amazing", "coding", and "skills". Reversing the order of these words gives "skills", "coding", and "amazing". The output string should not have any leading or trailing spaces and should have exactly one space between each word.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -42,5 +46,5 @@ Explanation: The input string has leading and trailing spaces, as well as multip
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

@@ -10,13 +10,15 @@ In a social media application, users can follow other users. The system needs to
 
 You are given a **Followers** table with:
 
+```
 ╔═════════════╦══════════╗
-║ Column Name ║ Type ║
+║ Column Name ║   Type   ║
 ╠═════════════╬══════════╣
-║ user_id ║ int ║
+║   user_id   ║   int    ║
 ║─────────────┼──────────║
-║ follower_id ║ int ║
+║ follower_id ║   int    ║
 ╚═════════════╩══════════╝
+```
 
 - **user_id** : ID of the user being followed.
 - **follower_id** : ID of the user who follows user_id.
@@ -32,29 +34,33 @@ Write an SQL query to count the number of followers for each user, and return th
 
 Followers Table
 
+```
 ╔═════════╦═════════════╗
 ║ user_id ║ follower_id ║
 ╠═════════╬═════════════╣
-║ 0 ║ 1 ║
+║    0    ║      1      ║
 ║─────────┼─────────────║
-║ 1 ║ 0 ║
+║    1    ║      0      ║
 ║─────────┼─────────────║
-║ 2 ║ 0 ║
+║    2    ║      0      ║
 ║─────────┼─────────────║
-║ 2 ║ 1 ║
+║    2    ║      1      ║
 ╚═════════╩═════════════╝
+```
 
 **Expected Output:**
 
+```
 ╔═════════╦═════════════════╗
 ║ user_id ║ followers_count ║
 ╠═════════╬═════════════════╣
-║ 0 ║ 1 ║
+║    0    ║        1        ║
 ║─────────┼─────────────────║
-║ 1 ║ 1 ║
+║    1    ║        1        ║
 ║─────────┼─────────────────║
-║ 2 ║ 2 ║
+║    2    ║        2        ║
 ╚═════════╩═════════════════╝
+```
 
 **Explanation:**
 

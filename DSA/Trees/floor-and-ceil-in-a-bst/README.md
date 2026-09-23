@@ -1,4 +1,4 @@
-# [Floor and Ceil in a BST](https://takeuforward.org/plus/dsa/problems/floor-and-ceil-in-a-bst?subject=dsa&approach=ceiling&tab=submissions)
+# [Floor and Ceil in a BST](https://takeuforward.org/practice/dsa/floor-and-ceil-in-a-bst)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -14,25 +14,29 @@ Given a **root** of binary search tree and a **key** (node) value, find the floo
 
 If a particular floor or ceil value is not present then output -1.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** root = [8, 4, 12, 2, 6, 10, 14] , key = 11
 
-**Input:** root = [8, 4, 12, 2, 6, 10, 14] , key = 11</p><p>
+**Output:** [10, 12]
 
-**Output:** [10, 12]</p><p>
+**Explanation:**
 
-**Explanation:** </p><img src="https://static.takeuforward.org/content/ProblemSetter-eDbjy9Um">
+<img src="https://static.takeuforward.org/content/1789454993__SSnC3Ww.webp">
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** root = [8, 4, 12, 2, 6, 10, 14] , key = 15
 
-**Input:** root = [8, 4, 12, 2, 6, 10, 14] , key = 15</p><p>
+**Output:** [14, -1]
 
-**Output:** [14, -1]</p><p>
+**Explanation:**
 
-**Explanation:** </p><img src="https://static.takeuforward.org/content/ProblemSetter-D00IL4KV">
+<img src="https://static.takeuforward.org/content/1789455129_DglvF6AD.webp">
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -50,5 +54,5 @@ If a particular floor or ceil value is not present then output -1.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

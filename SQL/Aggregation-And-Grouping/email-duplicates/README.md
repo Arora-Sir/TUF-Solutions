@@ -10,13 +10,15 @@ In user account systems, duplicate email registrations can lead to confusion, se
 
 You are given a **Person** table:
 
+```
 ╔═════════════╦══════════╗
-║ Column Name ║ Type ║
+║ Column Name ║   Type   ║
 ╠═════════════╬══════════╣
-║ id ║ int ║
+║     id      ║   int    ║
 ║─────────────┼──────────║
-║ email ║ varchar ║
+║    email    ║ varchar  ║
 ╚═════════════╩══════════╝
+```
 
 - **id** : A unique identifier for the user.
 - **email** : The email address registered. The emails will not contain uppercase letters.
@@ -31,23 +33,27 @@ Write a query to find all duplicate email addresses from the table. It is guaran
 
 Person Table:
 
+```
 ╔════╦═════════╗
-║ id ║ email ║
+║ id ║  email  ║
 ╠════╬═════════╣
-║ 1 ║ a@b.com ║
+║ 1  ║ a@b.com ║
 ║────┼─────────║
-║ 2 ║ c@d.com ║
+║ 2  ║ c@d.com ║
 ║────┼─────────║
-║ 3 ║ a@b.com ║
+║ 3  ║ a@b.com ║
 ╚════╩═════════╝
+```
 
 **Output:**
 
+```
 ╔═════════╗
-║ email ║
+║  email  ║
 ╠═════════╣
 ║ a@b.com ║
 ╚═════════╝
+```
 
 **Explanation:**
 

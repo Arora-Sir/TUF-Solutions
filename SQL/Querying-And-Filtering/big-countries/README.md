@@ -10,27 +10,29 @@ A global research organisation is analysing big countries based on either their 
 
 Your task is to identify and retrieve big countries based on some criteria. The company maintains a table named **World** , which stores data about different countries.
 
+```
 ╔═════════════╦══════════╗
-║ Column name ║ &nbsp; Type &nbsp; ║
+║ Column name ║   Type   ║
 ╠═════════════╬══════════╣
-║ &nbsp; &nbsp;name &nbsp; &nbsp; ║ varchar &nbsp;║
+║    name     ║ varchar  ║
 ║─────────────┼──────────║
-║ &nbsp;continent &nbsp;║ varchar &nbsp;║
+║  continent  ║ varchar  ║
 ║─────────────┼──────────║
-║ &nbsp; &nbsp;area &nbsp; &nbsp; ║ &nbsp; int &nbsp; &nbsp;║
+║    area     ║   int    ║
 ║─────────────┼──────────║
-║ population &nbsp;║ &nbsp; int &nbsp; &nbsp;║
+║ population  ║   int    ║
 ║─────────────┼──────────║
-║ &nbsp; &nbsp; gdp &nbsp; &nbsp; ║ &nbsp;bigint &nbsp;║
+║     gdp     ║  bigint  ║
 ╚═════════════╩══════════╝
-</pre>
+```
+
 - name: The name of the country, which is the primary key.
 - continent: The continent to which the country belongs.
 - area: The total land area of the country (in square kilometers).
 - population: The total population of the country.
 - gdp: The gross domestic product (GDP) of the country.&nbsp;
 
-<p>A country is classified as big countries/ large nations if:
+A country is classified as big countries/ large nations if:
 
 - It has an area of at least 3,000,000 km², OR
 - It has a population of at least 25,000,000.
@@ -43,29 +45,35 @@ Example:
 
 Input: World Table
 
+```
 ╔═══════════╦════════════════╦══════════╦════════════╦══════════════╗
-║ &nbsp; name &nbsp; &nbsp;║ &nbsp; continent &nbsp; &nbsp;║ &nbsp; area &nbsp; ║ population ║ &nbsp; &nbsp; gdp &nbsp; &nbsp; &nbsp;║
+║   name    ║   continent    ║   area   ║ population ║     gdp      ║
 ╠═══════════╬════════════════╬══════════╬════════════╬══════════════╣
-║ Greenland ║ North America &nbsp;║ &nbsp;652230 &nbsp;║ &nbsp;25500100 &nbsp;║ 20343000000 &nbsp;║
+║ Greenland ║ North America  ║  652230  ║  25500100  ║ 20343000000  ║
 ║───────────┼────────────────┼──────────┼────────────┼──────────────║
-║ &nbsp;Iceland &nbsp;║ &nbsp; &nbsp; Europe &nbsp; &nbsp; ║ &nbsp;28748 &nbsp; ║ &nbsp;2831741 &nbsp; ║ 12960000000 &nbsp;║
+║  Iceland  ║     Europe     ║  28748   ║  2831741   ║ 12960000000  ║
 ║───────────┼────────────────┼──────────┼────────────┼──────────────║
-║ &nbsp;Brazil &nbsp; ║ South America &nbsp;║ 2381741 &nbsp;║ &nbsp;37100000 &nbsp;║ 188681000000 ║
+║  Brazil   ║ South America  ║ 2381741  ║  37100000  ║ 188681000000 ║
 ║───────────┼────────────────┼──────────┼────────────┼──────────────║
-║ &nbsp; Fiji &nbsp; &nbsp;║ &nbsp; &nbsp;Oceania &nbsp; &nbsp; ║ &nbsp; 468 &nbsp; &nbsp;║ &nbsp; 78115 &nbsp; &nbsp;║ &nbsp;3712000000 &nbsp;║
+║   Fiji    ║    Oceania     ║   468    ║   78115    ║  3712000000  ║
 ║───────────┼────────────────┼──────────┼────────────┼──────────────║
-║ &nbsp; Nepal &nbsp; ║ &nbsp; &nbsp; &nbsp;Asia &nbsp; &nbsp; &nbsp;║ 1246700 &nbsp;║ &nbsp;20609294 &nbsp;║ 100990000000 ║
+║   Nepal   ║      Asia      ║ 1246700  ║  20609294  ║ 100990000000 ║
 ╚═══════════╩════════════════╩══════════╩════════════╩══════════════╝
-</pre><p>Output:
+```
 
+Output:
+
+```
 ╔═══════════╦════════════╦══════════╗
-║ &nbsp; name &nbsp; &nbsp;║ population ║ &nbsp; area &nbsp; ║
+║   name    ║ population ║   area   ║
 ╠═══════════╬════════════╬══════════╣
-║ Greenland ║ &nbsp;25500100 &nbsp;║ &nbsp;652230 &nbsp;║
+║ Greenland ║  25500100  ║  652230  ║
 ║───────────┼────────────┼──────────║
-║ &nbsp; Brazil &nbsp;║ &nbsp;37100000 &nbsp;║ 2381741 &nbsp;║
+║   Brazil  ║  37100000  ║ 2381741  ║
 ╚═══════════╩════════════╩══════════╝
-</pre><p>Explanation:
+```
+
+Explanation:
 
 Greenland - Has a population of 25,500,100 (≥ 25M), so it's included.
 

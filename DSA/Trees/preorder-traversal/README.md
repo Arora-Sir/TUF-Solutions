@@ -1,4 +1,4 @@
-# [Preorder Traversal](https://takeuforward.org/plus/dsa/problems/preorder-traversal?subject=dsa&approach=iterative-approach&tab=submissions)
+# [Preorder Traversal](https://takeuforward.org/practice/dsa/preorder-traversal)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -8,25 +8,27 @@
 
 Given root of binary tree, return the **preorder** traversal of the binary tree.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** root = [1, 4, null, 4 2]
 
-**Input:** root = [1, 4, null, 4 2]</p><p>
+**Output:** [1, 4, 4, 2]
 
-**Output:** [1, 4, 4, 2]</p><p>
+**Explanation:**
 
-**Explanation:** </p><img src="https://static.takeuforward.org/content/ProblemSetter--a35ZZF-">
+<img src="https://static.takeuforward.org/content/1789470641_mWl8-AIY.webp">
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** root = [1]
 
-**Input:** root = [1]</p><p>
+**Output:** [1]
 
-**Output:** [1]</p><p>
+**Explanation:** Only root node is present.
 
-**Explanation:** Only root node is present.</p>
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -43,5 +45,5 @@ Given root of binary tree, return the **preorder** traversal of the binary tree.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

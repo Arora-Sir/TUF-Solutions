@@ -1,4 +1,4 @@
-# [Fruit Into Baskets](https://takeuforward.org/plus/dsa/problems/fruit-into-baskets?subject=dsa&approach=optimal&sidebar=open&tab=submissions)
+# [Fruit Into Baskets](https://takeuforward.org/practice/dsa/fruit-into-baskets)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -18,15 +18,15 @@ The goal is to gather as much fruit as possible, adhering to the owner's stringe
 
 Return the **maximum** number of fruits that can be picked.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** fruits = [1, 2, 1]
 
-**Input:** fruits = [1, 2, 1]</p><p>
+**Output:** 3
 
-**Output:** 3</p><p>
+**Explanation:** We will start from first tree.
 
-**Explanation:** We will start from first tree.</p>The first tree produces the fruit of kind '1' and we will put that in the first basket.
+The first tree produces the fruit of kind '1' and we will put that in the first basket.
 
 The second tree produces the fruit of kind '2' and we will put that in the second basket.
 
@@ -34,19 +34,23 @@ The third tree produces the fruit of kind '1' and we have first basket that is a
 
 Hence we were able to collect total of 3 fruits.
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** fruits = [1, 2, 3, 2, 2]
 
-**Input:** fruits = [1, 2, 3, 2, 2]</p><p>
+**Output:** 4
 
-**Output:** 4</p><p>
+**Explanation:** we will start from second tree.
 
-**Explanation:** we will start from second tree.</p>The first basket contains fruits from second , fourth and fifth.
+The first basket contains fruits from second , fourth and fifth.
 
 The second basket will contain fruit from third tree.
 
 Hence we collected total of 4 fruits.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -63,5 +67,5 @@ Hence we collected total of 4 fruits.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

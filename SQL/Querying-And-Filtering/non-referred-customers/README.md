@@ -10,15 +10,17 @@ A company has a customer referral program, where existing customers can refer ne
 
 The company maintains a table named **Customer** to store customer details.
 
+```
 ╔═════════════╦══════════╗
-║ Column Name ║ &nbsp; Type &nbsp; ║
+║ Column Name ║   Type   ║
 ╠═════════════╬══════════╣
-║ &nbsp; &nbsp; id &nbsp; &nbsp; &nbsp;║ &nbsp; int &nbsp; &nbsp;║
+║     id      ║   int    ║
 ║─────────────┼──────────║
-║ &nbsp; &nbsp;name &nbsp; &nbsp; ║ &nbsp;varchar&nbsp;║
+║    name     ║  varchar ║
 ║─────────────┼──────────║
-║ referee_id &nbsp;║ &nbsp; int &nbsp; &nbsp;║
+║ referee_id  ║   int    ║
 ╚═════════════╩══════════╝
+```
 
 - *id:* A unique identifier (primary key) for the customer table.
 - *name:* The name of the customer.
@@ -30,39 +32,41 @@ The sample output format is in the following example.
 
 ### Example 1:
 
-Example 1:
-
 Customer Table:
 
+```
 ╔══════════╦══════════╦════════════╗
-║ &nbsp; &nbsp;id &nbsp; &nbsp;║ &nbsp; name &nbsp; ║ referee_id ║
+║    id    ║   name   ║ referee_id ║
 ╠══════════╬══════════╬════════════╣
-║ &nbsp; &nbsp;1 &nbsp; &nbsp; ║ &nbsp;Alice &nbsp; ║ &nbsp; &nbsp;NULL &nbsp; &nbsp;║
+║    1     ║  Alice   ║    NULL    ║
 ║──────────┼──────────┼────────────║
-║ &nbsp; &nbsp;2 &nbsp; &nbsp; ║ &nbsp;Daniel &nbsp;║ &nbsp; &nbsp;NULL &nbsp; &nbsp;║
+║    2     ║  Daniel  ║    NULL    ║
 ║──────────┼──────────┼────────────║
-║ &nbsp; &nbsp;3 &nbsp; &nbsp; ║ &nbsp;James &nbsp; ║ &nbsp; &nbsp; 2 &nbsp; &nbsp; &nbsp;║
+║    3     ║  James   ║     2      ║
 ║──────────┼──────────┼────────────║
-║ &nbsp; &nbsp;4 &nbsp; &nbsp; ║ &nbsp;Sarah &nbsp; ║ &nbsp; &nbsp;NULL &nbsp; &nbsp;║
+║    4     ║  Sarah   ║    NULL    ║
 ║──────────┼──────────┼────────────║
-║ &nbsp; &nbsp;5 &nbsp; &nbsp; ║ &nbsp;Kevin &nbsp; ║ &nbsp; &nbsp; 1 &nbsp; &nbsp; &nbsp;║
+║    5     ║  Kevin   ║     1      ║
 ║──────────┼──────────┼────────────║
-║ &nbsp; &nbsp;6 &nbsp; &nbsp; ║ &nbsp;Robert &nbsp;║ &nbsp; &nbsp; 2 &nbsp; &nbsp; &nbsp;║
+║    6     ║  Robert  ║     2      ║
 ╚══════════╩══════════╩════════════╝
+```
 
 Output:
 
+```
 ╔══════════╗
-║ &nbsp; name &nbsp; ║
+║   name   ║
 ╠══════════╣
-║ &nbsp;Alice &nbsp; ║
+║  Alice   ║
 ║──────────║
-║ &nbsp;Daniel &nbsp;║
+║  Daniel  ║
 ║──────────║
-║ &nbsp;Sarah &nbsp; ║
+║  Sarah   ║
 ║──────────║
-║ &nbsp;Kevin &nbsp; ║
+║  Kevin   ║
 ╚══════════╝
+```
 
 **Explanation:**
 

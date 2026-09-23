@@ -1,4 +1,4 @@
-# [Count and say](https://takeuforward.org/plus/dsa/problems/count-and-say?subject=dsa&approach=optimal-approach&tab=submissions)
+# [Count and say](https://takeuforward.org/practice/dsa/count-and-say)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 
@@ -21,7 +21,7 @@ For example:
 
 Given a positive integer n, return the **nth** term of the count-and-say sequence.
 
-### Example 1
+### Example 1:
 
 Input: n = 4
 
@@ -37,7 +37,7 @@ countAndSay(3) is described as "two 1s" = "21"
 
 countAndSay(4) is described as "one 2, then one 1" = "1211"
 
-### Example 2
+### Example 2:
 
 Input: n = 1
 
@@ -46,6 +46,10 @@ Output: "1"
 Explanation:
 
 This is the base case where countAndSay(1) is "1".
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -61,5 +65,5 @@ This is the base case where countAndSay(1) is "1".
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

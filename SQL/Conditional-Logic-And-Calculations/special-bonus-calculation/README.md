@@ -10,15 +10,17 @@ A company wants to reward certain employees with a 100% bonus based on some cond
 
 You are given an Employees table with:
 
+```
 ╔═════════════╦══════════╗
-║ Column Name ║ Type ║
+║ Column Name ║   Type   ║
 ╠═════════════╬══════════╣
-║ employee_id ║ int ║
+║ employee_id ║   int    ║
 ║─────────────┼──────────║
-║ name ║ varchar ║
+║    name     ║ varchar  ║
 ║─────────────┼──────────║
-║ salary ║ int ║
+║   salary    ║   int    ║
 ╚═════════════╩══════════╝
+```
 
 - *employee_id* : Unique identifier (primary key) of each employee.
 - *name* : Name of the employee.
@@ -38,35 +40,39 @@ Input:
 
 Employees:
 
+```
 ╔═════════════╦══════════╦══════════╗
-║ employee_id ║ name ║ salary ║
+║ employee_id ║   name   ║  salary  ║
 ╠═════════════╬══════════╬══════════╣
-║ 2 ║ Meir ║ 3000 ║
+║      2      ║   Meir   ║   3000   ║
 ║─────────────┼──────────┼──────────║
-║ 3 ║ Michael ║ 3800 ║
+║      3      ║ Michael  ║   3800   ║
 ║─────────────┼──────────┼──────────║
-║ 7 ║ Addilyn ║ 7400 ║
+║      7      ║ Addilyn  ║   7400   ║
 ║─────────────┼──────────┼──────────║
-║ 8 ║ Juan ║ 6100 ║
+║      8      ║   Juan   ║   6100   ║
 ║─────────────┼──────────┼──────────║
-║ 9 ║ Kannon ║ 7700 ║
+║      9      ║  Kannon  ║   7700   ║
 ╚═════════════╩══════════╩══════════╝
+```
 
 Expected Output:
 
+```
 ╔═════════════╦══════════╗
-║ employee_id ║ bonus ║
+║ employee_id ║  bonus   ║
 ╠═════════════╬══════════╣
-║ 2 ║ 0 ║
+║      2      ║    0     ║
 ║─────────────┼──────────║
-║ 3 ║ 0 ║
+║      3      ║    0     ║
 ║─────────────┼──────────║
-║ 7 ║ 7400 ║
+║      7      ║   7400   ║
 ║─────────────┼──────────║
-║ 8 ║ 0 ║
+║      8      ║    0     ║
 ║─────────────┼──────────║
-║ 9 ║ 7700 ║
+║      9      ║   7700   ║
 ╚═════════════╩══════════╝
+```
 
 Explanation:
 

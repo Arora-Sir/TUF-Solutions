@@ -1,4 +1,4 @@
-# [Find the starting point in LL](https://takeuforward.org/plus/dsa/problems/find-the-starting-point-in-ll?subject=dsa&category=linked-list&subcategory=faqs--medium&approach=optimal&tab=submissions)
+# [Find the starting point in LL](https://takeuforward.org/practice/dsa/find-the-starting-point-in-ll)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -12,27 +12,29 @@ A loop exists in a linked list if some node in the list can be reached again by 
 
 Note that pos is not passed as a parameter.
 
-### Example 1
+### Example 1:
 
 <img src="https://static.takeuforward.org/content/ProblemSetter-9CeYMulT">
 
-<p>
+**Input:** head -> 1 -> 2 -> 3 -> 4 -> 5, pos = 1
 
-**Input:** head -> 1 -> 2 -> 3 -> 4 -> 5, pos = 1</p><p>
+**Output:** (value of the returned node is displayed): 2
 
-**Output:** (value of the returned node is displayed): 2</p> **Expla﻿nation** : The tail of the linked list connects to the node at 1st index.
+**Expla﻿nation** : The tail of the linked list connects to the node at 1st index.
 
-### Example 2
+### Example 2:
 
 <img src="https://static.takeuforward.org/content/ProblemSetter-VIieMjlM">
 
-<p>
+**Input:** head -> 1 -> 3 -> 7 -> 4, pos = -1
 
-**Input:** head -> 1 -> 3 -> 7 -> 4, pos = -1</p><p>
+**Output:** (value of the returned node is displayed): null
 
-**Output:** (value of the returned node is displayed): null</p><p>
+**Explanation:** No loop is present in the linked list.
 
-**Explanation:** No loop is present in the linked list.</p>
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -50,5 +52,5 @@ Note that pos is not passed as a parameter.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

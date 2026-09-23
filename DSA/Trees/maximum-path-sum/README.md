@@ -1,4 +1,4 @@
-# [Maximum path sum](https://takeuforward.org/plus/dsa/problems/maximum-path-sum-?subject=dsa&approach=optimal&tab=submissions)
+# [Maximum path sum](https://takeuforward.org/practice/dsa/maximum-path-sum-)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -12,29 +12,33 @@ The total of each node's values along a path is its **path sum** . Return the **
 
 **Note:** The path does not have to go via the root.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** root = [20, 9, -10, null, null, 15, 7]
 
-**Input:** root = [20, 9, -10, null, null, 15, 7]</p><p>
+**Output:** 34
 
-**Output:** 34</p><p>
+**Explanation:** The path from node 15 to node 9 has maximum path sum.
 
-**Explanation:** The path from node 15 to node 9 has maximum path sum.</p>The path is 15 -> -10 -> 20 -> 9.
+The path is 15 -> -10 -> 20 -> 9.
 
 <img src="https://static.takeuforward.org/content/ProblemSetter-gLEBhSXO">
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** root = [-10, 9, 20, null, null, 15, 7]
 
-**Input:** root = [-10, 9, 20, null, null, 15, 7]</p><p>
+**Output:** 42
 
-**Output:** 42</p><p>
+**Explanation:** The path from node 15 to node 7 has maximum path sum.
 
-**Explanation:** The path from node 15 to node 7 has maximum path sum.</p>The path is 15 -> 20 -> 7.
+The path is 15 -> 20 -> 7.
 
 <img src="https://static.takeuforward.org/content/ProblemSetter-BBBySXwH">
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -51,5 +55,5 @@ The total of each node's values along a path is its **path sum** . Return the **
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

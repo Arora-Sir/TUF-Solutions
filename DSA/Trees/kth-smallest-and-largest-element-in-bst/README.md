@@ -1,4 +1,4 @@
-# [Kth Smallest and Largest element in BST](https://takeuforward.org/plus/dsa/problems/kth-smallest-and-largest-element-in-bst?subject=dsa&approach=optimal&tab=submissions)
+# [Kth Smallest and Largest element in BST](https://takeuforward.org/practice/dsa/kth-smallest-and-largest-element-in-bst)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -12,29 +12,33 @@ Return the **k** ^ **th** **smallest** and **largest** value (1-indexed) of all 
 
 Return the 1^st integer as k^th smallest and 2^nd integer as k^th largest in the returned array.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** root = [3,1,4,null,2] , k = 1
 
-**Input:** root = [3,1,4,null,2] , k = 1</p><p>
+**Output:** [1, 4]
 
-**Output:** [1, 4]</p><p>
+**Explanation:**
 
-**Explanation:** </p>The 1^st smallest value in given BST is 1.
+The 1^st smallest value in given BST is 1.
 
 The 1^st largest value in given BST is 4.
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** root = [5, 3, 6, 2, null, null, null, 1] , k = 3
 
-**Input:** root = [5, 3, 6, 2, null, null, null, 1] , k = 3</p><p>
+**Output:** [3, 3]
 
-**Output:** [3, 3]</p><p>
+**Explanation:**
 
-**Explanation:** </p>The 3^rd smallest value in given BST is 3.
+The 3^rd smallest value in given BST is 3.
 
 The 3^rd largest value in given BST is 3.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -52,5 +56,5 @@ The 3^rd largest value in given BST is 3.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

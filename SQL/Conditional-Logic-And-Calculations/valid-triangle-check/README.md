@@ -10,15 +10,17 @@ A geometry software is used to verify whether three given line segments can form
 
 You are given a **Triangle** table with columns:
 
+```
 ╔═════════════╦══════════╗
-║ Column Name ║ Type ║
+║ Column Name ║   Type   ║
 ╠═════════════╬══════════╣
-║ x ║ int ║
+║      x      ║   int    ║
 ║─────────────┼──────────║
-║ y ║ int ║
+║      y      ║   int    ║
 ║─────────────┼──────────║
-║ z ║ int ║
+║      z      ║   int    ║
 ╚═════════════╩══════════╝
+```
 
 - **x, y, z** : The lengths of three line segments.
 - (x, y, z) is the primary key column for this table.
@@ -36,23 +38,27 @@ Return all columns (x, y, z) and an extra column **triangle** with value:
 
 Triangle Table
 
+```
 ╔═════╦═════╦═════╗
-║ x ║ y ║ z ║
+║  x  ║  y  ║  z  ║
 ╠═════╬═════╬═════╣
-║ 13 ║ 15 ║ 30 ║
+║ 13  ║ 15  ║ 30  ║
 ║─────┼─────┼─────║
-║ 10 ║ 20 ║ 15 ║
+║ 10  ║ 20  ║ 15  ║
 ╚═════╩═════╩═════╝
+```
 
 **Expected Output:**
 
+```
 ╔═════╦═════╦═════╦═══════════╗
-║ x ║ y ║ z ║ triangle ║
+║  x  ║  y  ║  z  ║ triangle  ║
 ╠═════╬═════╬═════╬═══════════╣
-║ 13 ║ 15 ║ 30 ║ No ║
+║ 13  ║ 15  ║ 30  ║    No     ║
 ║─────┼─────┼─────┼───────────║
-║ 10 ║ 20 ║ 15 ║ Yes ║
+║ 10  ║ 20  ║ 15  ║    Yes    ║
 ╚═════╩═════╩═════╩═══════════╝
+```
 
 **Explanation:**
 

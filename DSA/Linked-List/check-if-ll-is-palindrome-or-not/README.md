@@ -1,4 +1,4 @@
-# [Check if LL is palindrome or not](https://takeuforward.org/plus/dsa/problems/check-if-ll-is-palindrome-or-not?subject=dsa&approach=optimal&tab=submissions)
+# [Check if LL is palindrome or not](https://takeuforward.org/practice/dsa/check-if-ll-is-palindrome-or-not)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -10,25 +10,25 @@ Given the head of a singly linked list representing a positive integer number. E
 
 A palindrome is a sequence that reads the same forward and backwards.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** head -> 3 -> 7 -> 5 -> 7 -> 3
 
-**Input:** head -> 3 -> 7 -> 5 -> 7 -> 3</p><p>
+**Output:** true
 
-**Output:** true</p><p>
+**Explanation:** 37573 is a palindrome.
 
-**Explanation:** 37573 is a palindrome.</p>
+### Example 2:
 
-### Example 2
+**Input:** head -> 1 -> 1 -> 2 -> 1
 
-<p>
+**Output:** false
 
-**Input:** head -> 1 -> 1 -> 2 -> 1</p><p>
+**Explanation:** 1121 is not a palindrome.
 
-**Output:** false</p><p>
+Still unsure what the problem is asking ?
 
-**Explanation:** 1121 is not a palindrome.</p>
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -46,5 +46,5 @@ A palindrome is a sequence that reads the same forward and backwards.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

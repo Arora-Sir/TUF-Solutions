@@ -1,4 +1,4 @@
-# [Delete a node in BST](https://takeuforward.org/plus/dsa/problems/delete-a-node-in-bst?subject=dsa&approach=ceiling&tab=submissions)
+# [Delete a node in BST](https://takeuforward.org/practice/dsa/delete-a-node-in-bst)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -10,31 +10,35 @@ Given the **root** node of a binary search tree (BST) and a value key. Return th
 
 Note: As there can be many correct answers, the compiler returns true if the answer is correct, otherwise false.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** root = [5, 3, 6, 2, 4, null, 7] , key = 3
 
-**Input:** root = [5, 3, 6, 2, 4, null, 7] , key = 3</p><p>
+**Output:** [5, 4, 6, 2, null, null, 7]
 
-**Output:** [5, 4, 6, 2, null, null, 7]</p><p>
+**Explanation:**
 
-**Explanation:** </p>Below is image of the original BST
+Below is image of the original BST
 
-<img src="https://static.takeuforward.org/content/ProblemSetter-PcCLLBxP">
+<img src="https://static.takeuforward.org/content/1789455701_RaqPsdZu.webp">
 
 Below is image where the node 3 is deleted
 
-<img src="https://static.takeuforward.org/content/ProblemSetter-kSeVvzcS">
+<img src="https://static.takeuforward.org/content/1789455712_HmjlbJAc.webp">
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** root = [5, 3, 6, 2, 4, null, 7] , key = 0
 
-**Input:** root = [5, 3, 6, 2, 4, null, 7] , key = 0</p><p>
+**Output:** [5, 3, 6, 2, 4, null, 7]
 
-**Output:** [5, 3, 6, 2, 4, null, 7]</p><p>
+**Explanation:**
 
-**Explanation:** </p>The tree does not have node with value 0.
+The tree does not have node with value 0.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -53,5 +57,5 @@ Below is image where the node 3 is deleted
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

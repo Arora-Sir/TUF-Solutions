@@ -1,4 +1,4 @@
-# [Postorder Traversal](https://takeuforward.org/plus/dsa/problems/postorder-traversal?subject=dsa&approach=iterative-approach&tab=submissions)
+# [Postorder Traversal](https://takeuforward.org/practice/dsa/postorder-traversal)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -8,29 +8,29 @@
 
 Given root of binary tree, return the **Postorder** traversal of the binary tree.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** root = [1, 4, null, 4, 2]
 
-**Input:** root = [1, 4, null, 4, 2]</p><p>
+**Output:** [4, 2, 4, 1]
 
-**Output:** [4, 2, 4, 1]</p><p>
+**Explanation:**
 
-**Explanation:** </p>
+<img src="https://static.takeuforward.org/content/1789470546_tJUFiPDa.webp">
 
-<img src="https://static.takeuforward.org/content/ProblemSetter-ORvQLHw4">
+### Example 2:
 
-### Example 2
+**Input:** root = [1, null, 2, 3]
 
-<p>
+**Output:** [3, 2, 1]
 
-**Input:** root = [1, null, 2, 3]</p><p>
+**Explanation:**
 
-**Output:** [3, 2, 1]</p><p>
+\<img src="https://static.takeuforward.org/content/1789470552_ndx2yHJC.webp">
 
-**Explanation:** </p>
+Still unsure what the problem is asking ?
 
-<img src="https://static.takeuforward.org/content/ProblemSetter-11arw0oH">
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -47,5 +47,5 @@ Given root of binary tree, return the **Postorder** traversal of the binary tree
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

@@ -1,4 +1,4 @@
-# [Implement Stack using Arrays](https://takeuforward.org/plus/dsa/problems/implement-stack-using-arrays?subject=dsa&approach=optimal&tab=submissions)
+# [Implement Stack using Arrays](https://takeuforward.org/practice/dsa/implement-stack-using-arrays)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -20,9 +20,9 @@ int top(): Returns the top element of the stack without removing it.
 
 boolean isEmpty(): Returns true if the stack is empty, false otherwise.
 
-<em style="color: rgb(245, 245, 245);">Please note that this section might seem a bit difficult without prior knowledge on what stacks is, we will soon try to add basics concepts for your ease! If you know the concepts already please go ahead to give a shot to the problem. Cheers!</em>
+<em style="color:rgb(245, 245, 245)">Please note that this section might seem a bit difficult without prior knowledge on what stacks is, we will soon try to add basics concepts for your ease! If you know the concepts already please go ahead to give a shot to the problem. Cheers!</em>
 
-### Example 1
+### Example 1:
 
 Input: operations = ["ArrayStack", "push", "push", "top", "pop", "isEmpty"]
 
@@ -44,7 +44,7 @@ stack.pop(); // returns 10
 
 stack.isEmpty(); // returns false
 
-### Example 2
+### Example 2:
 
 Input: operations = ["ArrayStack","isEmpty", "push", "pop", "isEmpty"]
 
@@ -62,6 +62,10 @@ stack.pop(); // returns 1
 
 stack.isEmpty(); // returns true
 
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
+
 ### Constraints
 
 - 1 <= numbers of calls made <= 100
@@ -77,5 +81,5 @@ stack.isEmpty(); // returns true
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

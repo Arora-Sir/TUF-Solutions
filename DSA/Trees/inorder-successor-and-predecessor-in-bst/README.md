@@ -1,4 +1,4 @@
-# [Inorder successor and predecessor in BST](https://takeuforward.org/plus/dsa/problems/inorder-successor-and-predecessor-in-bst?subject=dsa&approach=optimal&tab=submissions)
+# [Inorder successor and predecessor in BST](https://takeuforward.org/practice/dsa/inorder-successor-and-predecessor-in-bst)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -12,25 +12,29 @@ Given the root node of a binary search tree (BST) and an integer key. Return the
 
 If predecessor or successor is missing then return -1.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** root = [5, 2, 10, 1, 4, 7, 12] , key = 10
 
-**Input:** root = [5, 2, 10, 1, 4, 7, 12] , key = 10</p><p>
+**Output:** [7, 12]
 
-**Output:** [7, 12]</p><p>
+**Explanation:**
 
-**Explanation:** </p><img src="https://static.takeuforward.org/content/ProblemSetter-8D_p20dq">
+<img src="https://static.takeuforward.org/content/1789455597_eGJ022iZ.webp">
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** root = [5, 2, 10, 1, 4, 7, 12] , key = 12
 
-**Input:** root = [5, 2, 10, 1, 4, 7, 12] , key = 12</p><p>
+**Output:** [10, -1]
 
-**Output:** [10, -1]</p><p>
+**Explanation:**
 
-**Explanation:** </p><img src="https://static.takeuforward.org/content/ProblemSetter-copgO0cS">
+<img src="https://static.takeuforward.org/content/1789455615_WHPH-jqY.webp">
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -48,5 +52,5 @@ If predecessor or successor is missing then return -1.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

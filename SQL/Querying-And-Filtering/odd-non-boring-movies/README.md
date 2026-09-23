@@ -10,17 +10,19 @@ A movie streaming platform maintains a database of movies. The content curation 
 
 The company maintains a **Cinema** table that contains:
 
+```
 ╔═════════════╦══════════╗
-║ Column Name ║ Type ║
+║ Column Name ║   Type   ║
 ╠═════════════╬══════════╣
-║ id ║ int ║
+║     id      ║   int    ║
 ║─────────────┼──────────║
-║ movie ║ varchar ║
+║    movie    ║ varchar  ║
 ║─────────────┼──────────║
-║ description ║ varchar ║
+║ description ║ varchar  ║
 ║─────────────┼──────────║
-║ rating ║ float ║
+║   rating    ║  float   ║
 ╚═════════════╩══════════╝
+```
 
 - id: A unique (primary key) integer representing each movie.
 - movie: The title of the movie.
@@ -41,29 +43,33 @@ The sample output format is in the following example.
 
 Cinema Table:
 
+```
 ╔══════════╦══════════════╦═════════════╦══════════╗
-║ id ║ movie ║ description ║ rating ║
+║    id    ║    movie     ║ description ║  rating  ║
 ╠══════════╬══════════════╬═════════════╬══════════╣
-║ 1 ║ Galaxy Raid ║ great 3D ║ 8.9 ║
+║    1     ║ Galaxy Raid  ║  great 3D   ║   8.9    ║
 ║──────────┼──────────────┼─────────────┼──────────║
-║ 2 ║ Future Code ║ fiction ║ 8.5 ║
+║    2     ║ Future Code  ║   fiction   ║   8.5    ║
 ║──────────┼──────────────┼─────────────┼──────────║
-║ 3 ║ Old Times ║ boring ║ 6.2 ║
+║    3     ║  Old Times   ║   boring    ║   6.2    ║
 ║──────────┼──────────────┼─────────────┼──────────║
-║ 4 ║ Winter Dream ║ Fantacy ║ 8.6 ║
+║    4     ║ Winter Dream ║   Fantacy   ║   8.6    ║
 ║──────────┼──────────────┼─────────────┼──────────║
-║ 5 ║ Silent Echo ║ Interesting ║ 9.1 ║
+║    5     ║ Silent Echo  ║ Interesting ║   9.1    ║
 ╚══════════╩══════════════╩═════════════╩══════════╝
+```
 
 **Output:**
 
+```
 ╔══════════╦═════════════╦═════════════╦══════════╗
-║ id ║ movie ║ description ║ rating ║
+║    id    ║    movie    ║ description ║  rating  ║
 ╠══════════╬═════════════╬═════════════╬══════════╣
-║ 5 ║ Silent Echo ║ Interesting ║ 9.1 ║
+║    5     ║ Silent Echo ║ Interesting ║   9.1    ║
 ║──────────┼─────────────┼─────────────┼──────────║
-║ 1 ║ Galaxy Raid ║ great 3D ║ 8.9 ║
+║    1     ║ Galaxy Raid ║  great 3D   ║   8.9    ║
 ╚══════════╩═════════════╩═════════════╩══════════╝
+```
 
 **Explanation:**
 

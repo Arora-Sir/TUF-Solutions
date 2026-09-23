@@ -1,4 +1,4 @@
-# [Maximum Depth in BT](https://takeuforward.org/plus/dsa/problems/maximum-depth-in-bt?subject=dsa&approach=iterative-approach&tab=submissions)
+# [Maximum Depth in BT](https://takeuforward.org/practice/dsa/maximum-depth-in-bt)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -10,27 +10,31 @@ Given root of the binary tree, return its **maximum depth** .
 
 A binary tree's maximum depth is number of nodes along the longest path from root node down to the farthest node.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** root = [1, 2, 3, null, null, null , 6]
 
-**Input:** root = [1, 2, 3, null, null, null , 6]</p><p>
+**Output:** 3
 
-**Output:** 3</p><p>
+**Explanation:** The path from root node 1 to node with value 6 has maximum depth with 3 nodes along path.
 
-**Explanation:** The path from root node 1 to node with value 6 has maximum depth with 3 nodes along path.</p><img src="https://static.takeuforward.org/content/ProblemSetter-iaO2S02r">
+<img src="https://static.takeuforward.org/content/1789470317_UHqThEg9.webp">
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** root = [3, 9, 20, null, null, 15 , 7]
 
-**Input:** root = [3, 9, 20, null, null, 15 , 7]</p><p>
+**Output:** 3
 
-**Output:** 3</p><p>
+**Explanation:** The path from root node 3 to node with value 15 has maximum depth with 3 nodes along path.
 
-**Explanation:** The path from root node 3 to node with value 15 has maximum depth with 3 nodes along path.</p>There exists other paths to reach the solution.
+There exists other paths to reach the solution.
 
-<img src="https://static.takeuforward.org/content/ProblemSetter-6P7ar26j">
+<img src="https://static.takeuforward.org/content/1789470325_TYeGIuup.webp">
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -47,5 +51,5 @@ A binary tree's maximum depth is number of nodes along the longest path from roo
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

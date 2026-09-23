@@ -10,15 +10,17 @@ At a university, teachers may teach the same subject in multiple departments, bu
 
 You are given a **Teacher** table with the following columns:
 
+```
 ╔═════════════╦══════════╗
-║ Column name ║ Type ║
+║ Column name ║   Type   ║
 ╠═════════════╬══════════╣
-║ teacher_id ║ int ║
+║ teacher_id  ║   int    ║
 ║─────────────┼──────────║
-║ subject_id ║ int ║
+║ subject_id  ║   int    ║
 ║─────────────┼──────────║
-║ dept_id ║ int ║
+║   dept_id   ║   int    ║
 ╚═════════════╩══════════╝
+```
 
 - teacher_id: The ID of the teacher.
 - subject_id: The ID of the subject being taught.
@@ -32,27 +34,31 @@ You are given a **Teacher** table with the following columns:
 
 **Example Input:**
 
+```
 Teacher Table
 ╔════════════╦════════════╦══════════╗
-║ teacher_id ║ subject_id ║ dept_id ║
+║ teacher_id ║ subject_id ║ dept_id  ║
 ╠════════════╬════════════╬══════════╣
-║ 1 ║ 2 ║ 3 ║
-║ 1 ║ 2 ║ 4 ║
-║ 1 ║ 3 ║ 3 ║
-║ 2 ║ 1 ║ 1 ║
-║ 2 ║ 2 ║ 1 ║
-║ 2 ║ 3 ║ 1 ║
-║ 2 ║ 4 ║ 1 ║
+║     1      ║     2      ║    3     ║
+║     1      ║     2      ║    4     ║
+║     1      ║     3      ║    3     ║
+║     2      ║     1      ║    1     ║
+║     2      ║     2      ║    1     ║
+║     2      ║     3      ║    1     ║
+║     2      ║     4      ║    1     ║
 ╚════════════╩════════════╩══════════╝
+```
 
 **Output:**
 
+```
 ╔════════════╦═════╗
 ║ teacher_id ║ cnt ║
 ╠════════════╬═════╣
-║ 1 ║ 2 ║
-║ 2 ║ 4 ║
+║     1      ║  2  ║
+║     2      ║  4  ║
 ╚════════════╩═════╝
+```
 
 **Explanation:**
 

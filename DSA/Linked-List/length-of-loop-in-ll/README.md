@@ -1,4 +1,4 @@
-# [Length of loop in LL](https://takeuforward.org/plus/dsa/problems/length-of-loop-in-ll?subject=dsa&approach=brute&sidebar=open&tab=submissions)
+# [Length of loop in LL](https://takeuforward.org/practice/dsa/length-of-loop-in-ll)
 
 ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
@@ -12,29 +12,29 @@ A loop exists in a linked list if some node in the list can be reached again by 
 
 Note that pos is not passed as a parameter.
 
-### Example 1
+### Example 1:
 
 <img src="https://static.takeuforward.org/content/ProblemSetter-50ZbpwmN">
 
-<p>
+**Input:** head -> 1 -> 2 -> 3 -> 4 -> 5, pos = 1
 
-**Input:** head -> 1 -> 2 -> 3 -> 4 -> 5, pos = 1</p><p>
+**Output:** 4
 
-**Output:** 4</p><p>
+**Explanation:** 2 -> 3 -> 4 -> 5 - >2, length of loop = 4.
 
-**Explanation:** 2 -> 3 -> 4 -> 5 - >2, length of loop = 4.</p>
-
-### Example 2
+### Example 2:
 
 <img src="https://static.takeuforward.org/content/ProblemSetter-XbyBOQuP">
 
-<p>
+**Input:** head -> 1 -> 3 -> 7 -> 4, pos = -1
 
-**Input:** head -> 1 -> 3 -> 7 -> 4, pos = -1</p><p>
+**Output:** 0
 
-**Output:** 0</p><p>
+**Explanation:** No loop is present in the linked list.
 
-**Explanation:** No loop is present in the linked list.</p>
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -52,5 +52,5 @@ Note that pos is not passed as a parameter.
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

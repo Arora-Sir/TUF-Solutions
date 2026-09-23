@@ -10,13 +10,15 @@ A school wants to identify popular classes that have at least 5 students enrolle
 
 You are given a **Courses** table with two columns:
 
+```
 ╔═════════════╦══════════╗
-║ Column name ║ Type ║
+║ Column name ║   Type   ║
 ╠═════════════╬══════════╣
-║ student ║ varchar ║
+║   student   ║ varchar  ║
 ║─────────────┼──────────║
-║ class ║ varchar ║
+║    class    ║ varchar  ║
 ╚═════════════╩══════════╝
+```
 
 - **student** : The name of a student.
 - **class** : The name of the class the student is enrolled in.
@@ -31,27 +33,31 @@ Each (student, class) pair is unique. Write an SQL query to find the names of cl
 
 **Courses Table:**
 
+```
 ╔══════════╦══════════╗
-║ student ║ class ║
+║ student  ║ class    ║
 ╠══════════╬══════════╣
-║ A ║ Math ║
-║ B ║ English ║
-║ C ║ Math ║
-║ D ║ Biology ║
-║ E ║ Math ║
-║ F ║ Computer ║
-║ G ║ Math ║
-║ H ║ Math ║
-║ I ║ Math ║
+║ A        ║ Math     ║
+║ B        ║ English  ║
+║ C        ║ Math     ║
+║ D        ║ Biology  ║
+║ E        ║ Math     ║
+║ F        ║ Computer ║
+║ G        ║ Math     ║
+║ H        ║ Math     ║
+║ I        ║ Math     ║
 ╚══════════╩══════════╝
+```
 
 **Output:**
 
+```
 ╔════════╗
-║ class ║
+║ class  ║
 ╠════════╣
-║ Math ║
+║ Math   ║
 ╚════════╝
+```
 
 **Explanation:**
 

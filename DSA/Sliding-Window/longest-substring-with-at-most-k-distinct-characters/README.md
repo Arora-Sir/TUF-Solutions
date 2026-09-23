@@ -1,4 +1,4 @@
-# [Longest Substring With At Most K Distinct Characters](https://takeuforward.org/plus/dsa/problems/longest-substring-with-at-most-k-distinct-characters?subject=dsa&approach=optimal&tab=submissions)
+# [Longest Substring With At Most K Distinct Characters](https://takeuforward.org/practice/dsa/longest-substring-with-at-most-k-distinct-characters)
 
 ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-ef4444?style=for-the-badge)
 
@@ -8,25 +8,29 @@
 
 Given a string s and an integer k.Find the length of the **longest substring** with at most **k** distinct characters.
 
-### Example 1
+### Example 1:
 
-<p>
+**Input:** s = "aababbcaacc" , k = 2
 
-**Input:** s = "aababbcaacc" , k = 2</p><p>
+**Output:** 6
 
-**Output:** 6</p><p>
+**Explanation:** The longest substring with at most two distinct characters is "aababb".
 
-**Explanation:** The longest substring with at most two distinct characters is "aababb".</p>The length of the string 6.
+The length of the string 6.
 
-### Example 2
+### Example 2:
 
-<p>
+**Input:** s = "abcddefg" , k = 3
 
-**Input:** s = "abcddefg" , k = 3</p><p>
+**Output:** 4
 
-**Output:** 4</p><p>
+**Explanation:** The longest substring with at most three distinct characters is "bcdd".
 
-**Explanation:** The longest substring with at most three distinct characters is "bcdd".</p>The length of the string 4.
+The length of the string 4.
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -43,5 +47,5 @@ Given a string s and an integer k.Find the length of the **longest substring** w
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>

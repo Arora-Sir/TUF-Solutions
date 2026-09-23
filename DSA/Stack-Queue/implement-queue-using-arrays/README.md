@@ -1,4 +1,4 @@
-# [Implement Queue using Arrays](https://takeuforward.org/plus/dsa/problems/implement-queue-using-arrays?subject=dsa&approach=optimal&tab=submissions)
+# [Implement Queue using Arrays](https://takeuforward.org/practice/dsa/implement-queue-using-arrays)
 
 ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
@@ -18,7 +18,7 @@ int peek(): Returns the front element of the queue without removing it.
 
 boolean isEmpty(): Returns true if the queue is empty, false otherwise.
 
-### Example 1
+### Example 1:
 
 Input:
 
@@ -42,7 +42,7 @@ queue.pop(); // returns 5
 
 queue.isEmpty(); // returns false
 
-### Example 2
+### Example 2:
 
 Input:
 
@@ -57,6 +57,10 @@ Explanation:
 ArrayQueue queue = new ArrayQueue();
 
 queue.isEmpty(); // returns true
+
+Still unsure what the problem is asking ?
+
+Let’s go through a few more examples, step by step, to make it clearer.
 
 ### Constraints
 
@@ -73,5 +77,5 @@ queue.isEmpty(); // returns true
 ---
 
 <p align="center">
-  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/plus?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
+  Generated with ❤️ by <a href="https://github.com/Arora-Sir">Mohit Arora</a> &nbsp;|&nbsp; Practice on <a href="https://takeuforward.org/pricing?affiliate=arorasir">TakeUForward (TUF+)</a> &nbsp;|&nbsp; ⭐ <a href="https://github.com/Arora-Sir/TUFHub">Star TUFHub on GitHub</a>
 </p>
