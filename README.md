@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **53** | 21 | 26 | 6 | `2026-09-23` |
+| **54** | 22 | 26 | 6 | `2026-09-23` |
 
 ---
 
@@ -61,7 +61,7 @@
 | 0043 | [Search in BST](./DSA/Trees/search-in-bst) | [JAVA](./DSA/Trees/search-in-bst/solution.java) | 🟢 Easy | `Trees` | `2026-08-20` |
 | 0044 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `Linked-List` | `2026-07-29` |
 
-### SQL (9)
+### SQL (10)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -69,11 +69,12 @@
 | 0002 | [Employee Work Time Summary](./SQL/Aggregation-And-Grouping/employee-work-time-summary) | [SQL](./SQL/Aggregation-And-Grouping/employee-work-time-summary/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
 | 0003 | [Exceeding Tweet Length](./SQL/Querying-And-Filtering/exceeding-tweet-length) | [SQL](./SQL/Querying-And-Filtering/exceeding-tweet-length/solution.sql) | 🟢 Easy | `Querying-And-Filtering` | `2026-09-22` |
 | 0004 | [First Login Analysis](./SQL/Aggregation-And-Grouping/first-login-analysis) | [SQL](./SQL/Aggregation-And-Grouping/first-login-analysis/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
-| 0005 | [Non-Referred Customers](./SQL/Querying-And-Filtering/non-referred-customers) | [SQL](./SQL/Querying-And-Filtering/non-referred-customers/solution.sql) | 🟢 Easy | `Querying-And-Filtering` | `2026-09-22` |
-| 0006 | [Odd Non-Boring Movies](./SQL/Querying-And-Filtering/odd-non-boring-movies) | [SQL](./SQL/Querying-And-Filtering/odd-non-boring-movies/solution.sql) | 🟢 Easy | `Querying-And-Filtering` | `2026-09-21` |
-| 0007 | [Profitable Customers in 2021](./SQL/Querying-And-Filtering/profitable-customers-in-2021) | [SQL](./SQL/Querying-And-Filtering/profitable-customers-in-2021/solution.sql) | 🟢 Easy | `Querying-And-Filtering` | `2026-09-21` |
-| 0008 | [Unique Subjects per Teacher](./SQL/Aggregation-And-Grouping/unique-subjects-per-teacher) | [SQL](./SQL/Aggregation-And-Grouping/unique-subjects-per-teacher/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
-| 0009 | [User Follower Count](./SQL/Aggregation-And-Grouping/user-follower-count) | [SQL](./SQL/Aggregation-And-Grouping/user-follower-count/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
+| 0005 | [Highest Order Placing Customer](./SQL/Aggregation-And-Grouping/highest-order-placing-customer) | [SQL](./SQL/Aggregation-And-Grouping/highest-order-placing-customer/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
+| 0006 | [Non-Referred Customers](./SQL/Querying-And-Filtering/non-referred-customers) | [SQL](./SQL/Querying-And-Filtering/non-referred-customers/solution.sql) | 🟢 Easy | `Querying-And-Filtering` | `2026-09-22` |
+| 0007 | [Odd Non-Boring Movies](./SQL/Querying-And-Filtering/odd-non-boring-movies) | [SQL](./SQL/Querying-And-Filtering/odd-non-boring-movies/solution.sql) | 🟢 Easy | `Querying-And-Filtering` | `2026-09-21` |
+| 0008 | [Profitable Customers in 2021](./SQL/Querying-And-Filtering/profitable-customers-in-2021) | [SQL](./SQL/Querying-And-Filtering/profitable-customers-in-2021/solution.sql) | 🟢 Easy | `Querying-And-Filtering` | `2026-09-21` |
+| 0009 | [Unique Subjects per Teacher](./SQL/Aggregation-And-Grouping/unique-subjects-per-teacher) | [SQL](./SQL/Aggregation-And-Grouping/unique-subjects-per-teacher/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
+| 0010 | [User Follower Count](./SQL/Aggregation-And-Grouping/user-follower-count) | [SQL](./SQL/Aggregation-And-Grouping/user-follower-count/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
 
 ---
 
