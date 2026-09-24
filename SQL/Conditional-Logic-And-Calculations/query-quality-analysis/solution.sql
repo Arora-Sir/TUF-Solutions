@@ -2,7 +2,7 @@ SELECT query_name,
   ROUND(
     -- SUM(rating/position)/COUNT(*),
     AVG(rating/position),
-    2
+    2 
   ) AS quality,
   ROUND(
     SUM((rating<3))/COUNT(*)*100,
