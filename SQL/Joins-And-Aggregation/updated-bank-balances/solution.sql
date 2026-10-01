@@ -3,4 +3,4 @@ SELECT u.name,
 FROM Users u
 JOIN Transactions t ON u.account=t.account
 GROUP BY t.account
-Having balance>=10000
+Having balance>10000
