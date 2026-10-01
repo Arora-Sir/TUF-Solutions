@@ -1,4 +1,4 @@
-# [Updated Bank Balances](https://takeuforward.org/practice/sql/updated-bank-balances?category=joins-and-aggregation&source=sql---75-frequently-asked-interview-questions&bug=true)
+# [Updated Bank Balances](https://takeuforward.org/practice/sql/updated-bank-balances?category=joins-and-aggregation&source=sql---75-frequently-asked-interview-questions)
 
 ![Difficulty: Basic](https://img.shields.io/badge/Difficulty-Basic-22c55e?style=for-the-badge)
 
