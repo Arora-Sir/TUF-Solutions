@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **76** | 40 | 30 | 6 | `2026-10-03` |
+| **77** | 40 | 31 | 6 | `2026-10-03` |
 
 ---
 
@@ -61,42 +61,43 @@
 | 0043 | [Search in BST](./DSA/Trees/search-in-bst) | [JAVA](./DSA/Trees/search-in-bst/solution.java) | 🟢 Easy | `Trees` | `2026-09-23` |
 | 0044 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-23` |
 
-### SQL (32)
+### SQL (33)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [Apples vs Oranges](./SQL/Conditional-Logic-And-Calculations/apples-vs-oranges) | [SQL](./SQL/Conditional-Logic-And-Calculations/apples-vs-oranges/solution.sql) | 🟡 Medium | `Conditional-Logic-And-Calculations` | `2026-09-25` |
 | 0002 | [Average Experience by Project](./SQL/Joins-And-Aggregation/average-experience-by-project) | [SQL](./SQL/Joins-And-Aggregation/average-experience-by-project/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `2026-10-01` |
 | 0003 | [Big Countries](./SQL/Querying-And-Filtering/big-countries) | [SQL](./SQL/Querying-And-Filtering/big-countries/solution.sql) | 🟢 Easy | `Querying-And-Filtering` | `2026-09-23` |
-| 0004 | [Call Count Between Pairs](./SQL/Conditional-Logic-And-Calculations/call-count-between-pairs) | [SQL](./SQL/Conditional-Logic-And-Calculations/call-count-between-pairs/solution.sql) | 🟡 Medium | `Conditional-Logic-And-Calculations` | `2026-09-27` |
-| 0005 | [Contest Participation Rate](./SQL/Conditional-Logic-And-Calculations/contest-participation-rate) | [SQL](./SQL/Conditional-Logic-And-Calculations/contest-participation-rate/solution.sql) | 🟢 Easy | `Conditional-Logic-And-Calculations` | `2026-09-26` |
-| 0006 | [Email Duplicates](./SQL/Aggregation-And-Grouping/email-duplicates) | [SQL](./SQL/Aggregation-And-Grouping/email-duplicates/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
-| 0007 | [Employee Work Time Summary](./SQL/Aggregation-And-Grouping/employee-work-time-summary) | [SQL](./SQL/Aggregation-And-Grouping/employee-work-time-summary/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
-| 0008 | [Employees Earning More Than Their Manager](./SQL/Self-Joins-And-Relationship-Queries/employees-earning-more-than-their-manager) | [SQL](./SQL/Self-Joins-And-Relationship-Queries/employees-earning-more-than-their-manager/solution.sql) | 🟢 Easy | `Self-Joins-And-Relationship-Queries` | `2026-10-02` |
-| 0009 | [Exceeding Tweet Length](./SQL/Querying-And-Filtering/exceeding-tweet-length) | [SQL](./SQL/Querying-And-Filtering/exceeding-tweet-length/solution.sql) | 🟢 Easy | `Querying-And-Filtering` | `2026-09-23` |
-| 0010 | [First Login Analysis](./SQL/Aggregation-And-Grouping/first-login-analysis) | [SQL](./SQL/Aggregation-And-Grouping/first-login-analysis/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
-| 0011 | [Frequent Actor-Director Duos](./SQL/Aggregation-And-Grouping/frequent-actor-director-duos) | [SQL](./SQL/Aggregation-And-Grouping/frequent-actor-director-duos/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
-| 0012 | [High-Report Managers](./SQL/Self-Joins-And-Relationship-Queries/high-report-managers) | [SelfJoin](./SQL/Self-Joins-And-Relationship-Queries/high-report-managers/SelfJoin.sql) [SubqueryWithIN](./SQL/Self-Joins-And-Relationship-Queries/high-report-managers/SubqueryWithIN.sql) | 🟡 Medium | `Self-Joins-And-Relationship-Queries` | `2026-10-02` |
-| 0013 | [Highest Non-Repeating Number](./SQL/Aggregation-And-Grouping/highest-non-repeating-number) | [OuterSelect](./SQL/Aggregation-And-Grouping/highest-non-repeating-number/OuterSelect.sql) [UsingMaxInsideFrom](./SQL/Aggregation-And-Grouping/highest-non-repeating-number/UsingMaxInsideFrom.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
-| 0014 | [Highest Order Placing Customer](./SQL/Aggregation-And-Grouping/highest-order-placing-customer) | [SQL](./SQL/Aggregation-And-Grouping/highest-order-placing-customer/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
-| 0015 | [Instant Food Delivery](./SQL/Conditional-Logic-And-Calculations/instant-food-delivery) | [SQL](./SQL/Conditional-Logic-And-Calculations/instant-food-delivery/solution.sql) | 🟢 Easy | `Conditional-Logic-And-Calculations` | `2026-09-24` |
-| 0016 | [Large Classes](./SQL/Aggregation-And-Grouping/large-classes) | [SQL](./SQL/Aggregation-And-Grouping/large-classes/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
-| 0017 | [Low Bonus Employees](./SQL/Joins-And-Aggregation/low-bonus-employees) | [SQL](./SQL/Joins-And-Aggregation/low-bonus-employees/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `2026-10-01` |
-| 0018 | [Minimum Distance Between Points](./SQL/Self-Joins-And-Relationship-Queries/minimum-distance-between-points) | [SQL](./SQL/Self-Joins-And-Relationship-Queries/minimum-distance-between-points/solution.sql) | 🟢 Easy | `Self-Joins-And-Relationship-Queries` | `2026-10-03` |
-| 0019 | [Most Frequent Travellers](./SQL/Joins-And-Aggregation/most-frequent-travellers) | [SQL](./SQL/Joins-And-Aggregation/most-frequent-travellers/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `2026-10-01` |
-| 0020 | [Non-Referred Customers](./SQL/Querying-And-Filtering/non-referred-customers) | [SQL](./SQL/Querying-And-Filtering/non-referred-customers/solution.sql) | 🟢 Easy | `Querying-And-Filtering` | `2026-09-23` |
-| 0021 | [Odd Non-Boring Movies](./SQL/Querying-And-Filtering/odd-non-boring-movies) | [SQL](./SQL/Querying-And-Filtering/odd-non-boring-movies/solution.sql) | 🟢 Easy | `Querying-And-Filtering` | `2026-09-23` |
-| 0022 | [Profitable Customers in 2021](./SQL/Querying-And-Filtering/profitable-customers-in-2021) | [SQL](./SQL/Querying-And-Filtering/profitable-customers-in-2021/solution.sql) | 🟢 Easy | `Querying-And-Filtering` | `2026-09-23` |
-| 0023 | [Query Quality Analysis](./SQL/Conditional-Logic-And-Calculations/query-quality-analysis) | [SQL](./SQL/Conditional-Logic-And-Calculations/query-quality-analysis/solution.sql) | 🟢 Easy | `Conditional-Logic-And-Calculations` | `2026-09-24` |
-| 0024 | [Sales Analysis](./SQL/Joins-And-Aggregation/sales-analysis) | [SQL](./SQL/Joins-And-Aggregation/sales-analysis/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `2026-09-30` |
-| 0025 | [Special Bonus Calculation](./SQL/Conditional-Logic-And-Calculations/special-bonus-calculation) | [SQL](./SQL/Conditional-Logic-And-Calculations/special-bonus-calculation/solution.sql) | 🟢 Easy | `Conditional-Logic-And-Calculations` | `2026-09-23` |
-| 0026 | [Swap Consecutive Seats](./SQL/Conditional-Logic-And-Calculations/swap-consecutive-seats) | [SQL](./SQL/Conditional-Logic-And-Calculations/swap-consecutive-seats/solution.sql) | 🟡 Medium | `Conditional-Logic-And-Calculations` | `2026-09-27` |
-| 0027 | [Table Join Operation](./SQL/Joins-And-Aggregation/table-join-operation) | [SQL](./SQL/Joins-And-Aggregation/table-join-operation/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `2026-09-29` |
-| 0028 | [Unique Subjects per Teacher](./SQL/Aggregation-And-Grouping/unique-subjects-per-teacher) | [SQL](./SQL/Aggregation-And-Grouping/unique-subjects-per-teacher/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
-| 0029 | [Updated Bank Balances](./SQL/Joins-And-Aggregation/updated-bank-balances) | [SQL](./SQL/Joins-And-Aggregation/updated-bank-balances/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `2026-10-01` |
-| 0030 | [User Follower Count](./SQL/Aggregation-And-Grouping/user-follower-count) | [SQL](./SQL/Aggregation-And-Grouping/user-follower-count/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
-| 0031 | [Valid Triangle Check](./SQL/Conditional-Logic-And-Calculations/valid-triangle-check) | [SQL](./SQL/Conditional-Logic-And-Calculations/valid-triangle-check/solution.sql) | 🟢 Easy | `Conditional-Logic-And-Calculations` | `2026-09-23` |
-| 0032 | [Warehouse Stock Manager](./SQL/Joins-And-Aggregation/warehouse-stock-manager) | [SQL](./SQL/Joins-And-Aggregation/warehouse-stock-manager/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `2026-10-01` |
+| 0004 | [Boolean Expression Evaluator](./SQL/Self-Joins-And-Relationship-Queries/boolean-expression-evaluator) | [SQL](./SQL/Self-Joins-And-Relationship-Queries/boolean-expression-evaluator/solution.sql) | 🟡 Medium | `Self-Joins-And-Relationship-Queries` | `2026-10-03` |
+| 0005 | [Call Count Between Pairs](./SQL/Conditional-Logic-And-Calculations/call-count-between-pairs) | [SQL](./SQL/Conditional-Logic-And-Calculations/call-count-between-pairs/solution.sql) | 🟡 Medium | `Conditional-Logic-And-Calculations` | `2026-09-27` |
+| 0006 | [Contest Participation Rate](./SQL/Conditional-Logic-And-Calculations/contest-participation-rate) | [SQL](./SQL/Conditional-Logic-And-Calculations/contest-participation-rate/solution.sql) | 🟢 Easy | `Conditional-Logic-And-Calculations` | `2026-09-26` |
+| 0007 | [Email Duplicates](./SQL/Aggregation-And-Grouping/email-duplicates) | [SQL](./SQL/Aggregation-And-Grouping/email-duplicates/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
+| 0008 | [Employee Work Time Summary](./SQL/Aggregation-And-Grouping/employee-work-time-summary) | [SQL](./SQL/Aggregation-And-Grouping/employee-work-time-summary/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
+| 0009 | [Employees Earning More Than Their Manager](./SQL/Self-Joins-And-Relationship-Queries/employees-earning-more-than-their-manager) | [SQL](./SQL/Self-Joins-And-Relationship-Queries/employees-earning-more-than-their-manager/solution.sql) | 🟢 Easy | `Self-Joins-And-Relationship-Queries` | `2026-10-02` |
+| 0010 | [Exceeding Tweet Length](./SQL/Querying-And-Filtering/exceeding-tweet-length) | [SQL](./SQL/Querying-And-Filtering/exceeding-tweet-length/solution.sql) | 🟢 Easy | `Querying-And-Filtering` | `2026-09-23` |
+| 0011 | [First Login Analysis](./SQL/Aggregation-And-Grouping/first-login-analysis) | [SQL](./SQL/Aggregation-And-Grouping/first-login-analysis/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
+| 0012 | [Frequent Actor-Director Duos](./SQL/Aggregation-And-Grouping/frequent-actor-director-duos) | [SQL](./SQL/Aggregation-And-Grouping/frequent-actor-director-duos/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
+| 0013 | [High-Report Managers](./SQL/Self-Joins-And-Relationship-Queries/high-report-managers) | [SelfJoin](./SQL/Self-Joins-And-Relationship-Queries/high-report-managers/SelfJoin.sql) [SubqueryWithIN](./SQL/Self-Joins-And-Relationship-Queries/high-report-managers/SubqueryWithIN.sql) | 🟡 Medium | `Self-Joins-And-Relationship-Queries` | `2026-10-02` |
+| 0014 | [Highest Non-Repeating Number](./SQL/Aggregation-And-Grouping/highest-non-repeating-number) | [OuterSelect](./SQL/Aggregation-And-Grouping/highest-non-repeating-number/OuterSelect.sql) [UsingMaxInsideFrom](./SQL/Aggregation-And-Grouping/highest-non-repeating-number/UsingMaxInsideFrom.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
+| 0015 | [Highest Order Placing Customer](./SQL/Aggregation-And-Grouping/highest-order-placing-customer) | [SQL](./SQL/Aggregation-And-Grouping/highest-order-placing-customer/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
+| 0016 | [Instant Food Delivery](./SQL/Conditional-Logic-And-Calculations/instant-food-delivery) | [SQL](./SQL/Conditional-Logic-And-Calculations/instant-food-delivery/solution.sql) | 🟢 Easy | `Conditional-Logic-And-Calculations` | `2026-09-24` |
+| 0017 | [Large Classes](./SQL/Aggregation-And-Grouping/large-classes) | [SQL](./SQL/Aggregation-And-Grouping/large-classes/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
+| 0018 | [Low Bonus Employees](./SQL/Joins-And-Aggregation/low-bonus-employees) | [SQL](./SQL/Joins-And-Aggregation/low-bonus-employees/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `2026-10-01` |
+| 0019 | [Minimum Distance Between Points](./SQL/Self-Joins-And-Relationship-Queries/minimum-distance-between-points) | [SQL](./SQL/Self-Joins-And-Relationship-Queries/minimum-distance-between-points/solution.sql) | 🟢 Easy | `Self-Joins-And-Relationship-Queries` | `2026-10-03` |
+| 0020 | [Most Frequent Travellers](./SQL/Joins-And-Aggregation/most-frequent-travellers) | [SQL](./SQL/Joins-And-Aggregation/most-frequent-travellers/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `2026-10-01` |
+| 0021 | [Non-Referred Customers](./SQL/Querying-And-Filtering/non-referred-customers) | [SQL](./SQL/Querying-And-Filtering/non-referred-customers/solution.sql) | 🟢 Easy | `Querying-And-Filtering` | `2026-09-23` |
+| 0022 | [Odd Non-Boring Movies](./SQL/Querying-And-Filtering/odd-non-boring-movies) | [SQL](./SQL/Querying-And-Filtering/odd-non-boring-movies/solution.sql) | 🟢 Easy | `Querying-And-Filtering` | `2026-09-23` |
+| 0023 | [Profitable Customers in 2021](./SQL/Querying-And-Filtering/profitable-customers-in-2021) | [SQL](./SQL/Querying-And-Filtering/profitable-customers-in-2021/solution.sql) | 🟢 Easy | `Querying-And-Filtering` | `2026-09-23` |
+| 0024 | [Query Quality Analysis](./SQL/Conditional-Logic-And-Calculations/query-quality-analysis) | [SQL](./SQL/Conditional-Logic-And-Calculations/query-quality-analysis/solution.sql) | 🟢 Easy | `Conditional-Logic-And-Calculations` | `2026-09-24` |
+| 0025 | [Sales Analysis](./SQL/Joins-And-Aggregation/sales-analysis) | [SQL](./SQL/Joins-And-Aggregation/sales-analysis/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `2026-09-30` |
+| 0026 | [Special Bonus Calculation](./SQL/Conditional-Logic-And-Calculations/special-bonus-calculation) | [SQL](./SQL/Conditional-Logic-And-Calculations/special-bonus-calculation/solution.sql) | 🟢 Easy | `Conditional-Logic-And-Calculations` | `2026-09-23` |
+| 0027 | [Swap Consecutive Seats](./SQL/Conditional-Logic-And-Calculations/swap-consecutive-seats) | [SQL](./SQL/Conditional-Logic-And-Calculations/swap-consecutive-seats/solution.sql) | 🟡 Medium | `Conditional-Logic-And-Calculations` | `2026-09-27` |
+| 0028 | [Table Join Operation](./SQL/Joins-And-Aggregation/table-join-operation) | [SQL](./SQL/Joins-And-Aggregation/table-join-operation/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `2026-09-29` |
+| 0029 | [Unique Subjects per Teacher](./SQL/Aggregation-And-Grouping/unique-subjects-per-teacher) | [SQL](./SQL/Aggregation-And-Grouping/unique-subjects-per-teacher/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
+| 0030 | [Updated Bank Balances](./SQL/Joins-And-Aggregation/updated-bank-balances) | [SQL](./SQL/Joins-And-Aggregation/updated-bank-balances/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `2026-10-01` |
+| 0031 | [User Follower Count](./SQL/Aggregation-And-Grouping/user-follower-count) | [SQL](./SQL/Aggregation-And-Grouping/user-follower-count/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
+| 0032 | [Valid Triangle Check](./SQL/Conditional-Logic-And-Calculations/valid-triangle-check) | [SQL](./SQL/Conditional-Logic-And-Calculations/valid-triangle-check/solution.sql) | 🟢 Easy | `Conditional-Logic-And-Calculations` | `2026-09-23` |
+| 0033 | [Warehouse Stock Manager](./SQL/Joins-And-Aggregation/warehouse-stock-manager) | [SQL](./SQL/Joins-And-Aggregation/warehouse-stock-manager/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `2026-10-01` |
 
 ---
 
