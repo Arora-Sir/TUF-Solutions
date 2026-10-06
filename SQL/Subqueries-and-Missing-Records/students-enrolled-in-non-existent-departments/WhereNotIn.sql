@@ -1,4 +1,4 @@
--- Dangerous: The Famous NULL Trap ()
+-- Dangerous: The Famous NULL Trap
 
 SELECT id,name
 FROM Students s
