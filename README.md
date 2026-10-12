@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **87** | 46 | 35 | 6 | `2026-10-11` |
+| **87** | 46 | 35 | 6 | `2026-10-12` |
 
 ---
 
@@ -83,7 +83,7 @@
 | 0016 | [Highest Non-Repeating Number](./SQL/Aggregation-And-Grouping/highest-non-repeating-number) | [OuterSelect](./SQL/Aggregation-And-Grouping/highest-non-repeating-number/OuterSelect.sql) [UsingMaxInsideFrom](./SQL/Aggregation-And-Grouping/highest-non-repeating-number/UsingMaxInsideFrom.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
 | 0017 | [Highest Order Placing Customer](./SQL/Aggregation-And-Grouping/highest-order-placing-customer) | [SQL](./SQL/Aggregation-And-Grouping/highest-order-placing-customer/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
 | 0018 | [Inactive Customers](./SQL/Subqueries-and-Missing-Records/inactive-customers) | [NotExists-Prod](./SQL/Subqueries-and-Missing-Records/inactive-customers/NotExists-Prod.sql) | 🟢 Easy | `Subqueries-and-Missing-Records` | `2026-10-06` |
-| 0019 | [Inactive Sellers](./SQL/Subqueries-And-Missing-Records/inactive-sellers) | [NotIn](./SQL/Subqueries-And-Missing-Records/inactive-sellers/NotIn.sql) [LeftJoin](./SQL/Subqueries-And-Missing-Records/inactive-sellers/LeftJoin.sql) | 🟢 Easy | `Subqueries-And-Missing-Records` | `2026-10-11` |
+| 0019 | [Inactive Sellers](./SQL/Subqueries-and-Missing-Records/inactive-sellers) | [NotIn](./SQL/Subqueries-and-Missing-Records/inactive-sellers/NotIn.sql) [LeftJoin](./SQL/Subqueries-and-Missing-Records/inactive-sellers/LeftJoin.sql) | 🟢 Easy | `Subqueries-and-Missing-Records` | `2026-10-12` |
 | 0020 | [Instant Food Delivery](./SQL/Conditional-Logic-And-Calculations/instant-food-delivery) | [SQL](./SQL/Conditional-Logic-And-Calculations/instant-food-delivery/solution.sql) | 🟢 Easy | `Conditional-Logic-And-Calculations` | `2026-09-24` |
 | 0021 | [Large Classes](./SQL/Aggregation-And-Grouping/large-classes) | [SQL](./SQL/Aggregation-And-Grouping/large-classes/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
 | 0022 | [Low Bonus Employees](./SQL/Joins-And-Aggregation/low-bonus-employees) | [SQL](./SQL/Joins-And-Aggregation/low-bonus-employees/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `2026-10-01` |
