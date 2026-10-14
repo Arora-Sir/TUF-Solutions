@@ -1,4 +1,4 @@
-# [Find Quiet Students in All Exams](https://takeuforward.org/practice/sql/find-quiet-students-in-all-exams?category=subqueries-and-missing-records&source=sql---75-frequently-asked-interview-questions)
+# [Find Quiet Students in All Exams](https://takeuforward.org/practice/sql/find-quiet-students-in-all-exams?source=sql---75-frequently-asked-interview-questions&category=subqueries-and-missing-records)
 
 ![Difficulty: Core](https://img.shields.io/badge/Difficulty-Core-eab308?style=for-the-badge)
 

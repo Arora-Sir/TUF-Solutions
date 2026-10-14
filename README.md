@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **88** | 46 | 36 | 6 | `2026-10-13` |
+| **88** | 46 | 36 | 6 | `2026-10-14` |
 
 ---
 
@@ -77,7 +77,7 @@
 | 0010 | [Employee Work Time Summary](./SQL/Aggregation-And-Grouping/employee-work-time-summary) | [SQL](./SQL/Aggregation-And-Grouping/employee-work-time-summary/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
 | 0011 | [Employees Earning More Than Their Manager](./SQL/Self-Joins-And-Relationship-Queries/employees-earning-more-than-their-manager) | [SQL](./SQL/Self-Joins-And-Relationship-Queries/employees-earning-more-than-their-manager/solution.sql) | 🟢 Easy | `Self-Joins-And-Relationship-Queries` | `2026-10-02` |
 | 0012 | [Exceeding Tweet Length](./SQL/Querying-And-Filtering/exceeding-tweet-length) | [SQL](./SQL/Querying-And-Filtering/exceeding-tweet-length/solution.sql) | 🟢 Easy | `Querying-And-Filtering` | `2026-09-23` |
-| 0013 | [Find Quiet Students in All Exams](./SQL/Subqueries-And-Missing-Records/find-quiet-students-in-all-exams) | [NotInJoin](./SQL/Subqueries-And-Missing-Records/find-quiet-students-in-all-exams/NotInJoin.sql) | 🟡 Medium | `Subqueries-And-Missing-Records` | `2026-10-13` |
+| 0013 | [Find Quiet Students in All Exams](./SQL/Subqueries-And-Missing-Records/find-quiet-students-in-all-exams) | [NotInJoin](./SQL/Subqueries-And-Missing-Records/find-quiet-students-in-all-exams/NotInJoin.sql) [WinFn](./SQL/Subqueries-And-Missing-Records/find-quiet-students-in-all-exams/WinFn.sql) | 🟡 Medium | `Subqueries-And-Missing-Records` | `2026-10-14` |
 | 0014 | [First Login Analysis](./SQL/Aggregation-And-Grouping/first-login-analysis) | [SQL](./SQL/Aggregation-And-Grouping/first-login-analysis/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
 | 0015 | [Frequent Actor-Director Duos](./SQL/Aggregation-And-Grouping/frequent-actor-director-duos) | [SQL](./SQL/Aggregation-And-Grouping/frequent-actor-director-duos/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
 | 0016 | [High-Report Managers](./SQL/Self-Joins-And-Relationship-Queries/high-report-managers) | [SelfJoin](./SQL/Self-Joins-And-Relationship-Queries/high-report-managers/SelfJoin.sql) [SubqueryWithIN](./SQL/Self-Joins-And-Relationship-Queries/high-report-managers/SubqueryWithIN.sql) | 🟡 Medium | `Self-Joins-And-Relationship-Queries` | `2026-10-02` |
