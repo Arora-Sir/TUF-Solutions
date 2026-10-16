@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **88** | 46 | 36 | 6 | `2026-10-15` |
+| **89** | 47 | 36 | 6 | `2026-10-16` |
 
 ---
 
@@ -61,7 +61,7 @@
 | 0043 | [Search in BST](./DSA/Trees/search-in-bst) | [JAVA](./DSA/Trees/search-in-bst/solution.java) | 🟢 Easy | `Trees` | `2026-09-23` |
 | 0044 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-23` |
 
-### SQL (44)
+### SQL (45)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -95,20 +95,21 @@
 | 0028 | [Orphan Employees](./SQL/Subqueries-And-Missing-Records/orphan-employees) | [LeftJoin](./SQL/Subqueries-And-Missing-Records/orphan-employees/LeftJoin.sql) [NotExists](./SQL/Subqueries-And-Missing-Records/orphan-employees/NotExists.sql) [NotIn](./SQL/Subqueries-And-Missing-Records/orphan-employees/NotIn.sql) | 🟢 Easy | `Subqueries-And-Missing-Records` | `2026-10-08` |
 | 0029 | [Profitable Customers in 2021](./SQL/Querying-And-Filtering/profitable-customers-in-2021) | [SQL](./SQL/Querying-And-Filtering/profitable-customers-in-2021/solution.sql) | 🟢 Easy | `Querying-And-Filtering` | `2026-09-23` |
 | 0030 | [Query Quality Analysis](./SQL/Conditional-Logic-And-Calculations/query-quality-analysis) | [SQL](./SQL/Conditional-Logic-And-Calculations/query-quality-analysis/solution.sql) | 🟢 Easy | `Conditional-Logic-And-Calculations` | `2026-09-24` |
-| 0031 | [Sales Analysis](./SQL/Joins-And-Aggregation/sales-analysis) | [SQL](./SQL/Joins-And-Aggregation/sales-analysis/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `2026-09-30` |
-| 0032 | [Salespersons Without RED Orders](./SQL/Subqueries-And-Missing-Records/salespersons-without-red-orders) | [NotExists](./SQL/Subqueries-And-Missing-Records/salespersons-without-red-orders/NotExists.sql) [NotIn](./SQL/Subqueries-And-Missing-Records/salespersons-without-red-orders/NotIn.sql) | 🟢 Easy | `Subqueries-And-Missing-Records` | `2026-10-07` |
-| 0033 | [Special Bonus Calculation](./SQL/Conditional-Logic-And-Calculations/special-bonus-calculation) | [SQL](./SQL/Conditional-Logic-And-Calculations/special-bonus-calculation/solution.sql) | 🟢 Easy | `Conditional-Logic-And-Calculations` | `2026-09-23` |
-| 0034 | [Students Enrolled in Non-Existent Departments](./SQL/Subqueries-and-Missing-Records/students-enrolled-in-non-existent-departments) | [JoinWhereIsNull](./SQL/Subqueries-and-Missing-Records/students-enrolled-in-non-existent-departments/JoinWhereIsNull.sql) [NotExists-Prod](./SQL/Subqueries-and-Missing-Records/students-enrolled-in-non-existent-departments/NotExists-Prod.sql) [WhereNotIn](./SQL/Subqueries-and-Missing-Records/students-enrolled-in-non-existent-departments/WhereNotIn.sql) | 🟢 Easy | `Subqueries-and-Missing-Records` | `2026-10-06` |
-| 0035 | [Suggested Pages](./SQL/Self-Joins-And-Relationship-Queries/suggested-pages) | [SQL](./SQL/Self-Joins-And-Relationship-Queries/suggested-pages/solution.sql) | 🟡 Medium | `Self-Joins-And-Relationship-Queries` | `2026-10-03` |
-| 0036 | [Suspended Accounts](./SQL/Self-Joins-And-Relationship-Queries/suspended-accounts) | [SQL](./SQL/Self-Joins-And-Relationship-Queries/suspended-accounts/solution.sql) | 🟡 Medium | `Self-Joins-And-Relationship-Queries` | `2026-10-03` |
-| 0037 | [Swap Consecutive Seats](./SQL/Conditional-Logic-And-Calculations/swap-consecutive-seats) | [SQL](./SQL/Conditional-Logic-And-Calculations/swap-consecutive-seats/solution.sql) | 🟡 Medium | `Conditional-Logic-And-Calculations` | `2026-09-27` |
-| 0038 | [Table Join Operation](./SQL/Joins-And-Aggregation/table-join-operation) | [SQL](./SQL/Joins-And-Aggregation/table-join-operation/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `2026-09-29` |
-| 0039 | [Unique Subjects per Teacher](./SQL/Aggregation-And-Grouping/unique-subjects-per-teacher) | [SQL](./SQL/Aggregation-And-Grouping/unique-subjects-per-teacher/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
-| 0040 | [Updated Bank Balances](./SQL/Joins-And-Aggregation/updated-bank-balances) | [SQL](./SQL/Joins-And-Aggregation/updated-bank-balances/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `2026-10-01` |
-| 0041 | [User Follower Count](./SQL/Aggregation-And-Grouping/user-follower-count) | [SQL](./SQL/Aggregation-And-Grouping/user-follower-count/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
-| 0042 | [Valid Triangle Check](./SQL/Conditional-Logic-And-Calculations/valid-triangle-check) | [SQL](./SQL/Conditional-Logic-And-Calculations/valid-triangle-check/solution.sql) | 🟢 Easy | `Conditional-Logic-And-Calculations` | `2026-09-23` |
-| 0043 | [Visitors Without Transactions](./SQL/Subqueries-And-Missing-Records/visitors-without-transactions) | [SQL](./SQL/Subqueries-And-Missing-Records/visitors-without-transactions/solution.sql) | 🟢 Easy | `Subqueries-And-Missing-Records` | `2026-10-07` |
-| 0044 | [Warehouse Stock Manager](./SQL/Joins-And-Aggregation/warehouse-stock-manager) | [SQL](./SQL/Joins-And-Aggregation/warehouse-stock-manager/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `2026-10-01` |
+| 0031 | [Reshape Products Data](./SQL/Set-Operations-and-Combined-Results/reshape-products-data) | [Union](./SQL/Set-Operations-and-Combined-Results/reshape-products-data/Union.sql) | 🟢 Easy | `Set-Operations-and-Combined-Results` | `2026-10-16` |
+| 0032 | [Sales Analysis](./SQL/Joins-And-Aggregation/sales-analysis) | [SQL](./SQL/Joins-And-Aggregation/sales-analysis/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `2026-09-30` |
+| 0033 | [Salespersons Without RED Orders](./SQL/Subqueries-And-Missing-Records/salespersons-without-red-orders) | [NotExists](./SQL/Subqueries-And-Missing-Records/salespersons-without-red-orders/NotExists.sql) [NotIn](./SQL/Subqueries-And-Missing-Records/salespersons-without-red-orders/NotIn.sql) | 🟢 Easy | `Subqueries-And-Missing-Records` | `2026-10-07` |
+| 0034 | [Special Bonus Calculation](./SQL/Conditional-Logic-And-Calculations/special-bonus-calculation) | [SQL](./SQL/Conditional-Logic-And-Calculations/special-bonus-calculation/solution.sql) | 🟢 Easy | `Conditional-Logic-And-Calculations` | `2026-09-23` |
+| 0035 | [Students Enrolled in Non-Existent Departments](./SQL/Subqueries-and-Missing-Records/students-enrolled-in-non-existent-departments) | [JoinWhereIsNull](./SQL/Subqueries-and-Missing-Records/students-enrolled-in-non-existent-departments/JoinWhereIsNull.sql) [NotExists-Prod](./SQL/Subqueries-and-Missing-Records/students-enrolled-in-non-existent-departments/NotExists-Prod.sql) [WhereNotIn](./SQL/Subqueries-and-Missing-Records/students-enrolled-in-non-existent-departments/WhereNotIn.sql) | 🟢 Easy | `Subqueries-and-Missing-Records` | `2026-10-06` |
+| 0036 | [Suggested Pages](./SQL/Self-Joins-And-Relationship-Queries/suggested-pages) | [SQL](./SQL/Self-Joins-And-Relationship-Queries/suggested-pages/solution.sql) | 🟡 Medium | `Self-Joins-And-Relationship-Queries` | `2026-10-03` |
+| 0037 | [Suspended Accounts](./SQL/Self-Joins-And-Relationship-Queries/suspended-accounts) | [SQL](./SQL/Self-Joins-And-Relationship-Queries/suspended-accounts/solution.sql) | 🟡 Medium | `Self-Joins-And-Relationship-Queries` | `2026-10-03` |
+| 0038 | [Swap Consecutive Seats](./SQL/Conditional-Logic-And-Calculations/swap-consecutive-seats) | [SQL](./SQL/Conditional-Logic-And-Calculations/swap-consecutive-seats/solution.sql) | 🟡 Medium | `Conditional-Logic-And-Calculations` | `2026-09-27` |
+| 0039 | [Table Join Operation](./SQL/Joins-And-Aggregation/table-join-operation) | [SQL](./SQL/Joins-And-Aggregation/table-join-operation/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `2026-09-29` |
+| 0040 | [Unique Subjects per Teacher](./SQL/Aggregation-And-Grouping/unique-subjects-per-teacher) | [SQL](./SQL/Aggregation-And-Grouping/unique-subjects-per-teacher/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
+| 0041 | [Updated Bank Balances](./SQL/Joins-And-Aggregation/updated-bank-balances) | [SQL](./SQL/Joins-And-Aggregation/updated-bank-balances/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `2026-10-01` |
+| 0042 | [User Follower Count](./SQL/Aggregation-And-Grouping/user-follower-count) | [SQL](./SQL/Aggregation-And-Grouping/user-follower-count/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
+| 0043 | [Valid Triangle Check](./SQL/Conditional-Logic-And-Calculations/valid-triangle-check) | [SQL](./SQL/Conditional-Logic-And-Calculations/valid-triangle-check/solution.sql) | 🟢 Easy | `Conditional-Logic-And-Calculations` | `2026-09-23` |
+| 0044 | [Visitors Without Transactions](./SQL/Subqueries-And-Missing-Records/visitors-without-transactions) | [SQL](./SQL/Subqueries-And-Missing-Records/visitors-without-transactions/solution.sql) | 🟢 Easy | `Subqueries-And-Missing-Records` | `2026-10-07` |
+| 0045 | [Warehouse Stock Manager](./SQL/Joins-And-Aggregation/warehouse-stock-manager) | [SQL](./SQL/Joins-And-Aggregation/warehouse-stock-manager/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `2026-10-01` |
 
 ---
 
