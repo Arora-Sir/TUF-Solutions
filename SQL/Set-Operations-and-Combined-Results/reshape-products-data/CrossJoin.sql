@@ -20,4 +20,4 @@ WHERE CASE s.store
     WHEN 'store2' THEN p.store2
     WHEN 'store3' THEN p.store3
 END IS NOT NULL
-ORDER BY p.product_id, s.store, price;
+ORDER BY p.product_id, s.store, price

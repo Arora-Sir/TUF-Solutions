@@ -1,4 +1,4 @@
-# [Reshape Products Data](https://takeuforward.org/practice/sql/reshape-products-data?source=sql---75-frequently-asked-interview-questions&category=set-operations-and-combined-results)
+# [Reshape Products Data](https://takeuforward.org/practice/sql/reshape-products-data?category=set-operations-and-combined-results&source=sql---75-frequently-asked-interview-questions)
 
 ![Difficulty: Basic](https://img.shields.io/badge/Difficulty-Basic-22c55e?style=for-the-badge)
 
