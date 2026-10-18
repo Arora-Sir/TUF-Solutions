@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **90** | 48 | 36 | 6 | `2026-10-17` |
+| **90** | 48 | 36 | 6 | `2026-10-18` |
 
 ---
 
@@ -85,7 +85,7 @@
 | 0018 | [Highest Order Placing Customer](./SQL/Aggregation-And-Grouping/highest-order-placing-customer) | [SQL](./SQL/Aggregation-And-Grouping/highest-order-placing-customer/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
 | 0019 | [Inactive Customers](./SQL/Subqueries-and-Missing-Records/inactive-customers) | [NotExists-Prod](./SQL/Subqueries-and-Missing-Records/inactive-customers/NotExists-Prod.sql) | 🟢 Easy | `Subqueries-and-Missing-Records` | `2026-10-06` |
 | 0020 | [Inactive Sellers](./SQL/Subqueries-and-Missing-Records/inactive-sellers) | [LeftJoin](./SQL/Subqueries-and-Missing-Records/inactive-sellers/LeftJoin.sql) [NotIn](./SQL/Subqueries-and-Missing-Records/inactive-sellers/NotIn.sql) | 🟢 Easy | `Subqueries-and-Missing-Records` | `2026-10-12` |
-| 0021 | [Incomplete Employee Records](./SQL/Set-Operations-and-Combined-Results/incomplete-employee-records) | [Union](./SQL/Set-Operations-and-Combined-Results/incomplete-employee-records/Union.sql) | 🟢 Easy | `Set-Operations-and-Combined-Results` | `2026-10-17` |
+| 0021 | [Incomplete Employee Records](./SQL/Set-Operations-And-Combined-Results/incomplete-employee-records) | [Union](./SQL/Set-Operations-And-Combined-Results/incomplete-employee-records/Union.sql) [GroupBy](./SQL/Set-Operations-And-Combined-Results/incomplete-employee-records/GroupBy.sql) | 🟢 Easy | `Set-Operations-And-Combined-Results` | `2026-10-18` |
 | 0022 | [Instant Food Delivery](./SQL/Conditional-Logic-And-Calculations/instant-food-delivery) | [SQL](./SQL/Conditional-Logic-And-Calculations/instant-food-delivery/solution.sql) | 🟢 Easy | `Conditional-Logic-And-Calculations` | `2026-09-24` |
 | 0023 | [Large Classes](./SQL/Aggregation-And-Grouping/large-classes) | [SQL](./SQL/Aggregation-And-Grouping/large-classes/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
 | 0024 | [Low Bonus Employees](./SQL/Joins-And-Aggregation/low-bonus-employees) | [SQL](./SQL/Joins-And-Aggregation/low-bonus-employees/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `2026-10-01` |
