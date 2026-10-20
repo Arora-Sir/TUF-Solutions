@@ -1,5 +1,7 @@
 -- no need to add t or m anywhere because we already did a left join so all of the team_id will be here in left join table already
 
+-- An OR condition in a join prevents the query planner from using standard single-column indexes efficiently.
+
 SELECT t.team_id, t.team_name,
         SUM( 
           CASE 
@@ -11,5 +13,5 @@ SELECT t.team_id, t.team_name,
         ) AS num_points
 FROM Teams t
 LEFT JOIN Matches m ON t.team_id IN (m.host_team, m.guest_team)
-GROUP BY team_id,team_name
+GROUP BY t.team_id,t.team_name
 ORDER BY num_points DESC, t.team_id ASC;
