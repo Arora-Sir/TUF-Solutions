@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **92** | 48 | 38 | 6 | `2026-10-20` |
+| **92** | 48 | 38 | 6 | `2026-10-21` |
 
 ---
 
@@ -79,7 +79,7 @@
 | 0012 | [Exceeding Tweet Length](./SQL/Querying-And-Filtering/exceeding-tweet-length) | [SQL](./SQL/Querying-And-Filtering/exceeding-tweet-length/solution.sql) | 🟢 Easy | `Querying-And-Filtering` | `2026-09-23` |
 | 0013 | [Find Quiet Students in All Exams](./SQL/Subqueries-And-Missing-Records/find-quiet-students-in-all-exams) | [NotInJoin](./SQL/Subqueries-And-Missing-Records/find-quiet-students-in-all-exams/NotInJoin.sql) [WinFn](./SQL/Subqueries-And-Missing-Records/find-quiet-students-in-all-exams/WinFn.sql) | 🟡 Medium | `Subqueries-And-Missing-Records` | `2026-10-15` |
 | 0014 | [First Login Analysis](./SQL/Aggregation-And-Grouping/first-login-analysis) | [SQL](./SQL/Aggregation-And-Grouping/first-login-analysis/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
-| 0015 | [Football Team Scores](./SQL/Set-Operations-and-Combined-Results/football-team-scores) | [LeftJoin](./SQL/Set-Operations-and-Combined-Results/football-team-scores/LeftJoin.sql) [JoinUnionProd](./SQL/Set-Operations-and-Combined-Results/football-team-scores/JoinUnionProd.sql) | ⚪ Unspecified | `Set-Operations-and-Combined-Results` | `2026-10-20` |
+| 0015 | [Football Team Scores](./SQL/Set-Operations-and-Combined-Results/football-team-scores) | [LeftJoin](./SQL/Set-Operations-and-Combined-Results/football-team-scores/LeftJoin.sql) [JoinUnionProd](./SQL/Set-Operations-and-Combined-Results/football-team-scores/JoinUnionProd.sql) | ⚪ Unspecified | `Set-Operations-and-Combined-Results` | `2026-10-21` |
 | 0016 | [Frequent Actor-Director Duos](./SQL/Aggregation-And-Grouping/frequent-actor-director-duos) | [SQL](./SQL/Aggregation-And-Grouping/frequent-actor-director-duos/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
 | 0017 | [High-Report Managers](./SQL/Self-Joins-And-Relationship-Queries/high-report-managers) | [SelfJoin](./SQL/Self-Joins-And-Relationship-Queries/high-report-managers/SelfJoin.sql) [SubqueryWithIN](./SQL/Self-Joins-And-Relationship-Queries/high-report-managers/SubqueryWithIN.sql) | 🟡 Medium | `Self-Joins-And-Relationship-Queries` | `2026-10-02` |
 | 0018 | [Highest Non-Repeating Number](./SQL/Aggregation-And-Grouping/highest-non-repeating-number) | [OuterSelect](./SQL/Aggregation-And-Grouping/highest-non-repeating-number/OuterSelect.sql) [UsingMaxInsideFrom](./SQL/Aggregation-And-Grouping/highest-non-repeating-number/UsingMaxInsideFrom.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |

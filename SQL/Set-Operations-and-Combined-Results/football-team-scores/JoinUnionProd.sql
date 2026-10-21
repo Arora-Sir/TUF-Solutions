@@ -1,4 +1,4 @@
--- Production code because it uses ON t.team_id = m.team_id, and two seperate queries for fast index lookups using UNION ALL and sum them together
+-- Production code because it uses ON t.team_id=m.team_id, and two seperate queries for fast index lookups using UNION ALL and sum them together
 
 SELECT t.team_id, t.team_name, COALESCE(SUM(m.points), 0) AS num_points
 FROM Teams t
