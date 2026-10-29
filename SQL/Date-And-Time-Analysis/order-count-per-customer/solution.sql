@@ -2,6 +2,8 @@ SELECT c.customer_id, c.name
 FROM Customers c
 JOIN Orders o ON o.customer_id=c.customer_id 
 JOIN Product p ON p.product_id=o.product_id
+-- Can be optimized (Speed up the query) by adding the WHERE clause here with order dates in between to filter data before Joining
+WHERE o.order_date BETWEEN '2020-06-01' AND '2020-07-31'
 GROUP BY c.customer_id, c.name
 HAVING 
     -- SUM(CASE WHEN LEFT(o.order_date, 7) = '2020-06' 
