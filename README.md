@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **101** | 48 | 47 | 6 | `2026-11-01` |
+| **102** | 48 | 48 | 6 | `2026-11-02` |
 
 ---
 
@@ -61,7 +61,7 @@
 | 0043 | [Search in BST](./DSA/Trees/search-in-bst) | [JAVA](./DSA/Trees/search-in-bst/solution.java) | 🟢 Easy | `Trees` | `2026-09-23` |
 | 0044 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `Linked-List` | `2026-09-23` |
 
-### SQL (57)
+### SQL (58)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -114,14 +114,15 @@
 | 0047 | [Swap Consecutive Seats](./SQL/Conditional-Logic-And-Calculations/swap-consecutive-seats) | [SQL](./SQL/Conditional-Logic-And-Calculations/swap-consecutive-seats/solution.sql) | 🟡 Medium | `Conditional-Logic-And-Calculations` | `2026-09-27` |
 | 0048 | [Table Join Operation](./SQL/Joins-And-Aggregation/table-join-operation) | [SQL](./SQL/Joins-And-Aggregation/table-join-operation/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `2026-09-29` |
 | 0049 | [Tennis Grand Slam Winners](./SQL/Set-Operations-And-Combined-Results/tennis-grand-slam-winners) | [FromUnion](./SQL/Set-Operations-And-Combined-Results/tennis-grand-slam-winners/FromUnion.sql) [Join](./SQL/Set-Operations-And-Combined-Results/tennis-grand-slam-winners/Join.sql) | ⚪ Unspecified | `Set-Operations-And-Combined-Results` | `2026-10-19` |
-| 0050 | [Top Ratings in Feb 2020](./SQL/Set-Operations-And-Combined-Results/top-ratings-in-feb-2020) | [AggregateJoin](./SQL/Set-Operations-And-Combined-Results/top-ratings-in-feb-2020/AggregateJoin.sql) [Join](./SQL/Set-Operations-And-Combined-Results/top-ratings-in-feb-2020/Join.sql) | ⚪ Unspecified | `Set-Operations-And-Combined-Results` | `2026-10-23` |
-| 0051 | [Unique Subjects per Teacher](./SQL/Aggregation-And-Grouping/unique-subjects-per-teacher) | [SQL](./SQL/Aggregation-And-Grouping/unique-subjects-per-teacher/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
-| 0052 | [Updated Bank Balances](./SQL/Joins-And-Aggregation/updated-bank-balances) | [SQL](./SQL/Joins-And-Aggregation/updated-bank-balances/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `2026-10-01` |
-| 0053 | [User Follower Count](./SQL/Aggregation-And-Grouping/user-follower-count) | [SQL](./SQL/Aggregation-And-Grouping/user-follower-count/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
-| 0054 | [Valid Triangle Check](./SQL/Conditional-Logic-And-Calculations/valid-triangle-check) | [SQL](./SQL/Conditional-Logic-And-Calculations/valid-triangle-check/solution.sql) | 🟢 Easy | `Conditional-Logic-And-Calculations` | `2026-09-23` |
-| 0055 | [Visitors Without Transactions](./SQL/Subqueries-And-Missing-Records/visitors-without-transactions) | [SQL](./SQL/Subqueries-And-Missing-Records/visitors-without-transactions/solution.sql) | 🟢 Easy | `Subqueries-And-Missing-Records` | `2026-10-07` |
-| 0056 | [Warehouse Stock Manager](./SQL/Joins-And-Aggregation/warehouse-stock-manager) | [SQL](./SQL/Joins-And-Aggregation/warehouse-stock-manager/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `2026-10-01` |
-| 0057 | [Warmer Days](./SQL/Date-And-Time-Analysis/warmer-days) | [Date_Add](./SQL/Date-And-Time-Analysis/warmer-days/Date_Add.sql) | ⚪ Unspecified | `Date-And-Time-Analysis` | `2026-10-26` |
+| 0050 | [Top Grade per Student](./SQL/Ranking-And-Top-N-Queries/top-grade-per-student) | [WhereIn](./SQL/Ranking-And-Top-N-Queries/top-grade-per-student/WhereIn.sql) | ⚪ Unspecified | `Ranking-And-Top-N-Queries` | `2026-11-02` |
+| 0051 | [Top Ratings in Feb 2020](./SQL/Set-Operations-And-Combined-Results/top-ratings-in-feb-2020) | [AggregateJoin](./SQL/Set-Operations-And-Combined-Results/top-ratings-in-feb-2020/AggregateJoin.sql) [Join](./SQL/Set-Operations-And-Combined-Results/top-ratings-in-feb-2020/Join.sql) | ⚪ Unspecified | `Set-Operations-And-Combined-Results` | `2026-10-23` |
+| 0052 | [Unique Subjects per Teacher](./SQL/Aggregation-And-Grouping/unique-subjects-per-teacher) | [SQL](./SQL/Aggregation-And-Grouping/unique-subjects-per-teacher/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
+| 0053 | [Updated Bank Balances](./SQL/Joins-And-Aggregation/updated-bank-balances) | [SQL](./SQL/Joins-And-Aggregation/updated-bank-balances/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `2026-10-01` |
+| 0054 | [User Follower Count](./SQL/Aggregation-And-Grouping/user-follower-count) | [SQL](./SQL/Aggregation-And-Grouping/user-follower-count/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
+| 0055 | [Valid Triangle Check](./SQL/Conditional-Logic-And-Calculations/valid-triangle-check) | [SQL](./SQL/Conditional-Logic-And-Calculations/valid-triangle-check/solution.sql) | 🟢 Easy | `Conditional-Logic-And-Calculations` | `2026-09-23` |
+| 0056 | [Visitors Without Transactions](./SQL/Subqueries-And-Missing-Records/visitors-without-transactions) | [SQL](./SQL/Subqueries-And-Missing-Records/visitors-without-transactions/solution.sql) | 🟢 Easy | `Subqueries-And-Missing-Records` | `2026-10-07` |
+| 0057 | [Warehouse Stock Manager](./SQL/Joins-And-Aggregation/warehouse-stock-manager) | [SQL](./SQL/Joins-And-Aggregation/warehouse-stock-manager/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `2026-10-01` |
+| 0058 | [Warmer Days](./SQL/Date-And-Time-Analysis/warmer-days) | [Date_Add](./SQL/Date-And-Time-Analysis/warmer-days/Date_Add.sql) | ⚪ Unspecified | `Date-And-Time-Analysis` | `2026-10-26` |
 
 ---
 
