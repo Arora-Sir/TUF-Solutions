@@ -7,4 +7,5 @@ WITH Ranked AS
 )
 SELECT project_id, employee_id
 FROM Ranked
-WHERE exp_rank=1;
+WHERE exp_rank=1
+ORDER BY project_id,employee_id;
