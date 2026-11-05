@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **104** | 48 | 50 | 6 | `2026-11-03` |
+| **104** | 48 | 50 | 6 | `2026-11-05` |
 
 ---
 
@@ -79,7 +79,7 @@
 | 0012 | [Employees with the Highest Salary in Each Department](./SQL/Ranking-And-Top-N-Queries/employees-with-the-highest-salary-in-each-department) | [SQL](./SQL/Ranking-And-Top-N-Queries/employees-with-the-highest-salary-in-each-department/solution.sql) | ⚪ Unspecified | `Ranking-And-Top-N-Queries` | `2026-11-01` |
 | 0013 | [Exceeding Tweet Length](./SQL/Querying-And-Filtering/exceeding-tweet-length) | [SQL](./SQL/Querying-And-Filtering/exceeding-tweet-length/solution.sql) | 🟢 Easy | `Querying-And-Filtering` | `2026-09-23` |
 | 0014 | [Find Quiet Students in All Exams](./SQL/Subqueries-And-Missing-Records/find-quiet-students-in-all-exams) | [NotInJoin](./SQL/Subqueries-And-Missing-Records/find-quiet-students-in-all-exams/NotInJoin.sql) [WinFn](./SQL/Subqueries-And-Missing-Records/find-quiet-students-in-all-exams/WinFn.sql) | 🟡 Medium | `Subqueries-And-Missing-Records` | `2026-10-15` |
-| 0015 | [Find the First Device Logged In by Each Player](./SQL/Ranking-and-Top-N-Queries/find-the-first-device-logged-in-by-each-player) | [SQL](./SQL/Ranking-and-Top-N-Queries/find-the-first-device-logged-in-by-each-player/solution.sql) [WinFn](./SQL/Ranking-and-Top-N-Queries/find-the-first-device-logged-in-by-each-player/WinFn.sql) | ⚪ Unspecified | `Ranking-and-Top-N-Queries` | `2026-11-03` |
+| 0015 | [Find the First Device Logged In by Each Player](./SQL/Ranking-and-Top-N-Queries/find-the-first-device-logged-in-by-each-player) | [WinFn](./SQL/Ranking-and-Top-N-Queries/find-the-first-device-logged-in-by-each-player/WinFn.sql) | ⚪ Unspecified | `Ranking-and-Top-N-Queries` | `2026-11-03` |
 | 0016 | [First Login Analysis](./SQL/Aggregation-And-Grouping/first-login-analysis) | [SQL](./SQL/Aggregation-And-Grouping/first-login-analysis/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
 | 0017 | [Football Team Scores](./SQL/Set-Operations-and-Combined-Results/football-team-scores) | [JoinUnionProd](./SQL/Set-Operations-and-Combined-Results/football-team-scores/JoinUnionProd.sql) [LeftJoin](./SQL/Set-Operations-and-Combined-Results/football-team-scores/LeftJoin.sql) | ⚪ Unspecified | `Set-Operations-and-Combined-Results` | `2026-10-21` |
 | 0018 | [Frequent Actor-Director Duos](./SQL/Aggregation-And-Grouping/frequent-actor-director-duos) | [SQL](./SQL/Aggregation-And-Grouping/frequent-actor-director-duos/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
@@ -88,8 +88,8 @@
 | 0021 | [Highest Order Placing Customer](./SQL/Aggregation-And-Grouping/highest-order-placing-customer) | [SQL](./SQL/Aggregation-And-Grouping/highest-order-placing-customer/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
 | 0022 | [Immediate First Orders Percentage](./SQL/Date-And-Time-Analysis/immediate-first-orders-percentage) | [Solution-1](./SQL/Date-And-Time-Analysis/immediate-first-orders-percentage/Solution-1.sql) [WinFn](./SQL/Date-And-Time-Analysis/immediate-first-orders-percentage/WinFn.sql) [SQL](./SQL/Date-And-Time-Analysis/immediate-first-orders-percentage/solution.sql) | ⚪ Unspecified | `Date-And-Time-Analysis` | `2026-10-30` |
 | 0023 | [Inactive Customers](./SQL/Subqueries-and-Missing-Records/inactive-customers) | [NotExists-Prod](./SQL/Subqueries-and-Missing-Records/inactive-customers/NotExists-Prod.sql) | 🟢 Easy | `Subqueries-and-Missing-Records` | `2026-10-06` |
-| 0024 | [Inactive Sellers](./SQL/Subqueries-and-Missing-Records/inactive-sellers) | [LeftJoin](./SQL/Subqueries-and-Missing-Records/inactive-sellers/LeftJoin.sql) [NotIn](./SQL/Subqueries-and-Missing-Records/inactive-sellers/NotIn.sql) | 🟢 Easy | `Subqueries-and-Missing-Records` | `2026-10-12` |
-| 0025 | [Incomplete Employee Records](./SQL/Set-Operations-And-Combined-Results/incomplete-employee-records) | [GroupBy](./SQL/Set-Operations-And-Combined-Results/incomplete-employee-records/GroupBy.sql) [Union](./SQL/Set-Operations-And-Combined-Results/incomplete-employee-records/Union.sql) | 🟢 Easy | `Set-Operations-And-Combined-Results` | `2026-10-18` |
+| 0024 | [Inactive Sellers](./SQL/Subqueries-and-Missing-Records/inactive-sellers) | [LeftJoin](./SQL/Subqueries-and-Missing-Records/inactive-sellers/LeftJoin.sql) | 🟢 Easy | `Subqueries-and-Missing-Records` | `2026-10-12` |
+| 0025 | [Incomplete Employee Records](./SQL/Set-Operations-and-Combined-Results/incomplete-employee-records) | [Union](./SQL/Set-Operations-and-Combined-Results/incomplete-employee-records/Union.sql) | 🟢 Easy | `Set-Operations-and-Combined-Results` | `2026-10-17` |
 | 0026 | [Instant Food Delivery](./SQL/Conditional-Logic-And-Calculations/instant-food-delivery) | [SQL](./SQL/Conditional-Logic-And-Calculations/instant-food-delivery/solution.sql) | 🟢 Easy | `Conditional-Logic-And-Calculations` | `2026-09-24` |
 | 0027 | [Kid-Friendly Movies in Last Month](./SQL/Date-and-Time-Analysis/kid-friendly-movies-in-last-month) | [SQL](./SQL/Date-and-Time-Analysis/kid-friendly-movies-in-last-month/solution.sql) | ⚪ Unspecified | `Date-and-Time-Analysis` | `2026-10-25` |
 | 0028 | [Large Classes](./SQL/Aggregation-And-Grouping/large-classes) | [SQL](./SQL/Aggregation-And-Grouping/large-classes/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `2026-09-23` |
