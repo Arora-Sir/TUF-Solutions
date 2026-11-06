@@ -1,6 +1,6 @@
 # [Immediate First Orders Percentage](https://takeuforward.org/practice/sql/immediate-first-orders-percentage?category=date-and-time-analysis&source=sql---75-frequently-asked-interview-questions)
 
-![Difficulty: Unspecified](https://img.shields.io/badge/Difficulty-Unspecified-6b7280?style=for-the-badge)
+![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
 ---
 

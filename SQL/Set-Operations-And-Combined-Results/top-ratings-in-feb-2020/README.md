@@ -1,6 +1,6 @@
 # [Top Ratings in Feb 2020](https://takeuforward.org/practice/sql/top-ratings-in-feb-2020?source=sql---75-frequently-asked-interview-questions&category=set-operations-and-combined-results)
 
-![Difficulty: Unspecified](https://img.shields.io/badge/Difficulty-Unspecified-6b7280?style=for-the-badge)
+![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
 ---
 

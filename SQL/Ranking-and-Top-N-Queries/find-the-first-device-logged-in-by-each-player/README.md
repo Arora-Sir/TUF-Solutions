@@ -1,6 +1,6 @@
 # [Find the First Device Logged In by Each Player](https://takeuforward.org/practice/sql/find-the-first-device-logged-in-by-each-player?category=ranking-and-top-n-queries&source=sql---75-frequently-asked-interview-questions&sidebar=0)
 
-![Difficulty: Unspecified](https://img.shields.io/badge/Difficulty-Unspecified-6b7280?style=for-the-badge)
+![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
 ---
 

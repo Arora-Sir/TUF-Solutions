@@ -1,6 +1,6 @@
 # [Warmer Days](https://takeuforward.org/practice/sql/warmer-days?category=date-and-time-analysis&source=sql---75-frequently-asked-interview-questions)
 
-![Difficulty: Unspecified](https://img.shields.io/badge/Difficulty-Unspecified-6b7280?style=for-the-badge)
+![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
 ---
 

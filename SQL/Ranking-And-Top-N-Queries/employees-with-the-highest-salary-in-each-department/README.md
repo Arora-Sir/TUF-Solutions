@@ -1,6 +1,6 @@
 # [Employees with the Highest Salary in Each Department](https://takeuforward.org/practice/sql/employees-with-the-highest-salary-in-each-department?category=ranking-and-top-n-queries&source=sql---75-frequently-asked-interview-questions&sidebar=0)
 
-![Difficulty: Unspecified](https://img.shields.io/badge/Difficulty-Unspecified-6b7280?style=for-the-badge)
+![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-eab308?style=for-the-badge)
 
 ---
 
