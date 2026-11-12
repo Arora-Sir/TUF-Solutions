@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **111** | 49 | 55 | 7 | `2026-11-11` |
+| **112** | 49 | 56 | 7 | `2026-11-12` |
 
 ---
 
@@ -61,7 +61,7 @@
 | 0043 | [Search in BST](./DSA/Trees/search-in-bst) | [JAVA](./DSA/Trees/search-in-bst/solution.java) | 🟢 Easy | `Trees` | `-` |
 | 0044 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-linked-list/solution.java) | 🟡 Medium | `Linked-List` | `-` |
 
-### SQL (68)
+### SQL (69)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -113,26 +113,27 @@
 | 0046 | [Profitable Customers in 2021](./SQL/Querying-And-Filtering/profitable-customers-in-2021) | [SQL](./SQL/Querying-And-Filtering/profitable-customers-in-2021/solution.sql) | 🟢 Easy | `Querying-And-Filtering` | `-` |
 | 0047 | [Query Quality Analysis](./SQL/Conditional-Logic-And-Calculations/query-quality-analysis) | [SQL](./SQL/Conditional-Logic-And-Calculations/query-quality-analysis/solution.sql) | 🟢 Easy | `Conditional-Logic-And-Calculations` | `-` |
 | 0048 | [Reshape Products Data](./SQL/Set-Operations-and-Combined-Results/reshape-products-data) | [CrossJoin](./SQL/Set-Operations-and-Combined-Results/reshape-products-data/CrossJoin.sql) [Union](./SQL/Set-Operations-and-Combined-Results/reshape-products-data/Union.sql) | 🟢 Easy | `Set-Operations-and-Combined-Results` | `-` |
-| 0049 | [Safe Investment Countries](./SQL/Set-Operations-And-Combined-Results/safe-investment-countries) | [Join](./SQL/Set-Operations-And-Combined-Results/safe-investment-countries/Join.sql) [UnionProd](./SQL/Set-Operations-And-Combined-Results/safe-investment-countries/UnionProd.sql) | ⚪ Unspecified | `Set-Operations-And-Combined-Results` | `-` |
-| 0050 | [Sales Analysis](./SQL/Joins-And-Aggregation/sales-analysis) | [SQL](./SQL/Joins-And-Aggregation/sales-analysis/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `-` |
-| 0051 | [Salespersons Without RED Orders](./SQL/Subqueries-And-Missing-Records/salespersons-without-red-orders) | [NotExists](./SQL/Subqueries-And-Missing-Records/salespersons-without-red-orders/NotExists.sql) [NotIn](./SQL/Subqueries-And-Missing-Records/salespersons-without-red-orders/NotIn.sql) | 🟢 Easy | `Subqueries-And-Missing-Records` | `-` |
-| 0052 | [Special Bonus Calculation](./SQL/Conditional-Logic-And-Calculations/special-bonus-calculation) | [SQL](./SQL/Conditional-Logic-And-Calculations/special-bonus-calculation/solution.sql) | 🟢 Easy | `Conditional-Logic-And-Calculations` | `-` |
-| 0053 | [Students Enrolled in Non-Existent Departments](./SQL/Subqueries-and-Missing-Records/students-enrolled-in-non-existent-departments) | [JoinWhereIsNull](./SQL/Subqueries-and-Missing-Records/students-enrolled-in-non-existent-departments/JoinWhereIsNull.sql) [NotExists-Prod](./SQL/Subqueries-and-Missing-Records/students-enrolled-in-non-existent-departments/NotExists-Prod.sql) [WhereNotIn](./SQL/Subqueries-and-Missing-Records/students-enrolled-in-non-existent-departments/WhereNotIn.sql) | 🟢 Easy | `Subqueries-and-Missing-Records` | `-` |
-| 0054 | [Suggested Pages](./SQL/Self-Joins-And-Relationship-Queries/suggested-pages) | [SQL](./SQL/Self-Joins-And-Relationship-Queries/suggested-pages/solution.sql) | 🟡 Medium | `Self-Joins-And-Relationship-Queries` | `-` |
-| 0055 | [Suspended Accounts](./SQL/Self-Joins-And-Relationship-Queries/suspended-accounts) | [SQL](./SQL/Self-Joins-And-Relationship-Queries/suspended-accounts/solution.sql) | 🟡 Medium | `Self-Joins-And-Relationship-Queries` | `-` |
-| 0056 | [Swap Consecutive Seats](./SQL/Conditional-Logic-And-Calculations/swap-consecutive-seats) | [SQL](./SQL/Conditional-Logic-And-Calculations/swap-consecutive-seats/solution.sql) | 🟡 Medium | `Conditional-Logic-And-Calculations` | `-` |
-| 0057 | [Table Join Operation](./SQL/Joins-And-Aggregation/table-join-operation) | [SQL](./SQL/Joins-And-Aggregation/table-join-operation/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `-` |
-| 0058 | [Tennis Grand Slam Winners](./SQL/Set-Operations-And-Combined-Results/tennis-grand-slam-winners) | [FromUnion](./SQL/Set-Operations-And-Combined-Results/tennis-grand-slam-winners/FromUnion.sql) [Join](./SQL/Set-Operations-And-Combined-Results/tennis-grand-slam-winners/Join.sql) | ⚪ Unspecified | `Set-Operations-And-Combined-Results` | `-` |
-| 0059 | [Top 3 Salaries per Department](./SQL/Ranking-and-Top-N-Queries/top-3-salaries-per-department) | [SQL](./SQL/Ranking-and-Top-N-Queries/top-3-salaries-per-department/solution.sql) | 🔴 Hard | `Ranking-and-Top-N-Queries` | `2026-11-09` |
-| 0060 | [Top Grade per Student](./SQL/Ranking-And-Top-N-Queries/top-grade-per-student) | [WhereIn](./SQL/Ranking-And-Top-N-Queries/top-grade-per-student/WhereIn.sql) [WithAs](./SQL/Ranking-And-Top-N-Queries/top-grade-per-student/WithAs.sql) | ⚪ Unspecified | `Ranking-And-Top-N-Queries` | `-` |
-| 0061 | [Top Ratings in Feb 2020](./SQL/Set-Operations-And-Combined-Results/top-ratings-in-feb-2020) | [AggregateJoin](./SQL/Set-Operations-And-Combined-Results/top-ratings-in-feb-2020/AggregateJoin.sql) [Join](./SQL/Set-Operations-And-Combined-Results/top-ratings-in-feb-2020/Join.sql) | ⚪ Unspecified | `Set-Operations-And-Combined-Results` | `-` |
-| 0062 | [Unique Subjects per Teacher](./SQL/Aggregation-And-Grouping/unique-subjects-per-teacher) | [SQL](./SQL/Aggregation-And-Grouping/unique-subjects-per-teacher/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `-` |
-| 0063 | [Updated Bank Balances](./SQL/Joins-And-Aggregation/updated-bank-balances) | [SQL](./SQL/Joins-And-Aggregation/updated-bank-balances/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `-` |
-| 0064 | [User Follower Count](./SQL/Aggregation-And-Grouping/user-follower-count) | [SQL](./SQL/Aggregation-And-Grouping/user-follower-count/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `-` |
-| 0065 | [Valid Triangle Check](./SQL/Conditional-Logic-And-Calculations/valid-triangle-check) | [SQL](./SQL/Conditional-Logic-And-Calculations/valid-triangle-check/solution.sql) | 🟢 Easy | `Conditional-Logic-And-Calculations` | `-` |
-| 0066 | [Visitors Without Transactions](./SQL/Subqueries-And-Missing-Records/visitors-without-transactions) | [SQL](./SQL/Subqueries-And-Missing-Records/visitors-without-transactions/solution.sql) | 🟢 Easy | `Subqueries-And-Missing-Records` | `-` |
-| 0067 | [Warehouse Stock Manager](./SQL/Joins-And-Aggregation/warehouse-stock-manager) | [SQL](./SQL/Joins-And-Aggregation/warehouse-stock-manager/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `-` |
-| 0068 | [Warmer Days](./SQL/Date-And-Time-Analysis/warmer-days) | [Date_Add](./SQL/Date-And-Time-Analysis/warmer-days/Date_Add.sql) | ⚪ Unspecified | `Date-And-Time-Analysis` | `-` |
+| 0049 | [Restaurant Payment Trends](./SQL/Window-Functions-Pre/restaurant-payment-trends) | [CTE](./SQL/Window-Functions-Pre/restaurant-payment-trends/CTE.sql) | 🟡 Medium | `Window-Functions-Pre` | `2026-11-12` |
+| 0050 | [Safe Investment Countries](./SQL/Set-Operations-And-Combined-Results/safe-investment-countries) | [Join](./SQL/Set-Operations-And-Combined-Results/safe-investment-countries/Join.sql) [UnionProd](./SQL/Set-Operations-And-Combined-Results/safe-investment-countries/UnionProd.sql) | ⚪ Unspecified | `Set-Operations-And-Combined-Results` | `-` |
+| 0051 | [Sales Analysis](./SQL/Joins-And-Aggregation/sales-analysis) | [SQL](./SQL/Joins-And-Aggregation/sales-analysis/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `-` |
+| 0052 | [Salespersons Without RED Orders](./SQL/Subqueries-And-Missing-Records/salespersons-without-red-orders) | [NotExists](./SQL/Subqueries-And-Missing-Records/salespersons-without-red-orders/NotExists.sql) [NotIn](./SQL/Subqueries-And-Missing-Records/salespersons-without-red-orders/NotIn.sql) | 🟢 Easy | `Subqueries-And-Missing-Records` | `-` |
+| 0053 | [Special Bonus Calculation](./SQL/Conditional-Logic-And-Calculations/special-bonus-calculation) | [SQL](./SQL/Conditional-Logic-And-Calculations/special-bonus-calculation/solution.sql) | 🟢 Easy | `Conditional-Logic-And-Calculations` | `-` |
+| 0054 | [Students Enrolled in Non-Existent Departments](./SQL/Subqueries-and-Missing-Records/students-enrolled-in-non-existent-departments) | [JoinWhereIsNull](./SQL/Subqueries-and-Missing-Records/students-enrolled-in-non-existent-departments/JoinWhereIsNull.sql) [NotExists-Prod](./SQL/Subqueries-and-Missing-Records/students-enrolled-in-non-existent-departments/NotExists-Prod.sql) [WhereNotIn](./SQL/Subqueries-and-Missing-Records/students-enrolled-in-non-existent-departments/WhereNotIn.sql) | 🟢 Easy | `Subqueries-and-Missing-Records` | `-` |
+| 0055 | [Suggested Pages](./SQL/Self-Joins-And-Relationship-Queries/suggested-pages) | [SQL](./SQL/Self-Joins-And-Relationship-Queries/suggested-pages/solution.sql) | 🟡 Medium | `Self-Joins-And-Relationship-Queries` | `-` |
+| 0056 | [Suspended Accounts](./SQL/Self-Joins-And-Relationship-Queries/suspended-accounts) | [SQL](./SQL/Self-Joins-And-Relationship-Queries/suspended-accounts/solution.sql) | 🟡 Medium | `Self-Joins-And-Relationship-Queries` | `-` |
+| 0057 | [Swap Consecutive Seats](./SQL/Conditional-Logic-And-Calculations/swap-consecutive-seats) | [SQL](./SQL/Conditional-Logic-And-Calculations/swap-consecutive-seats/solution.sql) | 🟡 Medium | `Conditional-Logic-And-Calculations` | `-` |
+| 0058 | [Table Join Operation](./SQL/Joins-And-Aggregation/table-join-operation) | [SQL](./SQL/Joins-And-Aggregation/table-join-operation/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `-` |
+| 0059 | [Tennis Grand Slam Winners](./SQL/Set-Operations-And-Combined-Results/tennis-grand-slam-winners) | [FromUnion](./SQL/Set-Operations-And-Combined-Results/tennis-grand-slam-winners/FromUnion.sql) [Join](./SQL/Set-Operations-And-Combined-Results/tennis-grand-slam-winners/Join.sql) | ⚪ Unspecified | `Set-Operations-And-Combined-Results` | `-` |
+| 0060 | [Top 3 Salaries per Department](./SQL/Ranking-and-Top-N-Queries/top-3-salaries-per-department) | [SQL](./SQL/Ranking-and-Top-N-Queries/top-3-salaries-per-department/solution.sql) | 🔴 Hard | `Ranking-and-Top-N-Queries` | `2026-11-09` |
+| 0061 | [Top Grade per Student](./SQL/Ranking-And-Top-N-Queries/top-grade-per-student) | [WhereIn](./SQL/Ranking-And-Top-N-Queries/top-grade-per-student/WhereIn.sql) [WithAs](./SQL/Ranking-And-Top-N-Queries/top-grade-per-student/WithAs.sql) | ⚪ Unspecified | `Ranking-And-Top-N-Queries` | `-` |
+| 0062 | [Top Ratings in Feb 2020](./SQL/Set-Operations-And-Combined-Results/top-ratings-in-feb-2020) | [AggregateJoin](./SQL/Set-Operations-And-Combined-Results/top-ratings-in-feb-2020/AggregateJoin.sql) [Join](./SQL/Set-Operations-And-Combined-Results/top-ratings-in-feb-2020/Join.sql) | ⚪ Unspecified | `Set-Operations-And-Combined-Results` | `-` |
+| 0063 | [Unique Subjects per Teacher](./SQL/Aggregation-And-Grouping/unique-subjects-per-teacher) | [SQL](./SQL/Aggregation-And-Grouping/unique-subjects-per-teacher/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `-` |
+| 0064 | [Updated Bank Balances](./SQL/Joins-And-Aggregation/updated-bank-balances) | [SQL](./SQL/Joins-And-Aggregation/updated-bank-balances/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `-` |
+| 0065 | [User Follower Count](./SQL/Aggregation-And-Grouping/user-follower-count) | [SQL](./SQL/Aggregation-And-Grouping/user-follower-count/solution.sql) | 🟢 Easy | `Aggregation-And-Grouping` | `-` |
+| 0066 | [Valid Triangle Check](./SQL/Conditional-Logic-And-Calculations/valid-triangle-check) | [SQL](./SQL/Conditional-Logic-And-Calculations/valid-triangle-check/solution.sql) | 🟢 Easy | `Conditional-Logic-And-Calculations` | `-` |
+| 0067 | [Visitors Without Transactions](./SQL/Subqueries-And-Missing-Records/visitors-without-transactions) | [SQL](./SQL/Subqueries-And-Missing-Records/visitors-without-transactions/solution.sql) | 🟢 Easy | `Subqueries-And-Missing-Records` | `-` |
+| 0068 | [Warehouse Stock Manager](./SQL/Joins-And-Aggregation/warehouse-stock-manager) | [SQL](./SQL/Joins-And-Aggregation/warehouse-stock-manager/solution.sql) | 🟢 Easy | `Joins-And-Aggregation` | `-` |
+| 0069 | [Warmer Days](./SQL/Date-And-Time-Analysis/warmer-days) | [Date_Add](./SQL/Date-And-Time-Analysis/warmer-days/Date_Add.sql) | ⚪ Unspecified | `Date-And-Time-Analysis` | `-` |
 
 ---
 
