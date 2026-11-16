@@ -16,5 +16,5 @@ RankedTasks AS(
 )
 SELECT period_state, MIN(task_date) AS start_date, MAX(task_date) AS end_date
 FROM RankedTasks
-GROUP BY period_state, DATE_SUB(task_date, INTERVAL rn DAY)
+GROUP BY period_state, DATE_SUB(task_date, INTERVAL rn DAY) -- Similar as Gaps & Island problem where gaps of 1 day will group as one, and 2 days as other group...Giving us a particular date for a group after substracting the row numbers (Island), i.e the row number increase and the date also increase giving us same islands.
 ORDER BY start_date;
