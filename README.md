@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **118** | 50 | 60 | 8 | `2026-11-19` |
+| **118** | 50 | 60 | 8 | `2026-11-20` |
 
 ---
 
@@ -79,7 +79,7 @@
 | 0012 | [Employees Earning More Than Their Manager](./SQL/Self-Joins-And-Relationship-Queries/employees-earning-more-than-their-manager) | [SQL](./SQL/Self-Joins-And-Relationship-Queries/employees-earning-more-than-their-manager/solution.sql) | 🟢 Easy | `Self-Joins-And-Relationship-Queries` | `2026-10-02` |
 | 0013 | [Employees with the Highest Salary in Each Department](./SQL/Ranking-And-Top-N-Queries/employees-with-the-highest-salary-in-each-department) | [SQL](./SQL/Ranking-And-Top-N-Queries/employees-with-the-highest-salary-in-each-department/solution.sql) | ⚪ Unspecified | `Ranking-and-Top-N-Queries` | `2026-11-06` |
 | 0014 | [Exceeding Tweet Length](./SQL/Querying-And-Filtering/exceeding-tweet-length) | [SQL](./SQL/Querying-And-Filtering/exceeding-tweet-length/solution.sql) | 🟢 Easy | `Querying-and-Filtering` | `2026-09-23` |
-| 0015 | [Find All Employees Reporting to the Head of the Company](./SQL/Ctes-and-Hierarchies/find-all-employees-reporting-to-the-head-of-the-company) | [Join](./SQL/Ctes-and-Hierarchies/find-all-employees-reporting-to-the-head-of-the-company/Join.sql) | 🟡 Medium | `Ctes-and-Hierarchies` | `2026-11-19` |
+| 0015 | [Find All Employees Reporting to the Head of the Company](./SQL/Ctes-and-Hierarchies/find-all-employees-reporting-to-the-head-of-the-company) | [Join](./SQL/Ctes-and-Hierarchies/find-all-employees-reporting-to-the-head-of-the-company/Join.sql) [RecursiveCTE](./SQL/Ctes-and-Hierarchies/find-all-employees-reporting-to-the-head-of-the-company/RecursiveCTE.sql) | 🟡 Medium | `Ctes-and-Hierarchies` | `2026-11-20` |
 | 0016 | [Find Continuous Ranges in Logs](./SQL/Consecutive-Sequences-and-Ranges/find-continuous-ranges-in-logs) | [SQL](./SQL/Consecutive-Sequences-and-Ranges/find-continuous-ranges-in-logs/solution.sql) | 🟡 Medium | `Consecutive-Sequences-and-Ranges` | `2026-11-14` |
 | 0017 | [Find Quiet Students in All Exams](./SQL/Subqueries-And-Missing-Records/find-quiet-students-in-all-exams) | [NotInJoin](./SQL/Subqueries-And-Missing-Records/find-quiet-students-in-all-exams/NotInJoin.sql) [WinFn](./SQL/Subqueries-And-Missing-Records/find-quiet-students-in-all-exams/WinFn.sql) | 🟡 Medium | `Subqueries-and-Missing-Records` | `2026-10-15` |
 | 0018 | [Find Team Size for Each Employee](./SQL/Window-Functions-Pre/find-team-size-for-each-employee) | [CountOver](./SQL/Window-Functions-Pre/find-team-size-for-each-employee/CountOver.sql) [SelfJoin](./SQL/Window-Functions-Pre/find-team-size-for-each-employee/SelfJoin.sql) [WinFn](./SQL/Window-Functions-Pre/find-team-size-for-each-employee/WinFn.sql) | 🟢 Easy | `Window-Functions-Pre` | `2026-11-10` |
