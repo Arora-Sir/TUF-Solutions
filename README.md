@@ -6,7 +6,7 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **119** | 50 | 60 | 9 | `2026-11-23` |
+| **119** | 50 | 60 | 9 | `2026-11-24` |
 
 ---
 
@@ -145,7 +145,7 @@
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [Exceeding Tweet Length](./Core-Subject/General/exceeding-tweet-length) | [SQL](./Core-Subject/General/exceeding-tweet-length/solution.sql) | 🟢 Easy | `General` | `2026-11-22` |
-| 0002 | [Highest Order Placing Customer](./Core-Subject/General/highest-order-placing-customer) | [SQL](./Core-Subject/General/highest-order-placing-customer/solution.sql) [CTE](./Core-Subject/General/highest-order-placing-customer/CTE.sql) | 🟢 Easy | `General` | `2026-11-23` |
+| 0002 | [Highest Order Placing Customer](./Core-Subject/General/highest-order-placing-customer) | [SQL](./Core-Subject/General/highest-order-placing-customer/solution.sql) [CTE](./Core-Subject/General/highest-order-placing-customer/CTE.sql) [Solution-1](./Core-Subject/General/highest-order-placing-customer/Solution-1.sql) | 🟢 Easy | `General` | `2026-11-24` |
 
 ---
 
