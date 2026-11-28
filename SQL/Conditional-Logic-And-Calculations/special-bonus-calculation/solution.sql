@@ -6,4 +6,4 @@ SELECT employee_id,
   END AS bonus
 FROM Employees
 
--- ""= & !=" for exact match, and "Like/Not Like" for pattern matching
+-- "= & !=" for exact match, and "Like/Not Like" for pattern matching

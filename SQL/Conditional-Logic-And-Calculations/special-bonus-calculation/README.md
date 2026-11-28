@@ -1,6 +1,6 @@
-# [Special Bonus Calculation](https://takeuforward.org/practice/sql/special-bonus-calculation?category=conditional-logic-and-calculations&source=sql---75-frequently-asked-interview-questions)
+# [Special Bonus Calculation](https://takeuforward.org/practice/core-subject/special-bonus-calculation?subject=dbms-databases-and-sql-explained-deeply)
 
-![Difficulty: Basic](https://img.shields.io/badge/Difficulty-Basic-22c55e?style=for-the-badge)
+![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=for-the-badge)
 
 ---
 
